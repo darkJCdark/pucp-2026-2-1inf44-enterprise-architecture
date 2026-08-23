@@ -1,11 +1,140 @@
-. {
-	. {
-		. 
+. INTRODUCCION{
+	. "Una solucion tiene costo eficiente"{
+		. Me debe costar mas cuando tiene mayor uso
 	}
+	. En el curso, nos vamos a enfocar en la arquitectura de alto nivel que es la propuesta de solucion{
+		. Luego se implementa la arquitectura de solucion detallada
+	}
+	. TOGAF (The Open Group Architecture Framework){
+		. Es un marco de trabajo y una metodología líder a nivel mundial para el diseño, planificación y gestión de la arquitectura empresarial
+	}
+	. ROADMAP{
+		. Estrategia de como implementar una solucion
+		
+		. Es importante para un legacy para no impactar lo que ya funciona
+		. Es una solucion viable para llegar a un TO BE
+	}
+	. Examenes: Componente teorico
+	. TA{
+		. Semana 7: Presentacion de avance parcial
+		. Semana 14: Presentacion de avance final
+		
+		. Se define una empresa con 6 procesos/grupos conectados => Hay que conversar para saber lo que le duele a ambos
+		. Vamos a aprender procesos E2E de una empresa Retail
+	}
+	. Si se jala alguno de ellos, se jala el curso
 }
 
-. {
-	. {
-		. 
+. CAPÍTULO 1: CONCEPTOS TECNOLÓGICOS{
+	. EF: Cloud Computing: Modelos de servicios{
+			. On-Premises{
+				. Tiene varias tapas
+			}
+			. IaaS{
+				. Te ayuda a disponisar info
+				. Si mueves una Aplicacion aqui, no se aprovecha la nube
+			}
+			. PaaS{
+				. Se lleva la gestion del SO para que tu ten enfoques en la aplicacion
+				. Tengo un grado de libertad
+			}
+			. SaaS{
+				. Algo externo no la puedo cambiar
+				. Hay una forma externa de conectarme
+				. Ejemplo: Pasarela de pagos
+			}
+			
+			. Hoy con IA las empresas optan por desarrollar y no comprar
+	}
+	. Cloud Computing: Diferencia CaaS & FaaS{
+		. IaaS{
+			. Alquilamos maquinas virtuales
+			. No hay SO
+			. Hay mayor costo en acondicionarlo
+			. Es solo la infraestructura y si sobre eso quiero desplegar una funcion tengo que acondicionarlos
+		}
+		. CaaS{
+			. Ya hay cosas colocadas
+			. Sobre esa infraestructura voy a desplegar el container
+			
+			. El container siempre esta prendido
+		}
+		. FaaS{
+			. Tomo algo especifico que a mi me interesa que funcione en ese momento
+			. ¿Cuando uso un function? Depende del proceso
+			
+			. Para instanciarse, requiere las capacidades minimas; no tiene prendido todo
+		}
+	}
+	. Modelos despliegue{
+			. PUBLIC CLOUD{
+				. Compartes infraestructura con otras empresas
+			}
+			. PRIVATE CLOUD{
+				. La infraestructura es tuya
+				. Es mas cara
+			}
+			. HYBRID CLOUD{
+				. Hay un flujo transfronterizo
+				. Hay algunos de otros datos que no se puede dar en otro pais
+			}
+			. MULTI CLOUD{
+				. Hoy buscan conocimiento de varias nubes: GCP (interno: analitico y agentes de IA), Azure (interno), AWS (es el que mas se debe proteger)
+			}
+	}
+	. CONCEPTOS{
+		. Escalabilidad{
+			. Es crecimiento durante un tiempo pico
+		
+			. Horizontal{
+				. Es mas costosa
+			
+				. Estrategia a nivel de nodos de 1 000 -> 50 000
+			
+				. El balanceador de carga de los nodos
+				. Si un nodo usa el 70%, que se use el siguiente nodo
+			}
+			. Vertical
+		}
+		. ELASTICIDAD{
+			. Si mi demanda baja, debo consumir menos recursos
+		}
+		. Alta Disponibilidad{
+			. 2025: AWS no disponibe por 10h, asi que los externos no pueden transaccionar
+			
+			. Si replicas en 2 regiones diferentes, es pagar doble
+			
+			. Hay mucho costo estar en alta disponibilidad
+			
+			. RTO: Tiempo en el que no puedes estar con ese servicio
+		}
+	}
+	. Monitoreo Infraestructura y Aplicaciones{
+		. Monitoreo{
+			. Es reactivo
+			. Ya sabes lo que sucedio
+		}
+		. Observabilidad{
+			. Detectas patrones y actuas antes
+		}
+	}
+	. CASO{
+		. Centro de gravedad{
+			. Todos van a converger aqui
+			. Genera latencia o puntos de fallo
+		}
+		
+		. Cloud{
+			. Opcion a largo plazo
+			. No volvere a on-premise
+		}
+		. On-premise{
+			. Puede tomar 6 meses habilitarlo o desabilitarlo
+			
+			. Es una buena opcion, si se quiere maximizar ahora
+		}
+		. Hibrido{
+			. 
+		}
 	}
 }
