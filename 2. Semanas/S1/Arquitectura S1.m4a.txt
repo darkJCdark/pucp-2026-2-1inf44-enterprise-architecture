@@ -1,10 +1,761 @@
-Solo les pediría, si están comiendo algo, por favor si lo pueden guardar. Y si tienen sus celulares, si los pueden poner en modo silencio. Si quieren contestar, no hay ningún problema en que puedan hacerlo. Pueden salir del aula y contestan sin problema, ¿sí? Bien. A ver, lo primero que quería hacer era presentarme... Creo que esto no funcionó. Ah, sí, funcionó. Bueno, la mejor forma hoy día de presentarse es a través solamente de una plataforma, obviamente, que te ayuda a exponer toda tu carrera y experiencia profesional, y así como todos los logros que has tenido, ¿no? Esta es la plataforma de LinkedIn. Ahí me pueden buscar: Don Juan Carlos Chávez Roncalo. Eh, así rápidamente les puedo decir que, pues, hacía creo que más de 25 años estuve sentado igual que ustedes, porque también llevé esta carrera, la de Ingeniería Informática. Y a lo largo de estos 25 años, pues he ido, digamos, avanzando en diferentes, digamos, posiciones. Desde la parte de Developer, que antes más todo era un full stack, no había esta separación tan clara de especialización. Pero pasando por ser un Developer, un analista, en un momento estuve involucrado en el mundo de Testing también.
-
-Pasé al mundo más ya de gestión de proyectos. Hice, digamos, una ramificación por el tema de Inteligencia de Negocios, allá hace muchos años. Y luego, después de creo que de 10 años de experiencia, pues decidí llevar una maestría, pero no en tecnología. Entonces, les explico por qué. Porque creo que todo lo que es tecnología, para nosotros, tiene que ser algo inherente. No es algo que hoy día aprendo y mañana me olvido, no. Tiene que ser algo constante. No puedes vivir sin tecnología. Ese es el reto de esta carrera, ¿sí? Entonces, no requería algo en tecnología per se, porque casi todos los años siempre aprendí algo por mi cuenta. Depende si quieres aprenderlo por tu cuenta, si eres un aficionado, o si quieres, obviamente, llevar algún curso, también vale, ¿no? Pero lo que hice fue llevar una maestría en Administración. O sea, me salí un poco del mundo de Ingeniería y me fui al mundo más de Administración. ¿Y por qué hice eso? Porque quería entender a una empresa, no solo desde el punto de vista de los sistemas que maneja, sino desde el punto de vista más global, empresarial si quieres. Entonces aprendí temas de finanzas, de economía, de política, toda la parte más dura.
-
-Que hoy día me ayuda la posición que tengo en esta empresa, porque de eso vamos a tratar en este curso, porque vamos a hablar de Arquitectura Empresarial. Que Arquitectura Empresarial, al final de cuentas, si queremos resumirlo, es la toma de decisiones que yo voy realizando en algunos puntos del ciclo de vida de desarrollo de software, pero decisiones que son estratégicas. Pero para tomar una buena decisión, pues tengo que tener mucho conocimiento, y también, obviamente, tengo que conocer a la organización. Entonces, por eso, lo primero que les podría comentar es que si, aparte del tema de sistemas, que me imagino que lo vienen manejando, también se involucren y aprendan temas relacionados a otras materias. Los va a ayudar a tener una mejor decisión. Si es mejor conocer los procesos ahora, háganlo ahora. De hecho, en el curso vamos a aprender un end to end de un proceso. Vamos a escoger una empresa, un rubro, y vamos a aprender un end to end, y ahí todos van a participar. Así que de eso se trata primero: entender la organización desde sus procesos. Luego veremos la tecnología, y luego, obviamente, veremos la propuesta de solución. Pero primero es el proceso, ¿sí?
-
-Ya llevo casi 10 años, si no es un poco más, en temas de Arquitectura Empresarial. La verdad que ha sido un viaje bastante enriquecedor para mí. Cuando empecé no se hablaba mucho acerca de este tema, es más, solamente existía en algunas, vamos a decir, empresas acá en Perú. Creo que la que más era por ahí conocida era en PCP, y ahí nadie más hablaba de Arquitectura Empresarial. Ojo: en Perú, pero en otras partes del mundo, pues ya se venía hablando de eso. Pero hoy día ya no es eso. Yo creo que eso hoy día muchas empresas en bancas, seguros, retail, minería, educación, ya vienen hablando de temas de Arquitectura Empresarial. Entonces yo creo que ha sido muy acertado el hecho de que hayan incluido este curso dentro de la currícula, porque les abre a lo que es muy necesario hoy día en las organizaciones: el saber analizar para yo poder plantear una solución desde el punto de vista de diseño. Pueden conocer muchas tecnologías, pero todo depende de qué cosas plantean. Y este curso lo que busca es eso: desarrollar ese pensamiento analítico. Así que va a haber mucho tema de discusión acá. Porque más que una sola forma de hacer las cosas, existen varios caminos.
-
-La idea es cómo sustento, cuál es mi sustento para yo poder lograr que mi posición sea la que finalmente se implemente. ¿Ok? Bien. Y ahí les dejo. ¿Perfil? ¿Están interesados? Yo les puedo enviar una invitación y siempre.
-
+00:00 Speaker 1: Yo les pediría,
+00:02 Speaker 2: si están comiendo algo, por favor se lo pueden guardar. Si
+00:07 Speaker 1: tienen sus celulares, si los pueden poner en modo silencio. Si quieren contestar a algún problema, que puedan hacerlo. Pueden salir del aula y contesten sin problema.
+00:16 Speaker 2: Bien. A ver, lo primero que quería hacer
+00:19 Speaker 1: era presentarme... Bueno, la mejor forma hoy día de presentarse es a través de una plataforma, obviamente, que te ayuda a poder responder toda tu carrera y experiencia profesional y así como todos los logros que has tenido. Esta es la plataforma de LinkedIn.
+00:46 Speaker 2: Ahí me pueden buscar, buscarlo, chaval, no, no.
+00:50 Speaker 1: Así rápidamente les puedo decir que, pues, hacía, creo que más de 25 años que he presentado
+00:55 Speaker 2: igual que ustedes, porque también tiene esta carrera, la institución informática.
+00:59 Speaker 1: Y a lo largo de estos 25 años, pues he ido, digamos, avanzando en diferentes posiciones. Desde la parte de developer, que antes más todo lo culo está, no había esta separación, pero pasando por ser un developer, un analista, en un momento estuve involucrado en el mundo de testing también, pasé al mundo más ya de gestión de proyectos, hice, digamos, una ramificación por el tema de inteligencia y negocios, ya hace muchos años, y luego... Después de, creo que, 10 años de experiencia, decidí llevar una maestría,
+01:33 Speaker 2: pero no en tecnología. Entonces les explico por qué.
+01:36 Speaker 1: Porque creo que todo lo que es tecnología para nosotros es ni que es algo inherente, no es algo que hoy día aprendo y mañana me olvido. No, es algo constante.
+01:45 Speaker 2: No puedes vivir sin tecnología. Es el rato de esta carrera. Entonces,
+01:50 Speaker 1: no requería algo en tecnología per se, porque casi todos los años siempre aprendí algo por mi cuenta. Depende si quieres aprenderlo por tu cuenta, si eres un asesinado o si quieres, obviamente, llevar un curso. También vale, ¿no? Pero lo que hice fue llevar una magistría en administración. O sea, me salí un poco de punto, y de ingeniería me fui el punto más de administración. ¿Y por qué hice eso? Porque quería entender a una empresa, no solo desde el punto de vista de los sistemas que maneja, sino desde el punto de vista más global, empresarial.
+02:21 Speaker 1: Entonces aprendí temas de finanzas, de economía, de política.
+02:25 Speaker 2: o la parte más dura,
+02:27 Speaker 1: que hoy día me ayuda a la posición
+02:29 Speaker 2: que tengo en esta empresa,
+02:30 Speaker 1: porque de eso vamos a tratar en este curso, porque vamos a hablar de arquitectura empresarial. Y arquitectura empresarial, al final de cuentas, si queremos resumirlo, es la toma de decisiones que voy a ir realizando en algunos
+02:41 Speaker 2: puntos del ciclo de vida de desarrollo de software, pero decisiones que son estratégicas.
+02:46 Speaker 1: Pero para tomar una buena decisión, pues tengo que tener mucho conocimiento y también, obviamente, tengo que conocer a la organización. Entonces, por eso, lo primero que les podría comentar es que si, aparte del tema de sistemas que me imagino que lo vienen manejando, también se involucren y aprendan temas relacionados a otras materias. Los va a ayudar a tener una mejor decisión. Si es mejor conocer los procesos ahora, háganlo ahora. De hecho, en el curso vamos a aprender un end-to-end de un proceso. Vamos a escoger una empresa, un rubro y vamos a aprender un end-to-end. y todos van a participar así
+03:23 Speaker 2: que de
+03:25 Speaker 1: eso se trata primero entender la sesión de esos procesos luego veremos la tecnología y luego veremos la propuesta y solución pero primero es el proceso ya llevo casi 10 años si no es un poco más
+03:37 Speaker 2: el tema de arquitectura empresarial la
+03:41 Speaker 1: verdad que ha sido un viaje bastante
+03:44 Speaker 2: enriquecedor para mí
+03:45 Speaker 1: Cuando empecé no se hablaba mucho acerca de este tema. Es más, solamente existía en algunas empresas acá en Perú. Porque la que más por ahí era conocida era en PSP. Y ahí nadie más hablaba de institución empresarial. Ojo, en Perú, pero en otras partes del mundo ya se venía hablando de eso. Pero hoy en día ya no es eso. Yo creo que eso hoy día muchas empresas, en Franca, Seguros, Rímpido, Minería, Educación, ya vienen hablando de temas de institución empresarial. Entonces yo creo que ha sido muy acertado el hecho de que hayan incluido este curso dentro de la película porque les abre a lo que es muy necesario hoy día en sus sesiones. El saber analizar para yo poder plantear una solución desde
+04:23 Speaker 2: el punto de vista de diseño.
+04:25 Speaker 1: Pueden conocer muchas tecnologías, pero todo depende de qué cosas plantean.
+04:30 Speaker 2: Y este curso lo
+04:32 Speaker 1: que busca es eso, desarrollar ese pensamiento analítico. Así que va a haber mucho tema de discusión. Porque más que una sola forma de hacer las cosas, existen varios caminos.
+04:41 Speaker 2: Y es como sustento.
+04:43 Speaker 1: ¿Cuál es mi sustento para yo poder lograr que mi posición sea la que finalmente se implemente? ¿Ok?
+04:50 Speaker 2: Bien. Ahí les dejo.
+04:57 Speaker 1: ¿Están interesados? ¿Se me ponen que era una manifestación y sin problemas respecto?
+05:01 Speaker 2: Y lo otro que quería comentarles acerca de el curso.
+05:06 Speaker 1: ¿Están de presente? Siempre esta parte me la salto, pero es importante hacer un paltos porque estamos a tiempo. Porque a veces creo que la expectativa está en función a lo que yo espero del
+05:22 Speaker 2: curso y lo que ustedes esperan del curso.
+05:26 Speaker 1: Y muchos me dicen que tienen los cursos de
+05:28 Speaker 2: programación. En este curso no vamos a programar. Hay otros cursos de programación. Este no programamos.
+05:34 Speaker 1: Pero en este curso sí incidimos mucho en el análisis. Un buen análisis. que se basa en algo método. Tenemos que aprender eso. Ahí te agradezco, porfa. Hola. Porfa.
+05:49 Speaker 2: La idea es que
+05:51 Speaker 1: todos los elementos que vamos a ir aprendiendo en el curso, lo vayamos aplicando en el trabajo integrador que vamos a hacer. Esa es la idea. Vamos a ir aprendiendo una serie de artefactos, herramientas, y todo eso vamos a ir incorporándolo a nuestro análisis. Y vamos a tener dos presentaciones.
+06:09 Speaker 2: entonces es importante entonces
+06:11 Speaker 1: ya les voy adelantando lo programamos vamos a desarrollar pensamiento analítico y
+06:16 Speaker 2: lo que necesito es bastante apertura porque
+06:18 Speaker 1: hay cosas que a veces se entienden no del punto de vista técnico sino del punto de vista más de otras variedades que de repente son variedades que ustedes todavía o no le han hecho mucho énfasis o de repente ahora en este curso van a conocer Entonces también hay esta apertura que puedan entender que existen otras maneras de decidir que no necesariamente son técnicas. Lo técnico está muy bueno, pero lo técnico hay que sumar de otras variables para que la decisión sea más compleja. Entonces eso también lo vamos a ver en el curso.
+06:47 Speaker 2: De eso se trata. Bien, entonces
+06:49 Speaker 1: aprovechemos unos tres minutos, conversa con la persona que está a tu lado. Conversen acerca de esto. Y luego les voy a preguntar sus expectativas. ¿Hacia dónde vamos a dirigir el curso y ya vamos a ver un
+07:03 Speaker 2: conversatorio cerca de eso? ¿Sí? Ahí van tres minutos para que puedan conversar entre ustedes. Amiga, no te conozco. No te conozco. No te conozco. Pero ahí está en el cielo botón. ¿Habéis visto en el capítulo 1? Sí, no digo hace dos horas. Vamos a ver nuevamente. Aquí estamos. Aquí estamos. también un repaso de
+07:40 Speaker 1: ciberseguridad
+07:48 Speaker 2: en el capítulo 2 vamos a ver más
+08:10 Speaker 2: Sistemas de información. Ahora en el capítulo 3 vamos a ver esto de lo que vimos en el plugin. Arquitectura de solución. Arquitectura de información, arquitectura de aplicaciones, arquitectura de tecnología. Gobierno de arquitectura. O sea, será gobierno a nivel de gerencial seguramente. Después de capítulo 4, vamos a ver. Esto es un curso, ¿no?
+09:13 Speaker 2: JOURNEY MAPS, mira CUSTOMER JOURNEY ARTEFACTO MODERNOS MVA LORALCÁPTURO 5 Esto si es nuevo
+09:33 Speaker 2: ¿Eso está al final? No sé. Eso estaba, creo que estaba acá. Sí, creo que sí. Sí, acá se parece AXO, redes de computadoras, temas de servidores. ¿Qué más será? Economía de escala. ¿Qué sabemos? O sea, sabemos temas de gobierno, temas de arquitectura de solución, arquitectura de información, arquitectura de negocios, arquitectura de energía, arquitectura de aplicaciones. ¿Qué metodología es aquí? ¿Sabes? Ah, claro.
+10:41 Speaker 1: ¿Estamos?
+10:42 Speaker 2: ¿Quién me puede comentar? ¿Quién es voluntario?
+10:56 Speaker 1: ¿Saben que eso no ha cambiado en los últimos 25 años?
+11:00 Speaker 2: Que la gente no responde. Que la gente no responde.
+11:02 Speaker 1: Que somos así como que tíbeos, tímidos, no queremos responder. Tenemos esa poca apertura, siempre es participar.
+11:11 Speaker 2: Ese es un perfil, pero...
+11:13 Speaker 1: No hay que cambiarlo, porque la verdad estamos en un mundo donde más se quiere comunicación y discusión que simplemente hay que ser pasivo.
+11:22 Speaker 2: Entonces, ¿quién se anima a participar? Y decirme lo que ha conversado con su compañero de abajo. ¿Sobre cuál pregunta, profesor?
+11:31 Speaker 1: Sobre primero, ¿qué espero del curso? ¿Cuáles son mis expectativas?
+11:36 Speaker 2: Dale, ¿cuál es su nombre? Raúl. Raúl, cuéntame. Bueno, básicamente lo que espero del curso, por lo mencionado principalmente al inicio, es más de todo poder desarrollar esa capacidad de análisis respecto a distintas empresas, dependiendo de su rubro, de forma independiente, para poder así... Comprender el negocio, comprender sus procesos que generan más valor y de esa forma poder proponer arquitecturas que se adapten a la necesidad actual del negocio y de la forma más efectiva posible poder lograr los objetivos que me plantean.
+12:10 Speaker 2: ¿Ya vienes practicando? No, estoy buscando. Hay una
+12:17 Speaker 1: palabra que quiero que todos recordemos porque es una palabra que vamos a analizar. Una solución hoy en día no solamente se basa en la mejor solución técnica, sino que también sea costo-eficiente. Tienen que asociar eso a todo lo que es un técnico, costo-eficiente. Que significa que
+12:33 Speaker 2: esa
+12:34 Speaker 1: plataforma o esa solución me debe costar más cuando realmente hay un mayor uso de esa y me debería costar menos cuando un menor uso. El Facebook, como lo dicen en Google. Pero eso es importante, costo eficiente. Si no es costo eficiente, pues
+12:49 Speaker 2: estoy yendo a hacer
+12:51 Speaker 1: que mi empresa gaste más plata o invierta más en algo que obviamente luego lo puede complicar a nivel financiero.
+13:02 Speaker 2: ¿Qué tal? Buenas tardes. ¿Quién más nos quiere compartir? Dale, ¿tu
+13:14 Speaker 1: nombre? Gabriel. Gabriel.
+13:16 Speaker 2: Sí, retomando un poco de los comentarios. Llegamos también a la conclusión de la arquitectura, pero nos preguntamos qué tipo de arquitectura vamos a ver en el curso. Y lo primero que se me dio realmente así de Flash fue, va a ser tipo un organigrama, va a ser todos los procesos que se manejan, pero estamos en el área informática, entonces va relacionado con eso para ambos. como que esperar ver cómo los sistemas están dando soporte a las áreas o los procesos, o cómo se maneja la información en cuanto a un área levanta, no sé, un dique de algo, y cómo se levanta la información hasta que realmente se resuelve, o cuando se da otro nuevo proyecto, qué información es necesaria para que pase el área de riesgos, el área de gobernanza y todo lo demás.
+14:03 Speaker 1: Dale, mira, vamos a aclararlo. En el curso, nosotros nos vamos a enfocar en la arquitectura a alto nivel. Luego van a asociar a esto un concepto que se llama Building Blocks. Son los componentes grandes. Pero que es importante porque esta es la propuesta de solución. Y luego yo
+14:28 Speaker 2: tengo que
+14:28 Speaker 1: implementarlo, entonces tengo que trabajar en la arquitectura de solución detallada. De seguro puedo seleccionar una nube, AWS, YCP, Azure, y ahí haré, en base a los componentes que esa nube me ofrece, habré su solución. Este servicio lo implemento como un lambda, esto para mí es un RDS,
+14:48 Speaker 2: y así.
+14:50 Speaker 1: Esto de aquí también lo vamos a ver en menor, digamos, proporción. Esto es lo que más me puse enfocado. Porque lo primero que se discute no es
+14:58 Speaker 2: la arquitectura de solución desde allá,
+15:00 Speaker 1: sino es la arquitectura de la tecnología. ¿Acá qué defines?
+15:05 Speaker 2: ¿El qué?
+15:06 Speaker 1: Eso que me están pidiendo, ¿en qué capacidad debe ir? Porque hoy día las empresas tienen un retorno importante. No tienen un único sistema, tienen muchos sistemas. ¿En qué sistema debe ir esta capacidad que me
+15:18 Speaker 2: están diciendo, esta funcionalidad? Eso es lo primero que hay que busquejar.
+15:24 Speaker 1: Obviamente con sus integraciones necesarias. Y luego me pondría a detallar el cómo. ¿Qué le llaman la arquitectura de solución detallada?
+15:32 Speaker 2: ¿Él?
+15:33 Speaker 1: ¿Alguien más que quiera participar?
+15:35 Speaker 2: Allá al fondo. ¿Qué conversaron?
+15:42 Speaker 1: ¿Ahí? ¿Tú del color azul?
+15:45 Speaker 2: ¿Mi nombre? Miguel. ¿Miguel?
+15:49 Speaker 1: Cuéntame. Hay incluso que tú dices que IASAR,
+16:08 Speaker 2: que tiene parte de la... Ok, ¿cuáles, por ejemplo? El lenguaje de... El
+16:19 Speaker 1: lenguaje de información.
+16:26 Speaker 2: Ahí quiero complementar a lo que se refería es que vimos temas relacionados a la arquitectura de solución, como la arquitectura de negocios, la arquitectura de información, la arquitectura de aplicaciones. ¿Y en qué curso lo ven? Lo vemos en el curso de Modo de Tecnologías de Información para los Negocios. Es un curso de octavo ciclo. ¿Lo ven como
+16:45 Speaker 1: concepto y aplicación o solo como concepto?
+16:48 Speaker 2: Lo vemos como concepto y una breve aplicación que se dio en clase.
+16:53 Speaker 1: Acá lo vamos a profundizar. Pero si ya lo han visto genero porque eso significa que ya sabemos diferenciar las diferentes capas que existen cuando yo voy a hacer una revisión de una problemática. Puede estar en la data, en la estructura, puede ser la explicación, puede ser el proceso en el definir.
+17:11 Speaker 2: Esa es la idea de dividirlo en niveles o capas.
+17:15 Speaker 1: ¿Quién más me quiere compartir?
+17:23 Speaker 2: Mi nombre es Luis. En el curso anterior, justo en ese capítulo de arquitectura de solución, había un texto que era el TOGAF. Creo que también lo he mencionado en el material de este curso. ¿Cuál es su importancia y hasta qué nivel vamos a organizar estos conceptos? Vamos a tener todo un capítulo de TOGAF.
+17:43 Speaker 1: De hecho que ya están en la versión 10. TOGAF significa la Open Group Architecture Framework. el framework de arquitectura empresarial. Dicho de otra manera,
+17:56 Speaker 2: si la arquitectura empresarial lo
+17:58 Speaker 1: que busca es tomar decisiones, buenas decisiones,
+18:01 Speaker 2: a lo largo del ciclo de desarrollo de software,
+18:03 Speaker 1: esas decisiones muchas veces involucran en qué cosa, que voy a hacer cambios. Voy a, seguro, promover nuevas capacidades tecnológicas, adoptar nuevas capacidades tecnológicas, pero todo eso es inversión, eso es presupuesto. No es un presupuesto menor, no es 5.000 dólares, no es 10.000 dólares. Según estamos hablando de un millón de dólares, tres millones de dólares, cinco millones de dólares, por ejemplo, de inversión. Ese dinero al
+18:28 Speaker 2: inversor, como
+18:29 Speaker 1: cualquiera,
+18:30 Speaker 2: siempre te va a decir,
+18:31 Speaker 1: ¿cuál es la probabilidad que esto sale exitoso? Porque yo quiero que sea exitoso. Si te voy a dar cinco millones de dólares, yo espero que podés recibir cinco veces más ese dinero.
+18:43 Speaker 2: Entonces, ¿cómo me aseguras?
+18:46 Speaker 1: que lo que vas a aplicar, este concepto, esta disciplina de arquitectura, me devuelva lo
+18:52 Speaker 2: que te voy a invertir.
+18:53 Speaker 1: Entonces ahí surgen los famosos frameworks, que no es otra cosa más que un conjunto de tecnologías, herramientas, técnicas, para que puedas, como un ABC, seguir esas... Y lo que te va a asegurar eso es que no omitas algún paso que es importante cuando uno hace un enfoque de arquitectura. Por ejemplo, que empiece primero el proceso.
+19:16 Speaker 2: Nunca existe.
+19:20 Speaker 1: Entonces, para los que ya vienen practicando o han practicado, yo también tengo practicantes en la empresa de esto, antes de explicarles si hay que hacer algún cambio en la aplicación, yo no les explico el proceso. Y les digo, asistes acá o te vais a otro lado, cuando estés en el otro lado, en otra empresa,
+19:38 Speaker 2: siempre tiene que te expliquen el proceso.
+19:40 Speaker 1: Es mucho mejor y vas a entender más. Que solo te digan, el sistema está ahí acá.
+19:45 Speaker 2: Tuviste esa cotada.
+19:46 Speaker 1: Cuando tienes el proceso, realmente entiendes muchas más cosas. Entonces, para eso sirve este framework, y es uno de los más conocidos, no solo a nivel local, sino a nivel internacional.
+19:59 Speaker 2: Y esto
+20:01 Speaker 1: te permite, inclusive, si tú cuentas con una certificación, poder, inclusive, en el rol de arquitecto, poder llevarlo a manera internacional. Porque hay, no necesariamente acá en Perú, pero en Colombia, por ejemplo, que sigue mucho este framework, acá a nivel ATAM, si vamos a América Latina, podríamos ir a México,
+20:19 Speaker 2: y de ahí a Europa,
+20:20 Speaker 1: donde sí requiere que el arquitecto tenga esta certificación. Porque eso asegura, metodológicamente, que es una persona
+20:29 Speaker 2: estructurada.
+20:32 Speaker 1: Entonces, sí es importante. Lo vamos a revisar. Vamos a extraer lo más importante. Por ejemplo, a quien le interesa es su método de desarrollo de la arquitectura. Tienen un propio método de desarrollo de la arquitectura. Y ese es el que deberíamos hacerle zoom para decir, si en un momento yo estoy interesado en esto, solamente en entender ese método me puede llevar a mi proceso de pensamiento. O sea, los pasos que siguen. Eso es muy importante. De repente algunos lo hacemos de manera intuitiva. Yo me he encontrado con chicos estudiantes que son brillantes en el tema de análisis y ya saben salir a una secuencia. Bueno, esto lo que trata es estandarizarlo. Dicen, pues son análisis para hacer una buena arquitectura y agregar 8 o 10 pasos. Y te lleva paso a paso como lo debes usar.
+21:14 Speaker 2: Esto lo vamos a ver. No sé si se responde tu pregunta. ¿Alguien más? Con respecto al capítulo 1, hay un tema llamado sistemas empresariales, por lo que le pregunto si vamos a volver a ver este tema de CRM y ERP. Lo
+21:36 Speaker 1: que me interesa es que
+21:37 Speaker 2: todos estemos en la misma página.
+21:39 Speaker 1: Por eso le preguntaba, ¿cuántos vienen ahorita trabajando? ¿Cómo han practicado? ¿Pueden levantar la mano?
+21:45 Speaker 2: Vámonos chicos,
+21:46 Speaker 1: que se note, que se note, sin miedo. Los demás todavía no han practicado.
+21:54 Speaker 2: Bueno, responde a tu pregunta, Julio. Jorge. Por ejemplo,
+22:00 Speaker 1: ¿qué sucede? Para yo poder hacer un planteamiento de una arquitectura de alto nivel, hay una serie de términos y conceptos que tenemos que tenerlos claros todos. Por ejemplo, ¿qué es un sistema empresarial? ¿Qué es un sistema back office? ¿Qué es un sistema front office? ¿Qué son APIs? ¿Qué son los agentes de guía, por ejemplo?
+22:18 Speaker 2: ¿Qué
+22:19 Speaker 1: modo hoy día manejamos todo el concepto empresarial? de lo que es documentos, audios, imágenes. Entonces, hoy en día existe una serie que vamos
+22:30 Speaker 2: a ver en el capítulo 1,
+22:31 Speaker 1: como 15 o 20 conceptos que me interesa que todos tengamos el conocimiento.
+22:37 Speaker 2: Porque esa es la base para
+22:39 Speaker 1: no hacer el trabajo integrado. Porque vamos a hablar de eso. Vamos a hablar que existe un sistema empresarial, que maneja el corte y la lógica empresarial de nuestro negocio, que se integra ya sea por APIs, por servicios, por service, vamos a hablar de esas cosas. Entonces necesito que todos entendamos esos conceptos y por eso es que es el capítulo 1 y la verdad lo colocamos porque asumíamos que todos venían con ese background. Pero sabemos que no todos, o han practicado, o de repente, de los interiores cursos, han asimilado ese concepto. Por eso lo reforzamos acá. Y ese es el capítulo 1.
+23:15 Speaker 1: Y ahí entramos a ver ya los temas de arquitectura, propiamente. Entonces, yo diría que es más, no un refuerzo, sino es cómo ese concepto me ayuda en mi entendimiento de la arquitectura empresarial. Bien. ¿Alguna otra consulta más? Antes de pasar. No, no estamos.
+23:38 Speaker 2: A ver,
+23:39 Speaker 1: estos son los objetivos que se plantea el curso.
+23:43 Speaker 2: Yo siempre hablo de algo importante porque es
+23:46 Speaker 1: algo que hay que ponernos muchas veces a tangibilizar, ¿no? ¿A qué llamamos estrategia? Si van a la bibliografía, ahí pueden buscar, ahí empezamos la prueba, van a decir que la estrategia es un conjunto de acciones.
+23:58 Speaker 2: Seguro,
+23:59 Speaker 1: es un conjunto de pasos, acciones. La diferencia que tienen que saber es que la estrategia está influenciada. por factores internos y externos. Y no todos ven lo mismo. Por lo tanto, no todos tienen la misma estrategia. Entonces, dos personas podrían enfrentarse al mismo problema y plantear estrategias. Uno, su objetivo es más grande, hace una estrategia mucho más de inversión, mientras que otro es la estrategia más moderada. La diferencia va a ser en lo que se inviertan, los deditos financieros.
+24:33 Speaker 1: Ayer estaba justo con unos socios y me decían,
+24:36 Speaker 2: puede decirlo el nombre de la empresa, de información pública,
+24:39 Speaker 1: decía Pacífico Seguros en los últimos 5 años ha invertido más, pero 10
+24:45 Speaker 2: años.
+24:46 Speaker 1: Creo que ha invertido unos 130 millones de dólares en hacer cambios o nuevas apuestas a sus
+24:54 Speaker 2: sistemas empresariales. Esta también ha
+24:56 Speaker 1: tenido el reto de cambiar sus sistemas cortos. Un video considerable.
+25:03 Speaker 2: Mientras que hay otras empresas, y no
+25:05 Speaker 1: hablar de Perú, sin mover España, con el mismo tamaño de pacíficos seguros,
+25:10 Speaker 2: que han gastado solo 5 millones de dólares. Y son más modernos que Perú. Y si no, esto es la de Perú.
+25:16 Speaker 1: ¿Qué pasó? Entonces uno puede pensar qué malas decisiones toma en el Pacífico. Puede ser. Quizás tomaron algunos supuestos que no necesariamente eran los correctos para una realidad local. España, pues, a diferencia de nosotros, muchas de sus empresas son más estandarizadas y no tienen la complejidad de nosotros. Pero sí hay algo claro, ¿no? La misma problemática que es cómo hago modernización de mis sistemas empresariales se puede resolver diferente. Una con mayor inversión, otra con mayor inversión. La cosa es solamente que el concepción tiene.
+25:55 Speaker 2: ¿Vale?
+25:57 Speaker 1: Bien, entonces, tenemos que entender bien la estrategia, porque eso es lo que ustedes van a hacer a lo largo del curso, y también en el momento que planteen su propuesta final, va a haber un tema estratégico. Y eso es importante que desde acá ya lo empiecen a hablar. ¿Qué estrategias puede uno, de alguna manera... ejecutar o aplicar dependiendo del escenario donde se encuentra.
+26:21 Speaker 2: Luego,
+26:21 Speaker 1: está a conocer los componentes del framework de Tobá. ¿Por qué es importante el framework de Tobá? Porque él es que metodológicamente me va a ayudar a mí en mi proceso de análisis. Entonces, si yo conozco su metodología, si yo conozco sus principales formas de cómo generar artefactos, lo que habla acerca del gobierno de arquitectura, pues me va a dar mucho a mí, sobre todo en el planteamiento.
+26:44 Speaker 2: Luego,
+26:44 Speaker 1: conocer el proceso para que una organización debe pasar para implementar una práctica en el mundo empresarial. Eso es importante. Porque podríamos pensar que todo requiere arquitectura empresarial. No todo requiere. Porque hay un análisis que puede tomar algunos días, semanas, y si ya han también visto, todas las empresas muchas veces les habla de actividad, actividad, actividad, actividad. Entonces, ¿cómo conversa la arquitectura con actividad? El análisis demora. Pregúntenme a Chepiquitín. ¿Cuánto hay una persona dice
+27:13 Speaker 2: arquitectura? Le da 3-4 semanas.
+27:15 Speaker 1: ¿La agilidad puede esperar 3-4 semanas? ¿O además está enfocada en el día a día? ¿Cómo hace esa conversión arquitectura
+27:23 Speaker 2: para que pueda darle un buen trabajo?
+27:25 Speaker 1: Entonces ahí es importante que la práctica de rendimiento empresarial sea una práctica que obviamente sea identificada en los, vamos a decir, en los cambios grandes, en los cambios importantes. Si a todos les quiero aplicar la misma regla, porque se termina siendo una mala gestión. Y finalmente, ¿qué conexión existe con otros, vamos a decir, sistemas empresariales? Aquí es importante, arquitectura no es algo al costado de un área de TI, no lo vean así, porque realmente arquitectura es, si queremos verlo, está dentro del mundo de TI. Así como en TI identificamos operaciones, las áreas de desarrollo, las áreas de seguridad que hoy día están bastante
+28:09 Speaker 2: en auge,
+28:11 Speaker 1: así como las áreas de inteligencia y arquitectura,
+28:13 Speaker 2: hay que unirse a arquitectura.
+28:15 Speaker 1: Lo único que es mi opinión,
+28:16 Speaker 2: mi opinión, es que
+28:18 Speaker 1: yo sí pienso que arquitectura es el cerebro tecnológico de todas esas áreas. Todas las demás hacen cosas brillantes, pero requieren un cerebro tecnológico que diseñe el ecosistema de todo lo que hay que finalmente implementar y de qué manera.
+28:33 Speaker 2: Esa es la diferencia.
+28:34 Speaker 1: Por eso yo luego veo medios, arquitectura, todos conectando esa arquitectura, y eso es como que para mí, tienen las empresas que hoy día más aprovechan arquitectura para seguir escalando. Avanzando con esto, este es el capítulo 1 que vamos a iniciar el día de hoy. Ya vamos a hablar de los conceptos tecnológicos. Acá tenemos el tema de cloud computing, con
+28:59 Speaker 2: sus diferentes labores
+29:02 Speaker 1: que hay. Es importante al menos separar el tema de IA, PAS, ESA, vamos a verlo. Los conceptos asociados a nube, por qué es importante escalabilidad, electricidad. los sistemas empresariales, sobre todo porque vamos a identificar sistemas empresariales en el trabajo integrado y vamos a tener que diferenciarlos.
+29:23 Speaker 1: El tema de data e inteligencia, porque hoy en día las soluciones empresariales no solamente son soluciones transaccionales, sino también son soluciones energéticas.
+29:33 Speaker 2: Entonces es un híbrido. ¿Y
+29:35 Speaker 1: dónde participa la solución analítica para tomar una decisión? Ahí donde justamente hay que aplicar una regla. Hay que ver si aplica un descuento o no a una persona al momento que quiere hacer una cotización o quiere comprarme algo. Ahí está participando la analítica. Entonces es una combinación de una solución analítica y una solución transaccional.
+29:58 Speaker 2: La
+29:58 Speaker 1: ciberseguridad. Y esto, como les digo, está muy en crecimiento. Porque hoy día, a diferencia de años anteriores, ¿qué se está buscando mucho? Se está buscando que el cliente, el cliente digital, se autogestione. Eso significa construirle muchas funcionalidades hacia afuera.
+30:20 Speaker 2: Que tienen que estar protegidas,
+30:22 Speaker 1: seguras, no la data, cómo identificó quién y mis excesos. Y
+30:27 Speaker 2: vamos a hablar también acerca de arquitecturas modernas. Creo que es algo principal, vamos a hablar de microservicios, microscrones.
+30:35 Speaker 1: Vamos a hablar del tema de eventos, que para mí es el conocimiento hoy en día que debería empezar a utilizarse en las empresas eventos. Ya no temas bacheros, no todo por ABI, sino
+30:48 Speaker 2: por unidos.
+30:50 Speaker 1: Creo que eso es lo que hoy en día permite orquestar, inclusive entre
+30:54 Speaker 2: varias
+30:57 Speaker 1: empresas,
+30:59 Speaker 2: una acción.
+31:00 Speaker 1: Podrías estar, por ejemplo, en una clínica atendiéndote. Y al momento que yo recibo mi prescripción médica, poder estar contestando a través de un evento hacia el área de farmacia, para la medicina que me ha resultado el doctor, y también podría estar latiando una acción hacia un centro de prescripción para que me recomiende un plan de repente basado en una prescripción general.
+31:22 Speaker 2: Entonces eso es un poco jugar entre eventos entre compañeros.
+31:26 Speaker 1: Y eventos es la manera como que yo respondo por APIs, porque el API tiene un tema, ¿no? El API lo que busca es una respuesta inmediata. Por eso se habla de que hay un orquestador y el API empieza a invocarse para ser un orquestador y lo que necesitamos es que esto termine para dar al siguiente paso. ¿Entonces no funciona así? Bien.
+31:45 Speaker 2: Capítulo 2.
+31:47 Speaker 1: Estrategia de TI para una organización. Acá vamos a hablar acerca de las explicaciones promovidas, copias. Debemos diferenciar más bien, eso es lo que más se equivoca. Lo primero que les podría decir es que para poder diferenciarlas, una de las cosas que tenemos que hacer es que
+32:04 Speaker 2: hay que ser bastante minuciosos cuando
+32:06 Speaker 1: nosotros vemos una pantalla, o inclusive el celular.
+32:11 Speaker 2: Si ustedes tienen instalado 20
+32:13 Speaker 1: o 30 aplicaciones en este aparato, lo que yo quiero decir es qué
+32:18 Speaker 2: tipo de aplicaciones tienen instaladas.
+32:21 Speaker 1: Todas son preguntas. la aplicación, quieren para hacer sus transferencias, QApps, todas son aplicaciones en esta mano. Y aquí en el final nunca tendría que hacerse una aplicación de acorde. Y vamos adelante con esa acorde.
+32:40 Speaker 2: Entonces al final hay que diferenciar, que hay aplicaciones
+32:42 Speaker 1: de promoción y si va a ser. En el capítulo 3, entramos a ver las capas de la arquitectura, ahí sí me interesa bastante diferenciar el análisis por capa, porque cada capa no necesariamente se va a resolver de la misma manera. En algunas necesitaré mantener lo que tengo, en otras necesitaré sustarlo, en otras necesitaré generar nuevas cosas, entonces cada capa se maneja de una manera diferente.
+33:08 Speaker 1: Vamos a hablar de esto que ya viene de otros cursos, no es nuevo ese concepto de así se estudiar. Solamente que aquí lo estamos orientando a las capas de arquitectura. Así si tu hijo estaba bien. Y vamos a introducir este concepto
+33:23 Speaker 2: que habíamos escuchado antes, que es un roadmap.
+33:27 Speaker 1: Un roadmap es más que una estrategia de cómo empiezas a implementar un socio.
+33:33 Speaker 2: Todos podrían decir,
+33:35 Speaker 1: paralelizamos todo, no necesariamente,
+33:37 Speaker 2: porque hay dependencia.
+33:40 Speaker 1: ¿Cuál es el ideal de un ingeniero? entrar a trabajar en un startup. Entonces me tengo que preocupar de nada. A veces, muchas veces, en un startup empiezo con un greenfield, ¿no? Todo en blanco. Es una página en blanco y puedo traer la tecnología que yo quiero.
+33:56 Speaker 2: Bueno,
+33:57 Speaker 1: cuando se enfrenten a, entran a una empresa y existe un legacy que no lo pueden cambiar, ahí el rol más importante. Porque tienes que empezar a ver cómo hago que mi solución funcione sin impactar lo que hoy día ya viene a funcionar. porque esa es parte de la operación de datos. Yo no podría decir a un banco no transacciones o no dan transferencias hasta que mi solución se establezca.
+34:23 Speaker 1: Tiene que seguir funcionando, mi solución tiene un momento de darle el encuentro y reemplazarla. Entonces ahí está, creo que el reto y por eso los roadmaps son justamente las estrategias que los clientes plantean para asegurarse de su solución. Es una religión viable y que puede ser transición. Se apuesten a transiciones hasta llegar a tu situación subida. Vamos a hablar de escritura en el mundo ágil porque es importante que entiendan que todo esto que les voy a hablar, si lo queremos aplicar hoy en día, nos van a quedar como que en el nivel más tradicional. Como decir, pienso mucho, analizo mucho, pero no decido nada. Mientras eso sucede, muchos y todos los actores ya vienen tomando decisiones por ustedes. desde el desarrollador,
+35:08 Speaker 2: desde
+35:09 Speaker 1: el P.O.U., si han escuchado el tema de actividad, desde el mismo líder técnico también toma decisiones. Todos quieren tomar decisiones, es muy llamativo. Ahora, que tomen una buena decisión, eso no lo sé. No necesariamente. Capítulo 5, Prêmios de Togar, con el que vamos a cerrar. Es muy probable que cuando veamos arquitectura empresarial
+35:39 Speaker 2: hagamos esa bajada de arquitectura de soluciones.
+35:42 Speaker 1: Vamos a meter eso en alguno de estos
+35:44 Speaker 2: ítems.
+35:46 Speaker 1: Para poder explicar cómo haces desde una arquitectura de alto nivel a una arquitectura de soluciones empresarial.
+35:53 Speaker 2: Para que lo tengamos
+35:55 Speaker 1: como concepto, lo apliquemos y lo veamos. Bien. Finalmente, la nota final tiene esta estructura. Tenemos el examen parcial, el examen final y el promedio de las notas de avance
+36:12 Speaker 2: parcial y presentación final.
+36:14 Speaker 1: Hay dos momentos en los cuales ustedes presentan
+36:16 Speaker 2: el tema del trabajo integrador.
+36:19 Speaker 1: Uno es antes del parcial, en la semana 7, si no lo recuerdo. Y otro es en la semana 14.
+36:26 Speaker 2: Se presenta uno en el avance parcial y en otro la sustentación final.
+36:30 Speaker 1: Eso es en clase. Cada una de esas presentaciones tiene una nota de 1 al 20, eso se promedia y eso es esa nota que dice acá abajo. Y las demás son del examen. Leemos bien esta nota. ¿Qué
+36:47 Speaker 2: dice?
+36:48 Speaker 1: Este es el componente teórico. Los exámenes. Y este es el componente práctico.
+36:54 Speaker 2: Los dos se
+36:56 Speaker 1: deben aprobar. Si ustedes jalan uno de ellos,
+37:00 Speaker 2: jalan el curso. Entonces hay que darle foco a los exámenes, que es la parte teórica, como también al trabajo integrado. Como esto es un horario de clase,
+37:14 Speaker 1: Algo que también les quería decir es, es una presentación formal. Quiere decir que se debe asistir ese día. Si alguien ese día no puede venir, la única forma de poder ser considerado una nota, no igual que sus compañeros, es que presente un descanso médico.
+37:35 Speaker 2: Pero por otro motivo,
+37:37 Speaker 1: tendría una nota de cero en la presentación. Entonces, paren bien estas fechas que les estoy diciendo. Semanas 7 y 14.
+37:45 Speaker 2: ¿Ok?
+37:48 Speaker 1: Bien,
+37:50 Speaker 2: antes de ir... Profesor, esta TEA es... ¿El grupo de cuantas personas? Y si es aleatorio... Ahorita les voy a comentar. Sí. Claro. Porque estoy hablando del componente teórico y el componente práctico. Este es el componente teórico. Esto tiene que estar aprobado. En promedio, claro.
+38:19 Speaker 1: Así como este tiene que ser aprobado, porque también acá hay dos evaluaciones.
+38:24 Speaker 2: Respondiendo al tema, voy a enviar un correo, pero básicamente
+38:27 Speaker 1: lo que hacemos es, se
+38:30 Speaker 2: distribuye a
+38:31 Speaker 1: todo el salón una serie de características para que se haga la formación de los grupos. No los decido yo, ustedes pueden elegirlos, yo les doy algunas posiciones. Y sobre eso ustedes van a tener asignado un proceso.
+38:46 Speaker 2: ¿Cómo trabajamos?
+38:48 Speaker 1: Se define una empresa, la defino yo. Se definen, vamos a hacer seguro, seis grupos. Entonces seguro van a haber seis procesos de esa empresa. Si son seis procesos de esa empresa ya, tienen que imaginarse algo, ¿no? ¿Qué sucede? Que están conectados. Eso significa que lo que tú vas a cambiar le puede impactar a los otros procesos. Y esa es la interacción que quiero que tengan a lo largo del tiempo. Porque es como suceden las empresas. Lo que yo puedo estar definiendo para cambiar todo, puede estar afectándole al proceso de costado. Entonces, ¿qué tengo que hacer? Iterar.
+39:25 Speaker 2: Discutir. Conversar.
+39:28 Speaker 1: ¿Qué te duele a ti? ¿Cuál es el dolor o el problema que tú tienes? ¿Lo podemos resolver con este planteamiento o hay que buscar otro planteamiento más común? Y esa es la iteración que vamos a tener. Entonces, tanto la distribución o las condiciones para hacer los grupos, el trabajo, el curso, como un paper que yo publico, lo publico otra semana. Y a partir de ahí, ustedes, en este caso, pueden generar reuniones para detallar algo acerca del proceso que se les ha asignado. Y el paper tiene información,
+40:02 Speaker 2: pero...
+40:04 Speaker 1: Y si es necesario, si ustedes consideran necesario, alguna reunión, aclaramos algunos puntos. El año pasado, por ejemplo, no, el siglo pasado fue todo banca. Este año queremos hacer algo de retail.
+40:20 Speaker 2: ¿Qué es lo importante?
+40:22 Speaker 1: Van a aprender de procesos. End to end.
+40:26 Speaker 2: ¿Qué es lo que se llevó el horario pasado?
+40:29 Speaker 1: Hablarían de banca en tu entorno.
+40:31 Speaker 2: Desde la parte de campaña,
+40:34 Speaker 1: cotización, hasta la parte de procesamiento, conciliación, de todas las personas.
+40:39 Speaker 2: Agarramos un producto.
+40:41 Speaker 1: Pero hicieron el entorno. Todos llevaron el
+40:43 Speaker 2: conocimiento de cómo funciona.
+40:45 Speaker 1: Y eso es lo que creo que ustedes tienen que mostrar hasta luego.
+40:48 Speaker 2: Si quieren entrar
+40:50 Speaker 1: a ver una empresa, tienen que ver la entorno. Miren la entorno a lo largo de todos sus procesos.
+40:56 Speaker 2: Dale.
+40:57 Speaker 1: ¿Alguna otra consulta más?
+41:09 Speaker 2: El paper sobre
+41:12 Speaker 1: la empresa que voy a definir es muy probable que sea sobre retail. Y sobre retail yo defino 6 procesos. Y esos 6 procesos yo se los asigno a cada grupo. Yo los asigno. Luego de esa asignación, ustedes lo que tienen que hacer es leer el proceso que les ha tocado y en base a eso, si tienen consultas, agendamos un espacio y les acercamos. Y a partir de ahí, ustedes empiezan su proceso de análisis. Mi recomendación, y se los dije a la hora de pasada también, es que se leen todo el paper. No lean solo su proceso. Porque como les dije, algo que ustedes pueden estar cambiando puede estar afectándole a otro proceso. Tengo que leerme todo el paper para entender la realización.
+41:52 Speaker 2: Esa es la red. Me enfoco en uno,
+41:54 Speaker 1: pero leo todo con entendimiento. ¿Alguna otra consulta?
+42:03 Speaker 2: Vamos a hacer un stop. Profesor, una pregunta. Si en la semana 14, en la presentación final, ¿qué va a haber en la semana 15? Porque normalmente hay clases.
+42:13 Speaker 1: Igual hay clases. Gracias. Antes de ir.
+42:58 Speaker 1: Este es el dato 1. Vamos a entrar a ver. Este es una básicamente... Yo creo que esto se entiende desde el punto de vista más conceptual que del seguro cómo lo utilizamos. Porque
+43:09 Speaker 2: seguro ya muchos se han interactuado con el otro.
+43:12 Speaker 1: Todo esto empieza con el tema de los servidores. ¿Qué es un servidor finalmente? Como les digo, es como una estación, una laptop con más capacidades. Pero ese servidor que maneja recursos de memoria, de disco, de RAM, eso no ha cambiado. Eso me enseñaron a mí hace 30 años y hice exactamente lo mismo. Hoy día tiene algunas particularidades.
+43:33 Speaker 2: ¿Por qué?
+43:35 Speaker 1: Si esto es lo que yo utilizo para ir a alojar mis aplicaciones y sistemas, entonces esto se vuelve importante en el sentido de cuanto más capacidad, más trato mejor.
+43:47 Speaker 2: ¿No es cierto?
+43:48 Speaker 1: Y ustedes analicen sus laptops seguro con mejores características. Ustedes buscan obviamente una laptop que obviamente tenga una característica que les ayude a ustedes a hacer bastante performance. Lo mismo se busca acá. Y entonces surge
+44:05 Speaker 2: que
+44:06 Speaker 1: la unidad que yo debo ver
+44:08 Speaker 2: muy
+44:10 Speaker 1: al margen de hablar de nube o cuando estaba en el data center propio, era el servidor. Y este servidor tenía un tema bien particular, porque también lo tienen nuestras estaciones de trabajo, que
+44:22 Speaker 2: tiene un sistema operativo.
+44:24 Speaker 1: Y ahí empieza, yo creo, la problemática de los servidores que antes eran manejados por las empresas. ¿Por qué surge la nube como la gran solución hoy día a toda la gestión y manejo de infraestructura de las empresas? Entonces, este sistema operativo que yo manejaba acá, Tenía una vigencia. Esa vigencia significa que no es para siempre. Yo le pongo un sistema operativo, y a lo largo de unos próximos 3 o 5 años, el sistema operativo es
+44:56 Speaker 2: absoluto.
+44:57 Speaker 1: ¿Por qué cambiamos? O sea, en otras palabras, tenemos un app. Como también seguro ocurre con nuestros laptops, que también nos sucede app-raise, en un momento decimos, ya no,
+45:07 Speaker 2: te compro.
+45:08 Speaker 1: Bueno, a las empresas no es tan fácil decir, saco este servidor y tomo, porque les toma tiempo. Y ese era un dolor. Entonces, el servidor en la unidad, estos servidores, si yo digo que voy a tener un servidor, pues los acomodo acá, ¿no? ¿Qué pasa? Las empresas, estamos hablando de empresariales, necesitaban 10, 15, 20 servidores físicos. Y eran como estos gabinetes, ¿y dónde los acomodo?
+45:34 Speaker 1: Entonces, un momento se dijo, yo necesito, esto se llama RAC, Y lo que necesito es un rack para poder optimizar mi espacio. Porque el espacio, el metro cuadrado, ustedes sabrán, ahora está en auge todo el tema de inmobiliario.
+45:54 Speaker 2: Ustedes pueden agregar cuánto es el metro cuadrado o el distrito. Bueno, las empresas al
+45:59 Speaker 1: final son activos. ¿Qué significa? Que si yo adquino un local, estoy pagando por un metro cuadrado. Cuanto más pague por ese metro cuadrado,
+46:06 Speaker 2: más estoy gastando.
+46:08 Speaker 1: Entonces, ¿qué sucedía? Ellos decían, el piso tal es para toda esta infraestructura que la tengo alojada, la empresa que la necesito. Tengo que cablear, refrigerar, todo. ¿Y a cuánto me cuesta eso? Por metro cuadrado, si estoy hablando de un salón, son 20 metros cuadrados.
+46:25 Speaker 2: ¿Cuánto me puede estar gastando?
+46:26 Speaker 1: Si me cuesta cada metro cuadrado 2.000 dólares, ya me estoy gastando más 4.000 dólares. Y si lo estoy multiplicando por 12 meses, de repente me estoy gastando 48.000 dólares en eso.
+46:36 Speaker 2: Cuando podía utilizarlo para otra cosa.
+46:39 Speaker 1: Entonces no era muy rentable tener
+46:41 Speaker 2: estos gabinetes
+46:43 Speaker 1: dentro de espacios físicos solamente para obviamente mantener mi infraestructura propia.
+46:49 Speaker 2: Entonces un primer esfuerzo de cómo
+46:52 Speaker 1: manejarlo mejor fue virtualizar. Ustedes también pueden entrar y particionar. Bueno, este es el mismo concepto. Si tengo un gabinete, ¿para qué voy a tener un gabinete como una sola unidad? Y lo que hago es particionarla y crearme servidores virtuales. solamente con el efecto de querer hacer, optimizar mejor mi espacio. El mismo gabinete puede tener muchas particiones, como muchos servidores, y yo puedo tener más infraestructura en el mismo espacio. Con la idea de no crecer en espacio porque el espacio es caro. Entonces, esta era la idea de los racks.
+47:27 Speaker 2: Y claro,
+47:28 Speaker 1: ya hablando de cómo estos están distribuidos, están distribuidos de esta manera, no sé si alguna vez ustedes... han tenido la oportunidad de ir a un data center. Yo tuve la oportunidad, por ejemplo, cuando fui a Costa Rica, de entrar al data center de Google. Claro, eso era inicio, ¿no? Realmente parecían hectáreas de hectáreas, pero era en esta distribución.
+47:49 Speaker 2: Ahora,
+47:50 Speaker 1: esto en menor escala existía en las empresas. En un salón de clase, así como este, existían estos raps. Y a eso se lo conocía con el nombre de data center. Y obviamente tenías que tener cierto cuidado para mantener esta infraestructura. Desde temas de refrigeración, cableado. ¿Qué pasa si hay corte de luz? Tenía que tener un grupo electrógeno, de ahí se pensó en tenerlo replicado de otro local. Todas las estrategias que han sucedido. Y eso que finalmente muestra es carísimo. Que es carísimo. No solo por el metro cuadrado, porque si no, yo decido llevarme y replicar eso mismo en otro lado, me va a costar el doble.
+48:34 Speaker 2: Y aún así, aún así que me cuesta el doble,
+48:37 Speaker 1: me sigue faltando algo. La velocidad para poder aprovisionar infraestructura. ¿Por qué es estática? Por ejemplo, ahorita yo les digo a ustedes,
+48:48 Speaker 2: Jorge,
+48:49 Speaker 1: por ejemplo, le digo, fue más de un equipo de 5.
+48:53 Speaker 2: Y de repente le digo, estos tres de aquí, con estas actuaciones de acá.
+48:57 Speaker 1: Solo ellos tres tienen un laptop y ellos no. Y le digo, Jorge, consiguete dos laptops. Pero no puedes tocar ninguna de ellas.
+49:03 Speaker 2: ¿Qué haría él? Salía a buscar.
+49:04 Speaker 1: ¿Dónde buscó? ¿Dónde buscó? Bueno, le pasaba mismo a las empresas igual. Le pedían más infraestructura, pero no había. Porque todo estaba sin utilizar. Y tenían que comprar. ¿Cuánto demoraba en traer esa infraestructura?
+49:17 Speaker 2: Tres meses.
+49:19 Speaker 1: Porque no lo fabricaban nosotros.
+49:22 Speaker 2: Ahora alguien me podrá decir, profesor, ¿por qué no lo tendrían en stock? ¿Cómo yo te diría? ¿Tú tendrías
+49:28 Speaker 1: unos 15 mil dólares o 30 mil dólares como
+49:31 Speaker 2: que ahí, guardados bajo la cama?
+49:34 Speaker 1: Una empresa no se piensa así, se conceptualiza así. Una empresa financiera siempre piensa en invertir sus activos de la mejor forma.
+49:41 Speaker 2: No puede comprar o
+49:42 Speaker 1: aprovisionarse en infraestructura que no la necesita simplemente porque alguien en algún momento se la va a pedir.
+49:49 Speaker 2: Entonces un momento dijeron, vamos a hacer forecast.
+49:52 Speaker 1: Planifiquemos cuánto vamos a crecer anualmente y vamos calzando los tiempos de cuando me piden, cuando yo debo ir solicitando, por lo menos dos o tres meses antes.
+50:00 Speaker 2: Pero era muy lento.
+50:01 Speaker 1: Y si me equivocaba en la estimación, tenía que tener tiempo. Entonces, ahí nomás a las personas que desarrollan se presenta la primera problemática. Si yo tengo infraestructura para desarrollar, no puedo hacer nada. Todo lo que haga localmente no
+50:15 Speaker 2: vale.
+50:17 Speaker 1: Porque yo necesito un
+50:18 Speaker 2: espacio de desarrollo.
+50:20 Speaker 1: para empezar a iniciar algo,
+50:22 Speaker 2: la construcción de algo.
+50:24 Speaker 1: Ese fue el problema de los datacenters que estaban en las empresas. Y que fue inviable. Porque cada vez con la agilidad que sucedía, la agilidad pues empezaba como estaban
+50:36 Speaker 2: escenas
+50:39 Speaker 1: que se ve que estamos queriendo hacer mucho. Para hacer mucho, ¿qué tenemos que hacer? Generar nuevas aplicaciones, nuevas capacidades. ¿Cómo lo hago si mi infraestructura es mi primera barrera de entrada? Necesito algo para poder hacerlo
+50:53 Speaker 2: rápidamente en minutos.
+50:55 Speaker 1: Y por eso es
+50:57 Speaker 2: que viene
+50:58 Speaker 1: el concepto del mundo. Yo lo que les he explicado de Data Center es lo mismo que existe, si ustedes llegan a Virginia, Ohio, o la otra vez estuve en Atlanta, es lo mismo que existe. Claro, pero esto está ahora manejado y administrado por grandes vendors. O sea, está por Amazon, está por Microsoft, está por Google, pero tienen lo mismo.
+51:26 Speaker 2: Son hectáreas, hectáreas. Ahí están los data centers,
+51:30 Speaker 1: donde hoy día está nuestra aplicación. Nosotros utilizamos eso. Está como que tercerizado, ¿no? Pero ¿cuál es el concepto que se ha manejado acá? Economía de escala. ¿Qué les estaba diciendo al inicio? Les decía, como empresa, unitariamente, cuando yo compro un servidor, dos servidores, acomodo un espacio, me cuesta muy caro. Pero ¿qué pasa si me voy a un modelo como una economía de escala? Donde el costo de todo es pagado por varios. Entonces el costo es a varios.
+52:04 Speaker 2: Y había un primer mensaje
+52:08 Speaker 1: que les quiero dar, porque he escuchado esto bastante. Dicen,
+52:13 Speaker 2: ¿Clock Computing es más caro
+52:16 Speaker 1: que por lo manejado de la tasa de estudiantes?
+52:20 Speaker 2: No.
+52:22 Speaker 1: Yo les puedo mostrar que no. No es más caro, es más costeficiente.
+52:28 Speaker 2: Ahí está la idea.
+52:30 Speaker 1: Si lo saben utilizar, es más costeficiente. Porque antes, cuando yo tenía mi atrasante
+52:38 Speaker 2: empresarial,
+52:40 Speaker 1: ¿cuál es el principal problema que había? Que yo tenía que pagar por una infraestructura que no necesariamente lo utilizaba al 100%. O sea, en otras palabras, yo me preparaba para los días pico. Pero mi infraestructura tiene que estar ahí lista. Se usaba del mes, 22, 25 días, 5 días, y los demás días estaba ociosa. Yo pagaba por esa infraestructura ociosa. Y dicen eso con negocio. La nube hoy día con el concepto de escalabilidad y elasticidad se permite pagar por lo que realmente... Ahí
+53:23 Speaker 2: está la diferencia.
+53:34 Speaker 1: Yo creo que tiene más que ver con el apetito tecnológico que tiene esa empresa. ¿Para qué lo usa?
+53:45 Speaker 2: Por ejemplo...
+53:48 Speaker 1: ¿Qué nos movería el Estado de volumen a mover todo al mundo?
+53:52 Speaker 2: ¿Qué le daría? El Estado no transacciona.
+53:56 Speaker 1: O sea, no transacciona y gana por todos los servicios que nos ofrece a nosotros. La forma de recolectar dinero viene de otra manera. ¿A quién sí le interesa un modelo que sea costo eficiente para poder escalar y no tener problemas de costo cuando quiera vender más? A una empresa corporativa.
+54:17 Speaker 2: Entonces tiene que ver en su estrategia.
+54:19 Speaker 1: Tu estrategia es la que va a definir qué tanto tú debes mover todo el mundo.
+54:24 Speaker 2: ¿Hay restricciones técnicas?
+54:25 Speaker 1: Seguro de progresividades racionales, algunas reglas, ley que han puesto. Pero que todo se puede cumplir. Policitar con la baranda, poder certificar data, etc.
+54:37 Speaker 2: Todo se puede, pero tiene que ver con la estrategia.
+54:40 Speaker 1: La estrategia es la que determina qué tarde voy a
+54:42 Speaker 2: mover el sistema central.
+54:44 Speaker 1: Pero hay de mecanismos hechos. Hay muchos problemas para jugar con sistemas actuales. Vamos a ver esas estrategias que son seis.
+54:53 Speaker 2: Entonces,
+54:54 Speaker 1: Cloud Computing tiene ese concepto de economía escala. Entonces, si ustedes, algunos son curiosos, han podido entrar a las consolas.
+55:01 Speaker 2: Creo que acá usamos
+55:03 Speaker 1: el AWS Academy. Ustedes pueden ver el costo del servicio que van a utilizar. Si quieren un S3, un S2, el Lambda. Vamos a ver que es un 0, 0, 0 y algo. ¿Por qué es así tan bajito?
+55:18 Speaker 2: ¿Por qué se van a ir a escala? Yo no estoy pagando realmente.
+55:23 Speaker 1: Si pagara como si fuera uno, me saldría muy caro. Pero si cae varios, ese costo se limpia.
+55:29 Speaker 2: Entonces ahí está la diferencia.
+55:31 Speaker 1: Por eso es un modelo que
+55:34 Speaker 2: hoy en día,
+55:35 Speaker 1: desde mi punto de vista, es un modelo muy rentable. Muchas empresas lo que han hecho es trasladar su infraestructura a la nube, para así ser más coste eficientes, dejando que estos grandes vendors empiecen obviamente a operar. ¿Y qué es lo que ellos te garantizan? Te garantizan pues el cumplimiento de
+55:56 Speaker 2: todo lo que es la
+55:57 Speaker 1: actualización, por ejemplo, de estos sistemas operativos. Un gran dolor. Ya no tendrías el problema de que la infraestructura se vuelve obsoleta, porque ellos se encargan de renovarla. En el caso de una empresa, cuando una infraestructura que era propia... Si ha sido obsoleta, es como que yo tengo que mandarla ¿a dónde?
+56:15 Speaker 2: Al gasto. Y el gasto, ¿qué castiga? La utilidad.
+56:20 Speaker 1: Y ahí pasaron al modelo de
+56:22 Speaker 2: alquiler.
+56:23 Speaker 1: Por eso si ustedes entran a una empresa, las laptops que le dan todas son alquiladas. O sea, pagan un costo, si quieren, mensual por esas laptops, pero no utilizan para comprar eso, porque si lo compraran, luego tendrían que mandarlo al gasto, porque el gasto castiga la utilidad. No hay cosas interesantes que hay que conocer para saber cómo se mueve y por qué este negocio está rentado. Y hay tres vendors importantes que hicieron de esto la
+56:53 Speaker 2: oportunidad que hasta ahora
+56:55 Speaker 1: nos ha permitido ser
+56:57 Speaker 2: los grandes players en
+56:58 Speaker 1: el sistema de cloud computing. Desde mi punto de vista VLOS, para el tema transaccional, yo
+57:04 Speaker 2: lo recomiendo mucho. Creo que si ustedes piensan hacer un sistema
+57:08 Speaker 1: transaccional, piensen en AWS. Si ustedes quisieran trabajar en agentes, trabajar en modelos de inteligencia artificial, yo les recomiendo que hagan TCP. Me parece que es una nube más orientada a eso. Azure todavía no le encuentro un foco importante. Por ahí vi que eran buenos en sistemas de DevOps. Han sacado, me parece, el tema de Azure y DevOps. Bien integrado, me parece. Interesante para ver, ¿verdad? Pero yo sí diferenciaría entre esas nubes, el central EWS y ICP. Es mi posición, de lo que yo he explorado, de lo que conozco. Y va en línea a hacer soluciones empresariales multinubes, ¿no? Multicloud. Porque ya no hay el concepto de que haga una solución monocloud. Ahora, imaginen, las soluciones van a ser así,
+57:56 Speaker 2: multinubes.
+57:58 Speaker 1: Y ahora se van a integrar. Van a hacer ese concepto que lo llamaban componentizable. Bien, entonces esto nos lleva a qué características tiene esta economía escala que primero te permite aprovisionar rápidamente. O sea, lo que les decía que antes me tomaba pues días, meses, acá son minutos. Y el otro es
+58:20 Speaker 2: el bajo costo,
+58:23 Speaker 1: costo eficiente. Porque obviamente lo que yo hago es, si antes me demoraba, el proceso para pagar algo físico se conocía como decommissioning. En inglés decommissioning. Pero no era simplemente voy y desconecto. Esto es un proceso para yo poder dar de baja físicamente a un servidor que tengo en un data center propio. Bueno, acá pues es rapidísimo, ¿no? Simplemente darle baja, eliminarlo, ya no considerarlo. Todas esas características la nube las da. Y obviamente son los tiempos que hoy día nos exigen las empresas. Porque para provisionar infraestructura, yo me muero un minuto, porque los proyectos muchas veces, también, que aparecen en las empresas, son de un día para otro.
+59:07 Speaker 1: Y mi primer bloqueante, que era la infra, ya no la tengo como bloqueante. Ya puedo provisionar la infra justo al día siguiente, creo que es. Al menos empezando por el área de desarrollo. Estos son los tres players que aparecen. Son una característica obvia, pero igual se las digo. El que llega primero siempre es el que gana más.
+59:31 Speaker 2: ¿Quién llegó primero? Ambos. Por eso lleva ventaja. ¿Que los otros los pueden alcanzar?
+59:39 Speaker 1: Seguro. No digo que no. Pero es como que yo te digo, si yo estoy ya más tiempo metido en algo... Obviamente he madurado más ideas, explorado, hecho laboratorio. El otro también lo va a hacer. Pero ¿a qué inversión? ¿Quién gana más? Por eso que AWS y QCB se diferenciaron. ¿Por qué ayer no despegó el 2008, como decimos acá?
+01:00:03 Speaker 2: Por su seo.
+01:00:04 Speaker 1: Porque no tuvo una estrategia en el tema del mundo. Pensó que era un commodity más. No pensó que era realmente lo que iba a transformar la forma como las empresas se iban a mover. Entonces hoy día Estados Unidos se han diferenciado tanto y siguen siendo líderes. Y van a hacerlo por mucho tiempo. Salvo
+01:00:25 Speaker 2: obviamente que cometan errores, pero yo no lo creo.
+01:00:32 Speaker 1: Esta es la definición de Cloud Computing. Computación en la nube es la entrega bajo demanda de capacidad informática, hablando de almacenamiento de base de datos, aplicaciones, recursos de TI. Esto es ofrecido a través de servicios en la nube. Por eso les hablaba de tu servicio de almacenamiento, tu servicio de BBC, tu servicio de Lambda, tu servicio de Storage. Todo es ofrecido a través de servicios en la nube. Con precios... basados en el consumo.
+01:01:03 Speaker 2: Eso es como la factura de tu luz. Pagas por lo que usas.
+01:01:09 Speaker 1: Y ahí está, yo creo, el gran reto de eso. Hay una cosa que antes, a pesar de que existía este diseño, siempre ha existido diseño de soluciones, lo que les he hablado, siempre ha existido. Lo que estamos dándole es una connotación quizás diferente.
+01:01:31 Speaker 2: Yo me pude haber equivocado hace
+01:01:34 Speaker 1: 30 años, de repente hace 5 años, definiendo algo. Pero ¿qué me salvaba?
+01:01:39 Speaker 2: El presupuesto. Porque cuando dejaba un loop
+01:01:42 Speaker 1: a nivel de base de datos, o así en una mala condición, ¿qué sucedía? Mi servidor,
+01:01:48 Speaker 2: como tu computadora,
+01:01:49 Speaker 1: llega a un techo y ¿qué hace? A bordo. Se cae solito. Entonces mi techo siempre era la
+01:01:57 Speaker 2: infraestructura.
+01:01:59 Speaker 1: Y muchos desarrolladores, muchos líderes técnicos realmente cometían errores, pero estaban de alguna manera soportados en que la infraestructura era la forma como iba a frenar esas malas prácticas. Y claro, luego corregían. Con la lube no sucede eso.
+01:02:15 Speaker 2: La nube no te permite ese tipo de errores. Porque la nube escala. Si tú cometes un error,
+01:02:22 Speaker 1: esa respuesta es días, semanas,
+01:02:23 Speaker 2: meses, y no te va a avisar. De factura, te vas a dar cuenta, ¿no?
+01:02:30 Speaker 1: Comprarás una factura de 10.000 y tenés una factura de 50.000 dólares. Y la nube te la va a cobrar. Ahí está la diferencia. Entonces, no se puede trasladar tus prácticas del mundo on-premise, así se lo conoce cuando todo estaba en el mundo de la ciencia principal, a la nube. No lo puedo tratar, porque cometería errores. Ventajas como vemos acá, aprovisionamiento, coste eficiente, flexibilidad y un esfuerzo personal bajo. Acá las empresas empiezan a enfocarse más en desarrollo, en seguridad, en infraestructura y la parte operativa se la trasladan a estos grandes ventas.
+01:03:11 Speaker 2: Para que puedan utilizar infraestructura a
+01:03:14 Speaker 1: gran escala. Con esto salimos al break. Esto también es algo que yo siempre se los pregunto en los exámenes, pero muchas veces no nos queda claro. ¿Por qué existen sabores de nudo? Este es el mundo tradicional. Así a veces me van a escuchar que yo digo, on-premise, significa que todo se manejaba en un data center propio. La empresa, en su edificio, alguna cuarto, habitación, piso, lo que quieran, ahí ponían sus servidores y ahí tenían su infraestructura. Bueno.
+01:03:45 Speaker 1: Hoy en día, existen muchas empresas que todavía tienen parte en Compromise y parte en la nube. A eso le llamamos Ibu. Porque es parte, obviamente, de su proceso de migración
+01:03:54 Speaker 2: que no ha sido inmediato.
+01:03:56 Speaker 1: Pero en la nube existen estos tres sabores principalmente. De ahí hay algunas que me han creado, me parece, una más. Pero yo me concentraría en estas tres. Primero, ¿qué es Elías? Infraestructura como servicio. Como su nombre lo dice, si vemos acá.
+01:04:12 Speaker 2: ¿Qué está sucediendo aquí?
+01:04:14 Speaker 1: Acá te está diciendo que hay una serie de capas, desde la parte de networking, storage, servidores, la virtualización, el sistema operativo, el middleware, el runtime, la data y la aplicación. Obviamente yo estoy viendo esto,
+01:04:27 Speaker 2: la aplicación.
+01:04:28 Speaker 1: Pero todo esto existe. ¿Qué pasa en el mundo de ellas? Prácticamente solo me está dando, ¿qué cosa?
+01:04:34 Speaker 2: La parte más alta.
+01:04:37 Speaker 1: En otras palabras, solamente me está ayudando a disponer. Pero la parte tediosa que le dije que era el manejo del sistema creativo, el manejo del runtime, el manejo del middleware.
+01:04:47 Speaker 2: Porque se vencen.
+01:04:48 Speaker 1: Porque hay features que hay que aplicar. Porque de ahí empiezan los ataques y las vulnerabilidades. Entonces, si yo hago un modelo IaaS, muchas veces lo que se dice es que estás haciendo un leaf and
+01:04:59 Speaker 2: shield. Tengo mi aplicación acá,
+01:05:02 Speaker 1: lo previsiono en IaaS, y lo que hago es moverlo, tal cual. La pregunta es, ¿está usando la capacidad de la nube de manera eficiente? De repente hasta va a gastar más. En cambio, el modelo ideal es hacer como un PASS. Platform as a hacerlo. Porque ya empieza a llevarse la gestión del sistema operativo, la gestión del middleware, la gestión del runtime, para que puedas
+01:05:32 Speaker 2: enfocarte en dónde y
+01:05:33 Speaker 1: netamente en la aplicación. Y eso es lo que a nosotros nos interesa, enfocarnos en la aplicación. Aquí, claro, se va a conectar y hacer más interno, más externo. Entonces, sí, hay una gran diferencia en eso. Entonces, mi recomendación siempre es, si vamos a la nube, paz o default. Elías debe ser una excepción. Porque si tú haces mucho IAS, no aprovechas bien lo que tu organización tiene. Y finalmente está el SAS.
+01:06:05 Speaker 2: El SAS es,
+01:06:07 Speaker 1: y ahí les comento algo, las empresas que hoy día existen en el mundo,
+01:06:14 Speaker 2: hablando de las empresas que
+01:06:18 Speaker 1: tienen tamaños interactivos, se enfrentaban a esto que cuando encontraban algo muy especializado hacían Tengo dos caminos. O lo desarrollo o
+01:06:30 Speaker 2: voy
+01:06:31 Speaker 1: por una solución insistente. Pero ir por una solución insistente significaría que le voy por un vendor que tiene conocimiento en esto. Que ya pasó por eso, que había hecho varios años y ha sacado una solución. Y lo que yo hago es básicamente alquilar esa. Una suscripción.
+01:06:47 Speaker 2: Lo uso. Bueno. Eso
+01:06:51 Speaker 1: es lo que pasaba hace muchos años. Bueno, hoy día para mí eso no vale. Eso es lo que yo le digo. Eso ya no vale.
+01:06:59 Speaker 2: ¿Qué ha cambiado en
+01:07:00 Speaker 1: los últimos años para que yo les pueda firmar eso? Porque antes, todo lo especializado, estas empresas que te ofrecían ese software, te lo vendían como algo que hace morar años construyendo.
+01:07:16 Speaker 2: Así te lo vendían.
+01:07:19 Speaker 1: Te vas a demorar años construyendo esa capacidad. Yo te lo ofrezco hoy.
+01:07:23 Speaker 2: Claro, tú por tema de tiempo
+01:07:25 Speaker 1: pagabas ese diferencial por oportunidad, porque es un costo-oportunidad para ti. Pero hoy
+01:07:32 Speaker 2: día, con
+01:07:32 Speaker 1: la experiencia artificial, con la forma como se lanzó hace tres meses a Trópico, con la versión de Claude,
+01:07:40 Speaker 2: y demostró que
+01:07:42 Speaker 1: cuantas cosas que antes eran imaginables, hacerlas rápidamente, se podían hacer. En poco tiempo, prácticamente lo que ha dicho es marcar un nuevo hito. Y ahora muchas empresas están optando por desarrollar.
+01:07:55 Speaker 2: Y ya no compraron eso.
+01:07:59 Speaker 1: Entonces yo creo que va a suceder eso.
+01:08:02 Speaker 2: Vamos a ir
+01:08:03 Speaker 1: por un modelo más de desarrollo, otra vez. Van a aumentar los desarrolladores, van a querer más desarrollar. Y claro, estas empresas tienen que cambiar su modelo de negocio. Ya no va a ser comercializarse, pero van a entrar a otro tipo de modelo de negocio.
+01:08:19 Speaker 2: Tienen que ir pensando.
+01:08:20 Speaker 1: Pero esto es el modelo SAS, que puede quedar para algunas todavía soluciones, me parece, podría ser,
+01:08:27 Speaker 2: pero...
+01:08:28 Speaker 1: Algunas soluciones empresariales seguro van a irse a un modelo de desarrollo de la medida y se va a buscar construirla. No van a ir por un modelo de software asesor. ¿Ok? Bien. ¿Preguntas hasta aquí?
+01:08:43 Speaker 2: ¿Estamos? Guías,
+01:08:45 Speaker 1: prácticamente simplemente aprovisionar la infra.
+01:08:48 Speaker 2: PAS es
+01:08:49 Speaker 1: el manejo gestionado de todas estas capas que me permiten a mí mantener ese servidor activo, vigente, sin obsolescencia. Quizás es cuando esto está afuera. ¿Por qué siempre les hago la aclaración sobre esto? Porque es muy probable que en el caso se diferencie esto.
+01:09:07 Speaker 2: Claro,
+01:09:07 Speaker 1: lo ideal es que yo tenga todos mis desarrollos. Pero no va a ser así el caso. El caso va a mostrar que hay cosas que la empresa tiene desarrolladas y hay cosas que obviamente utiliza un tercero. Por ejemplo, una pasarela de pago. Por ejemplo, una firma digital. Le voy a dar al tanto. Entonces tiene que diferenciar. Y algo que es externo no significa que yo
+01:09:30 Speaker 2: lo pueda cambiar.
+01:09:32 Speaker 1: Tengo una forma de integrarme, estándar, y tengo que respetarlo. Acá tengo mayor grado de libertad.
+01:09:40 Speaker 2: ¿Vale?
+01:09:41 Speaker 1: Bien. Nos vamos a ver 15 minutos y regresamos. A ver, tenemos que también entender esta diferencia, que es más conceptual, pero es importante cuando uno también quiere determinar algo. Diferencia entre CAS y FAS. CAS, Container as a Service,
+01:10:13 Speaker 2: y FAS, Funeral as a Service.
+01:10:15 Speaker 1: Pero acá ya nos habíamos hablado de IAS, ¿de acuerdo? ¿Qué dijimos de IAS?
+01:10:19 Speaker 2: Infraestructura como servicio. ¿Qué significa entonces en este caso
+01:10:22 Speaker 1: infraestructura como servicio?
+01:10:53 Speaker 1: Ok. Está bueno. ¿Cuál es su nombre?
+01:10:54 Speaker 2: Carlos.
+01:10:59 Speaker 1: Actualmente unidas, imagínense, solo infra.
+01:11:03 Speaker 2: Solo la infra.
+01:11:05 Speaker 1: Y sobre eso yo tendría que, si necesito desplegar una función, una aplicación, yo tendría que un condicionado. En otras palabras, imagínense, este salón, pero vacío.
+01:11:17 Speaker 2: Y ustedes llegan.
+01:11:19 Speaker 1: Ahí sí, ya deben sentarse. En un container as a service, en realidad, ya ese salón está preparado. Hay cosas que ya están colocadas. De repente están colocadas las mesas, las sillas. Y claro, yo llego para utilizarlos. ¿Y qué será un Function as a Service? Porque no lo
+01:11:36 Speaker 2: dices Function. ¿Qué significa?
+01:11:38 Speaker 1: Si en el container yo estoy hablando de algo que he paquetizado, en el Function lo que me estoy escojando en algo específico. Que a mí me interesa que se ejecute en ese momento. Si lo vemos a nivel de costos, este es caro. Y luego poner así como...
+01:12:02 Speaker 2: Voy a
+01:12:04 Speaker 1: poner acá. Esto me cuesta como 3. Esto me costará como 2.
+01:12:11 Speaker 2: Y
+01:12:12 Speaker 1: esto me costará como 1.
+01:12:13 Speaker 2: Ahorita le doy mi explicación. ¿Por qué cuesta caro?
+01:12:17 Speaker 1: Porque ya les dije, entregarme la infra y que no haya nada, no hay sistema operativo, no hay miedo, no hay nada. Yo todo lo tengo que condicionar. Requiere tiempo, esfuerzo, configuración. Por lo tanto hay un mayor esfuerzo y un mayor costo en hacerlo.
+01:12:32 Speaker 2: En este caso, yo
+01:12:34 Speaker 1: ya tengo ciertas cosas ya administradas o autogestionadas. Puede ser el sistema operativo, puede ser el runtime. Y efectivamente el container es lo que me va a ayudar a mí. En este caso, yo voy a sobre esa infraestructura desplegar el container que en este caso estoy queriendo utilizar.
+01:12:50 Speaker 2: En esta,
+01:12:51 Speaker 1: es mucho más barato porque a diferencia de estas dos, el container se habla de un paquete. En este estoy hablando de algo específico. Por eso se ve... En este caso, un servicio. Y acá se ve un
+01:13:05 Speaker 2: hardware a nivel de servicios de uso.
+01:13:08 Speaker 1: Cada uno administra cosas diferentes. La pregunta que ustedes deben hacer es
+01:13:13 Speaker 2: ¿cuándo uso un container y cuándo uso un function?
+01:13:18 Speaker 1: No es sencilla la respuesta. Depende del proceso. Depende del proceso. Y ahorita les explico por qué. Por ejemplo,
+01:13:31 Speaker 2: Si yo estoy ahorita en
+01:13:34 Speaker 1: un canal digital, en una aplicación digital, y estoy haciendo una transacción, yo necesito que esa transacción se realice en el menor tiempo posible. Porque si yo me demoro demasiado, es muy probable que el cliente empiece a percibir que mi aplicación es lenta. Y eso se va a traducir en una fricción con el cliente.
+01:13:55 Speaker 2: Por lo tanto, yo estaría más pensando en un...
+01:13:59 Speaker 1: ¿Function as a service por tema de tiempo? No. Un container necesario. ¿Por qué? Porque el container a diferencia del function, el function para instanciarse requiere primero que le
+01:14:14 Speaker 2: evites las capacidades mínimas.
+01:14:17 Speaker 1: Por eso cuesta abajo. Porque no tiene prendido casi nada. Al momento que tú lo vas a invocar, ese momento se prende. Le llaman un tiempo, un tipo de lagueo si quiere. Ese tiempo puede sumarse un segundo, medio milisegundo, va a depender. Pero ese tiempo es el tiempo que tú lo estás trasladando a que el cliente te espera. Sí te puede.
+01:14:39 Speaker 1: En cambio acá no. Pero hay una diferencia. El container siempre está prendido. Y este se activa por eso. A nivel de costo eficiencia, este sería el más costo eficiente. Pero este te podría resolver problemas de experiencia al cliente cuando lo activas. Por eso no se analiza desde el lado técnico, se analiza desde dónde lo voy a usar y aplicar. Entonces, cuando ustedes hagan una estrategia de desarrollo de componentes en la nube, tienen que fijarse en eso. ¿Cuándo comienza a ser private? ¿Cuándo comienza a ser landa?
+01:15:14 Speaker 2: No todo es landa.
+01:15:16 Speaker 1: Yo veo empresas que han utilizado esto como su único default. Y luego tienen problemas de
+01:15:21 Speaker 2: experiencia cliente.
+01:15:24 Speaker 1: Entonces hay que saber qué cosa. Eso que no nos gusta.
+01:15:29 Speaker 2: Yo sé.
+01:15:30 Speaker 1: Hiciéramos una regla para todo. No
+01:15:32 Speaker 2: existe acá. La regla es
+01:15:35 Speaker 1: para los que no quieren analizar. Para los que quieren analizar, vamos a empezar a ver casos. ¿Cuándo conviene uno u otro utilizar? Porque la nube, así como en el caso de Farget y Lambda, va a encontrar muchísimos más casos iguales. A nivel de R, S, O, R.
+01:15:51 Speaker 2: Muchísimas.
+01:15:52 Speaker 1: Cada uno se resuelve de esa manera,
+01:15:55 Speaker 2: analizando.
+01:15:56 Speaker 1: ¿Ok?
+01:15:58 Speaker 2: Bien.
+01:16:02 Speaker 1: aclarar sobre esto de acá de mucho más de ser rico que tienen en su trabajo. El otro es que hemos hablado de nube. Y claro, nos hemos centrado en hablar de esto, de nube pública, que es la que nosotros realmente utilizamos. Porque es, pensando en Amazon, en Google, la opción pública a la que está disponible para todos. Cuando digo pública es porque en ese data center, que puede ser Virginia, Ohio, en Estados Unidos, así como está... Unos datacenters ni siquiera exclusivos. Comparto con otra empresa la misma
+01:16:42 Speaker 2: infraestructura, eso significa que es público. Pero ¿qué pasa en un privado? En un privado yo ya no comparto.
+01:16:49 Speaker 1: En un privado significa que ese datacenter, que ese espacio, es exclusivo para mí. Pero obviamente, ¿qué va a suceder aquí? Claro, porque al pagar tu sueldo,
+01:17:04 Speaker 2: tú te ibas el costo de eso.
+01:17:07 Speaker 1: Que no es lo mismo
+01:17:08 Speaker 2: pagarnos en
+01:17:10 Speaker 1: temas de economía de parte. Y luego está el modelo híbrido. El híbrido es aquel que camina en nube pública y nube privada. Algunas empresas tienen esta fuerte restricción que llaman el flujo transfronterizo.
+01:17:29 Speaker 2: Lo que la
+01:17:31 Speaker 1: norma regula es que hay ciertos datos de los clientes que no se pueden, vamos a decir, llevar fuera del país. Por eso es el flujo transfronterizo. Entonces necesito que
+01:17:47 Speaker 2: los datos
+01:17:48 Speaker 1: estén aquí alojados. Y por eso les decía que hay empresas que aún mantienen un data center, pero es menor. Tamaño local.
+01:18:00 Speaker 2: Más reducido.
+01:18:02 Speaker 1: Y hay otros en cuales ya han
+01:18:04 Speaker 2: podido sacar toda la nube.
+01:18:06 Speaker 1: Pero hay ese tipo de cosas. No puede ser una nube dividida también. Y el tema es el punto 4 lo coloqué porque eso para mí es lo
+01:18:14 Speaker 2: de hoy. El multicloud.
+01:18:18 Speaker 1: Creo que hace dos años, creo que dos o tres años estoy produciendo obligatorio en la carrera. Para estudiantes me preguntaban cuál era la nube que deberían ellos perfilarse a ser más expertos o tener mayor conocimiento, pensando que era como una orientación hacia una nube que los podría luego posicionar más adelante en el mundo laboral. Claro, de repente hace dos o tres años yo le he dicho, especialícate en una nube y esa nube que elijas, obviamente vuélvete un buen especialista y experto para que puedas obtener muchas oportunidades. Hoy día ya no recomendaría lo mismo.
+01:18:55 Speaker 1: Porque si es cierto, hace algunos años, que se les hace una nube, te daba una oportunidad, hoy día ya no es la misma oportunidad. Hoy día lo que buscan es una persona que tenga conocimiento de varias nubes. Porque lo que buscan es sacarle el mayor provecho a la nube que va a utilizar. Soy el tema de Multi Cloud. Ya ni siquiera digo que está por mil. Ya está.
+01:19:18 Speaker 1: La mayoría de las empresas son
+01:19:20 Speaker 2: Multi Cloud.
+01:19:21 Speaker 1: Es decir, utilizan varias nubes. Y en varias nubes ustedes van a encontrar soluciones tecnológicas. Ya no existe Google, esa nube no me la conozco, no puedo vender, ¿no? Después tienes que saber de la nube.
+01:19:34 Speaker 2: Tienes que saber de Google, tienes que saber de Google, tienes que saber de
+01:19:36 Speaker 1: Google, tienes que saber de Azure.
+01:19:38 Speaker 2: Tienes que saber cómo
+01:19:40 Speaker 1: combinarlas, desde varios aspectos, cómo las integro,
+01:19:45 Speaker 2: cómo manejo
+01:19:47 Speaker 1: mi tema de seguridad. ¿Cómo hago el tema de la alta disponibilidad? Vamos a hablar acerca de eso. Por ejemplo, nosotros manejamos, si yo les decía, tres nubes principales.
+01:20:03 Speaker 2: Acá está WS, acá está GCP,
+01:20:09 Speaker 1: y nosotros tenemos la de OSI, la de Oracle. Acá están nuestros sistemas Ford, acá está el mundo analítico, y el tema de los agentes NIA. Y acá están nuestros portales hacia afuera, ¿no? Para nuestros clientes y socios. Entonces, lo hemos hecho así, no a propósito, sino que tiene un rango racional. Si esto es lo que se pone de cara hacia afuera, esto es lo que empiezo a proteger.
+01:20:46 Speaker 1: No necesito proteger tanto eso y eso,
+01:20:48 Speaker 2: porque son de un cliente.
+01:20:53 Speaker 1: Porque si yo empezara por acá también a exponer, ¿qué sucedería si acá tengo un posto? Lo tengo que triplicar acá.
+01:21:05 Speaker 2: Me gastaría tres veces.
+01:21:07 Speaker 1: Por eso que también direcciono, dependiendo de cada nube y cada tipo de solución, sé en qué nube debe ir. Y cómo combina esta nube. Obviamente que tiene integración. De la misma manera, el tema de multiregión, el tema este de la alta disponibilidad que ahorita vamos a hablar. ¿Qué sucede? Yo necesito obviamente decir qué
+01:21:26 Speaker 2: flujos
+01:21:27 Speaker 1: aquí requieren una alta disponibilidad porque son mis sistemas COR, ¿no? ¿Qué pasa si un sistema COR
+01:21:32 Speaker 2: no funciona? Porque no puedo transaccionar.
+01:21:34 Speaker 1: Y seguro desde los sistemas de carga al cliente también requiero una alta disponibilidad.
+01:21:40 Speaker 2: Sin embargo, acá no,
+01:21:41 Speaker 1: porque son modelos analíticos. De repente no requiero alta disponibilidad en los modelos analíticos. A uno le podría decir, ¿pero qué pasa si un modelo analítico participa en alguno de estos flujos? Ah, está bien. El cálculo lo hago y luego lo replico acá.
+01:22:01 Speaker 2: Replico el dato.
+01:22:02 Speaker 1: Prefiero gastar replicando datos que haciéndolo multiregión o alta disponibilidad.
+01:22:07 Speaker 2: Eso me toca.
+01:22:10 Speaker 1: Otra cosa, acostumbres a dibujar
+01:22:12 Speaker 2: o hacer estos objetos.
+01:22:16 Speaker 1: Conversando es difícil esquematizar. Es mejor siempre cuando lo plantean así. Y así van entendiendo cuáles son las decisiones o los criterios de decisiones que vamos a tomar en cuenta para poder obviamente seleccionar una opción o otra.
+01:22:31 Speaker 2: Bien, entonces, este tema ya está.
+01:22:36 Speaker 1: Hoy día, traten de, entre la nube que han aprendido a conocer, en las otras nubes, cómo lo resolverían de la misma manera. En algunos casos los servicios son similares, en algunos cambios, obviamente, el concepto. Pero es cuestión de, básicamente, tratar de utilizar ese conocimiento. Por lo menos,
+01:22:54 Speaker 2: dos nubes deberían
+01:22:56 Speaker 1: conocer. son las que se más se mueven en el mercado
+01:23:00 Speaker 2: ese
+01:23:03 Speaker 1: es el concepto que les hablaba del modelo civil y vamos ahí al tema escalabilidad ¿Qué es la escalabilidad? La escalabilidad es solamente lo que está buscando es, cuando yo tengo un crecimiento de mis transacciones, cuando mis transacciones empiezan a incrementarse, yo lo que busco es que el comportamiento, ya sea de mi base de datos, de mi aplicación, sea todavía performante. Es decir, ahorita estoy soportando mis transacciones,
+01:23:35 Speaker 1: de repente soy la empresa Cineplanet, Pero no quiere decir que si llegan 10.000,
+01:23:41 Speaker 2: mi tiempo de respuesta se
+01:23:44 Speaker 1: vuelve y se degrada. Tiene que seguir manteniendo el mismo tiempo de respuesta óptimo cuando eran mil
+01:23:51 Speaker 2: transacciones.
+01:23:53 Speaker 1: Entonces eso es lo que me permite llegar a la nube, escalar. Por eso dice, tiene la posibilidad de escalar. Para obviamente yo seguir manteniendo los mismos tiempos de
+01:24:02 Speaker 2: respuesta. Entregando el mismo tiempo respecto a los mismos.
+01:24:05 Speaker 1: Bien, entonces tengo dos maneras de escalar. Una es la escalabilidad vertical. En otras palabras, en la nube, yo cuando provisiono, yo provisiono un servidor. Con unas características, digamos, tamaño small. Para no complicarlo. Si yo quiero hacer escalabilidad vertical,
+01:24:26 Speaker 2: es como que yo entro
+01:24:27 Speaker 1: a la consola de AWS o la nube que es mi preferencia, y ahora ya no diga que es small, sino que es medio. ¿Qué estoy haciendo? Le estoy dando más capacidades. pero a mi mismo servidor. Eso se llama escalabilidad vertical. En cambio, si yo hago escalabilidad horizontal,
+01:24:48 Speaker 1: ya no estoy diciendo que a mi mismo servidor le cambio de tamaño. Estoy creando nuevos servidores, como nodos. Entonces ahí empezamos a identificar algo. ¿Qué esquema es más rápido de implementar? El vertical. ¿Qué esquema me cuesta más implementar? El horizontal. ¿Qué esquema será más caro? El horizontal, obviamente, porque tengo que tener varios nodos preparados. En el otro caso, está sujeto a las tallas que te ofrece en este caso por los recursos que te brindan. Entonces ahí nos brinde un tema bien interesante. ¿Y cuándo utilizar uno o el otro?
+01:25:30 Speaker 2: O siempre tengo que usar escalabilidad horizontal.
+01:25:38 Speaker 1: Basado en lo que les dije, si yo lo que requiero es asegurar un tiempo de respuesta transaccional cuando hay alta concurrencia, entonces lo que me conviene implementar es escalabilidad horizontal. Cuando sé que el número de peticiones que voy a recibir no se ha incrementado de manera como picos, yo podría manejarlo con escalabilidad horizontal. Entonces, hasta elegir eso, es importante. Porque ustedes, por una mala decisión, podrían estar incrementando sus costes por querer manejar esta realidad. Que el alumno lo tiene, pero hay que saber cómo
+01:26:16 Speaker 2: configurarlo. Entonces, eso me lleva...
+01:26:22 Speaker 1: Al concepto de elasticidad. Que eso es lo que para mí en la nube es lo más valioso. Y las aplicaciones tienen que estar preparadas para eso. ¿Qué significa?
+01:26:33 Speaker 2: Está bien escalar.
+01:26:35 Speaker 1: Escalar es crecimiento. Pero es crecimiento durante un tiempo. Yo no voy a tener picos en 24 horas. Yo voy a tener picos en algunas horas. Y luego, ¿qué va a suceder? Que va a ser reducirse las transacciones. Y en ese momento que se reduce, ¿qué va a pasar?
+01:26:52 Speaker 2: Debe pasar esto.
+01:26:55 Speaker 1: Si mi demanda baja, yo debo consumir menos recursos. Pero eso tiene que ser automático. No es que un operador entra y le baja la capacidad. Para eso es la nube. Ese es el concepto. Escalabilidad y elasticidad combinadas al mismo tiempo. Por eso es que en la nube hay este tema que te dicen pay to go. Pagas por lo que usas. Tú consumes
+01:27:17 Speaker 2: muchos recursos.
+01:27:20 Speaker 1: pagas por eso que es ajustimiento. Si no hay transacciones o está cayendo la cantidad de transacciones, voy a pagar menos.
+01:27:29 Speaker 2: Eso me lleva a esto para crear.
+01:27:33 Speaker 1: Que lean. Vamos a leerlo. Una tienda online reciben normalmente mil usuarios simultáneos. Pero ante Cyber Monday llegan a 50 mil usuarios. ¿Cuánto ha crecido? 500 muestras. El servidor comienza a resultar lentamente.
+01:27:52 Speaker 2: ¿Qué estrategia escalabilidad recomendaríamos? Eso es lo que hemos explicado. horizontal.
+01:28:02 Speaker 1: Porque si yo incremento de recursos a nivel de tallas, es muy probable que dado el alto crecimiento, no mantenga el nivel de tallas. Por lo que requiere una estrategia a nivel de nuevos. Y si requiere una estrategia a nivel de nuevos, pues de ahí empieza el tema que se habla acá de global balance. Vamos a balancear.
+01:28:28 Speaker 2: Si yo tengo varios nodos,
+01:28:30 Speaker 1: y esto digamos de alguna forma, son los usuarios que quieren ingresar, hacer sus transacciones, ¿qué está haciendo el balanceador? Lo que está haciendo es justamente direccionando cargas. Claro, porque lo que está asegurándose es de que los nodos que yo tengo estén bien utilizados. No voy a sobrecargar un nodo y los otros van a estar pasivos. No, se trata de cómo los balanceo. optimizando obviamente de repente puedo tener criterios puedo por ejemplo decir si alguno supera el 70% automáticamente ya no le mandes más carga empieza a utilizar el otro que está más vacío entonces esa es la idea este componente ya tiene mucho tiempo pero en la nube es muy utilizado por el sistema de escalabilidad
+01:29:20 Speaker 2: alta disponibilidad
+01:29:30 Speaker 1: Ahí sí pueden hacer ustedes unos resultados, ahí se los dejo para que puedan. Podrían sacarse las estadísticas, no le pueden preguntar a los que diría también,
+01:29:40 Speaker 2: de la
+01:29:41 Speaker 1: interrupción de los servicios de los principales fabricantes de nube de los últimos ocho años, pasando por AWS, por Azure y por Google.
+01:29:51 Speaker 2: Y pregunten,
+01:29:52 Speaker 1: quiero un listado de las incidencias donde ha habido indisponibilidad del servicio, que te diga el tiempo. El tiempo y la recurrencia. Van a encontrar que más o menos nueve eventos, si hablamos de AWS,
+01:30:08 Speaker 2: yo calculo
+01:30:08 Speaker 1: fuertes. En los últimos seis años me parece que hubo unos tres o cuatro. Donde el servicio ha estado disponible cuatro o ocho horas, el máximo que fue el año pasado fue diez horas. Diez horas donde AWS no estuvo disponible. Entonces, claro.
+01:30:27 Speaker 2: Nos golpeó mucho a nosotros porque
+01:30:29 Speaker 1: la puerta de ingreso de todas nuestras clientes o socios es a través de abedores. Si abedores está caído, ¿qué significa? Nadie puede transaccionar,
+01:30:38 Speaker 2: al menos donde puede. Adentro sí, porque pueden usar nuestra
+01:30:41 Speaker 1: nube interna. Entonces ahí tú te aprietas a un reto. ¿Cuál es el reto? El reto es imagen reputacional.
+01:30:50 Speaker 2: Si yo estoy caído 10 horas, solamente empiezan a haber
+01:30:54 Speaker 1: quejas. Seguro llamar, reclamos, hasta puede haber sanciones, dependiendo obviamente del nivel de operación que se quiere realizar de ello. Eso significa que la nube no es infalible. Como los data centers tampoco eran infalibles, los data centers también se caían. Locales, los reclamados de los prens también se caían. Y la nube también se va a caer. Se ha caído el año pasado y es muy probable que se caiga el próximo año y se va a caer.
+01:31:23 Speaker 2: Siempre se va a caer.
+01:31:25 Speaker 1: No hay seguridad de un 100%. Y les estoy hablando de todas las nubes. Se ha caído WS, se ha caído VCP, se ha caído Microsoft Azure.
+01:31:35 Speaker 2: Se ha caído todas las nubes.
+01:31:36 Speaker 1: Entonces, no puedes simplemente asumir que siempre van a estar activos. Tienes que tener una estrategia cuando esto se cae. Y si hay estrategias. Porque por eso les explicábamos el primer concepto, ¿no? Servidor, data center. Les decía, ¿dónde están los data centers principales hoy día de estas empresas? En Estados Unidos. En Virginia, en Ohio, ¿no? Ahí los vas a encontrar. La pregunta es, para que yo asegure el 100% de disponibilidad, ¿qué tendría que hacer? Lo mismo que hacía cuando era data center local. Tenía uno acá en San Isidro y mi réplica estaba en la Molina. Si pasaba algo con la luz de San Isidro, el de la Molina cumplía. Este mismo concepto se ha llevado, pero ahora mismo. Por eso existen dados. Lo que pase en Virginia, no
+01:32:22 Speaker 2: va a pasar en Ohio.
+01:32:24 Speaker 1: Si en Virginia se cae, no hay problema, porque Ohio debe funcionar. Asumiendo obviamente que son dos regiones, y que la probabilidad de que ambas regiones se caigan es dificil. Entonces necesitas estrategias de multiregión, para que tengas alta disponibilidad. No funciona, porque seguro...
+01:32:44 Speaker 2: Pueden ahí cruzar el concepto. En AWS
+01:32:47 Speaker 1: sale el concepto por default de multizona. ¿Qué es multizona? Virginia, finalmente como estado, estos data centers están distribuidos. Pero eso está dentro del mismo Virginia. Quiere decir que algo le pasó a Virginia, si tú tengas multizona, todo eso no va a funcionar. Nosotros teníamos multizona. Y estuvimos en operativos de eso. No teníamos multiregión. No habíamos replicado a
+01:33:11 Speaker 2: otra región de AWS.
+01:33:14 Speaker 1: Entonces, claro, hablo de migrar, pero qué fácil, ¿por qué no lo replicas?
+01:33:18 Speaker 2: Porque cuesta mucho dinero.
+01:33:21 Speaker 1: Si ustedes replican una región acá, ponen acá lo mismo en el otro lado, ¿pueden pagar doble?
+01:33:27 Speaker 2: ¿Pagarían doble matrícula ustedes? No.
+01:33:32 Speaker 1: Porque doble matrícula significa que van a aprender más. Igual, tener dos cosas replicadas no significa qué es lo más óptimo. ¿Qué es lo más óptimo? Entonces ahí viene el trabajo de análisis. Por cada aplicación que tienes desplegada a cada flujo crítico, lo que tienes que identificar es, bueno,
+01:33:52 Speaker 2: ¿qué tal?
+01:33:56 Speaker 1: Lo que tienes que identificar es, si este flujo crítico interrumpe alguna operación crítica de tu negocio. Si lo interrumpe, ponlo en alta disponibilidad. Ese flujo, esos componentes, no reflejes todas las maneras. Y ahí van a encontrar que hay cosas que no necesitan ser aplicadas. Algunas sí, otras no. Por ejemplo, podrías decir, si mi operación requiere que una operación, por ejemplo, en este caso, la venta no se interrumpa, ok, la pondré en un tema de atestos unidad, pero de repente hay otro servicio, de consulta, y se me analiza cuando hablo de atestos unidad.
+01:34:36 Speaker 2: Entonces, no lo pongo, simplemente se
+01:34:40 Speaker 1: me dejará como en mi zona,
+01:34:42 Speaker 2: o lo dejo sin en mi zona.
+01:34:44 Speaker 1: Todo eso en esa ecuación hace posible que ellos puedan tener costos eficientes a nivel de este concepto que se está buscando mucho de alta disponibilidad. Las áreas hoy día que están de alguna forma presionando mucho por esto son las áreas de riesgos tecnológicos. Así las van a encontrar en las empresas. Un área o una persona que hace el trabajo. Y su sueño de estas personas es poner todo en alta disponibilidad al costo que sea.
+01:35:13 Speaker 2: Pero ahí la teoría, ¿no?
+01:35:15 Speaker 1: ¿Cuánto me cuesta como compañía? Y ahí se maneja, no sé si en algún curso se los enseñan, pero se maneja cuando ocurre una interrupción del servicio, hay lo que llaman en recuperación el tiempo operativo, el RT-OLEAN. Significa cuántas horas puedes estar sin
+01:35:32 Speaker 2: ese servicio,
+01:35:33 Speaker 1: o puedes esperar sin ese servicio. Entonces dicen una hora, dos horas, cuatro horas, ocho horas, seis horas. Obviamente, estadísticamente, ABC no ha pasado de las 10 horas.
+01:35:43 Speaker 2: Yo podría decir que
+01:35:45 Speaker 1: si ese servicio puede esperar 10 horas, no necesito activarlo. Puede esperar y se va a restar el servicio y va a volver. Pero si está menor a esas horas,
+01:35:56 Speaker 2: seguro es necesario asegurarlo como el criterio de multiregión para cubrir este concepto de atención.
+01:36:04 Speaker 1: Bien. Voy cerrando.
+01:36:11 Speaker 2: Y queda acá. Ya, vamos a ver estas tres láminas más
+01:36:19 Speaker 1: que vamos a ver casi si quieren
+01:36:21 Speaker 2: grabar en el grupo.
+01:36:26 Speaker 1: Todo esto que estamos hablando requiere mucho el tema de seguimiento, de qué cosa está sucediendo.
+01:36:33 Speaker 2: Porque, claro,
+01:36:34 Speaker 1: si yo ya le trasladé a un tercero, en este caso es AWS, ICP o Ayo,
+01:36:39 Speaker 2: para que sea,
+01:36:41 Speaker 1: digamos, quien administre toda mi infraestructura, lo que obviamente yo necesito es tener una serie de dashboards, reportes, alertas, que me ayuden a mí.
+01:36:54 Speaker 2: Hola, ¿qué tal?
+01:36:57 Speaker 1: ¿Se equivocaron de horario?
+01:37:02 Speaker 2: Bueno,
+01:37:07 Speaker 1: entonces, toda esta información que yo requiero para poder saber si está ocurriendo algún problema, requiere ser de alguna manera conceptualizada. Y se conceptualiza de esta manera, ¿no? Se habla mucho del monitoreo, pero hay que diferenciar entre observabilidad... y monitoreo. No es lo mismo. Seguro lo usamos en el día a día de la misma forma, pero acá sé que diferenciarlo, porque uno es más preventivo y el otro es más pasivo. ¿Ok?
+01:37:36 Speaker 2: Entonces, la idea es esto, ¿no?
+01:37:39 Speaker 1: Necesito una manera de devaluar todos los recursos que hoy día tengo disponibles, porque se pueden presentar algunas alertas que tengo que tomar acción. Yo sé que pensamos que la nube de todo puede autofestionar. Sí. Pero justamente debido al caso que les contaba, de que a veces no le ponía topes, hoy día muchos de los servicios se están creando con planes de cuota, para justamente no exceder los costos mensuales que uno ya tiene planificados. Porque uno puede aparecerte con una factura de la nube que no sea en base a lo que tú has proyectado que vas a gastar. Entonces a veces las alertas se dan y entonces sí, se puede hacer un incremento en la cuota, pero ya es algo controlado. Por eso se requiere este
+01:38:17 Speaker 2: valor. Entonces acá
+01:38:21 Speaker 1: se habla del monitoreo. El monitoreo es más reactivo. Quiere decir que ya sucedió. Y que obviamente lo que tengo que hacer es cómo resolverlo. En la observabilidad lo que yo voy a necesitar es un patrón.
+01:38:36 Speaker 2: Y esos patrónes...
+01:38:38 Speaker 1: Tengo que de alguna manera resolverlos antes que ocurra el evento. En este caso puede generar un sobreposo.
+01:38:46 Speaker 2: Por
+01:38:47 Speaker 1: ejemplo, algo que nos sucedió hace unos meses. Digamos, de lunes a viernes, en un horario que era entre 12 y 2 de la tarde, empezaba a mostrarse unos picos de consumo de mensajería. Saben que por la nube de abeos pueden enviar mensajes,
+01:39:09 Speaker 2: mensajes de texto o mensajes de correo.
+01:39:11 Speaker 1: Y se notaba un pico,
+01:39:14 Speaker 2: pero era en ese horario.
+01:39:16 Speaker 1: Como que se activaba algo y pareciera que después terminaría su tarea y luego ya no se notaba durante el tiempo.
+01:39:24 Speaker 2: Parecía raro,
+01:39:25 Speaker 1: pero fue un patrón que se empezó a ver, pero empezó a incrementarse. Una era mil contactos,
+01:39:33 Speaker 2: y ahí pasó a 5.000, a
+01:39:35 Speaker 1: 10.000, y entonces ya no es... Si lo dejamos, va a empezar a extrapolarse a 50.000 y lo a 100.000. Entonces, el área de operaciones lo detecta, y hay un patrón anormal. Algo está sucediendo, pero operaciones no tiene forma de saber qué aplicación es. Ellos no tienen esa experiencia para poder identificar qué es esta aplicación. Ahí está AIMPO y ahí está el servicio que se está consumiendo. Revise. Claro, cuando entramos a revisar qué sucedía, y eso es parte de lo que uno se debe hacer cuando uno gestiona, sobre todo, accesos a terceros.
+01:40:13 Speaker 1: La mayoría de las empresas tercerizan muchas veces el
+01:40:15 Speaker 2: software o el desarrollo del software y lo que había sucedido es
+01:40:18 Speaker 1: que habían tenido algunos accesos a un proveedor X que ya había terminado de trabajar el desarrollo, pero se habían quedado con los accesos y esa persona estaba usando ese servicio para enviar comunicaciones personales en una aplicación que la había construido. Esa es observabilidad.
+01:40:38 Speaker 2: Claro.
+01:40:39 Speaker 1: Nosotros, si no hacemos eso, lo más probable es que sigamos pagando la factura. Entonces, por eso es importante esto, ¿no? De la observabilidad. El monitoreo lo vas a tener por después. Las vistas que te entrega hoy día o las vistas que te entrega las distintas plataformas de nube, te permiten ver qué está sucediendo. pero lo que necesito saber es qué
+01:41:01 Speaker 2: patrones hay que
+01:41:02 Speaker 1: pueden hacer que esto se infale. Tengo que verlo de esta manera,
+01:41:06 Speaker 2: ¿sí?
+01:41:09 Speaker 1: Entonces la observabilidad podría generar en el sistema de infancia, por eso se trata de prevenirlo. Claro, lo que en ese momento dijimos, en ese momento esto empieza a escalar más, en ese momento los otros servicios que también quieren eliminar se van a quedar sin la cuota y le va a salir a otro.
+01:41:30 Speaker 2: Mírenlo de esta manera, ¿no?
+01:41:32 Speaker 1: ¿Qué está haciendo el monitoreo? Es como ver la punta del aire.
+01:41:36 Speaker 2: Ver lo que es evidente,
+01:41:37 Speaker 1: lo que está pasando. Pero ¿qué quiero que realmente suceda?
+01:41:40 Speaker 2: Quiero ver lo que está por abajo.
+01:41:43 Speaker 1: Y realmente entender qué patrones hoy día son anómalos al funcionamiento del sistema óptico. Para poder obviamente identificarlos y poder neutralizarlos, ¿no? Antes que se convierta en un problema crítico. Desde el punto de vista, el monitoreo está enfocado en acciones reactivas,
+01:42:03 Speaker 2: componentes
+01:42:05 Speaker 1: de monitoreo, y la observabilidad está enfocada en algo más proactivo,
+01:42:09 Speaker 2: trabajando mucho con la data.
+01:42:16 Speaker 1: Bien. Vamos a quedarnos acá.
+01:42:21 Speaker 2: Vamos a hacer una
+01:42:23 Speaker 1: simplificación, más por esta etapa si queremos, de un proceso. El proceso se llama el proceso que se sigue generalmente en una clínica. Desde los temas de registro de cita, de atención médica, de los exámenes laboratorios, la facturación y finalmente un seguimiento, obviamente, al tratamiento que me dio el doctor.
+01:42:43 Speaker 1: Debajo de eso, ustedes ven esta clasificación. No se concentren tanto en esta clasificación, sino que no se concentren en esta etapa. La que dice impreso. Porque debajo del registro de cita nosotros podemos apreciar que acá dice portal web citas. Esto es una aplicación. Y tiene un back office que se llama el sistema de gestión de citas. Esta es otra aplicación. Y tiene integraciones, que son servicios.
+01:43:09 Speaker 2: Mírenlo como antes. Entonces acá tienen un sistema. Dos, tres,
+01:43:14 Speaker 1: cuatro. Este es el mismo de este. Y abajo también tiene 1,
+01:43:19 Speaker 2: 2, 3, 4. Por los colores los altos.
+01:43:23 Speaker 1: Pero ¿qué sucede? No todos están en la misma infraestructura. Algunos están on-prem y otros están en nube. Es una nube pública. Si
+01:43:33 Speaker 2: es así, abajo se
+01:43:36 Speaker 1: presentan tres escenarios. Uno, migro todo a la nube.
+01:43:41 Speaker 2: Dos,
+01:43:43 Speaker 1: mantener todo en on-prem. O tres, ¿Cuál es el reto? El reto es que se junten grupos de tres y analicen cada uno la opción. Vamos a tener 15 minutos para hacer eso. Luego,
+01:43:58 Speaker 2: cuando
+01:44:00 Speaker 1: formen los grupos de tres, cada uno de ustedes va a analizar una
+01:44:06 Speaker 2: opción.
+01:44:08 Speaker 1: El integrante 1 analiza la opción 1, el integrante 2 la opción 2 y el integrante 3 la opción 3. Como grupo puede tener una posición,
+01:44:15 Speaker 2: la opción 2.
+01:44:17 Speaker 1: Pero cada uno ha analizado cada opción. Porque luego lo que vamos a hacer es chocolatear. Todos los que han hecho opción 1 van a irse acá y van a conversar. Y si alguno cree que la opción 1 es viable y bajo qué supuestos, va a recomendarlo. Igual por allá va el grupo de la opción 2 y el grupo de la opción 3. Vamos a seguro, igual, en una dinámica de 10 minutos y luego van a volver con sus grupos para finalmente tener su posición final.
+01:44:41 Speaker 2: ¿Ok? ¿Se entendió? ¿Sí? Ya, agrupense, grupos de 3.
+01:44:48 Speaker 1: Capidísimo.
+01:45:04 Speaker 2: Está también otro puestrero. Ahí atrás fue. Ni te queríamos, te dijo brillito. ¿Qué hay limitantes para eso?
+01:45:29 Speaker 1: Las limitantes son porque si yo lo llevaré en un formato público, tengo muchas observaciones. Por eso decía que a nivel de salud existe un protocolo que se llama
+01:45:37 Speaker 2: protocolo FIRE. Si tú lo implementas, por los niveles de seguridad que tiene ese protocolo, tú podrías llevarlo a ese protocolo.
+01:45:49 Speaker 1: La limitante viene de que no es un difícil. Como ocurren otras empresas que no tienen ese tipo de limitaciones. En el caso de salud hay
+01:45:58 Speaker 2: más limitaciones. ¿Entonces sería algo que no me deja avanzar?
+01:46:03 Speaker 1: Es un factor que no te deja avanzar ahorita en el corto plazo, pero si lo pienso en largo plazo... ¿Sería un factor de
+01:46:09 Speaker 2: complejidad? Un problema de complejidad de migración. ¿Entonces sería más o menos un híbrido parcial con tendencia? Claro. Lo primero
+01:46:18 Speaker 1: que hay que determinar es qué empresa estoy, dónde estoy, y después hay que definir cómo aprovecho mejor los recursos. Y si mi visión es finalmente escalar, seguro voy a tener que terminar en el escenario donde todo se lleva a mi casa. Pareciera lo más obvio, ¿eh? Pero a veces eso depende. No es la primera opción. Por eso hay empresas que todavía siguen haciendo eso. Siguen con cosas on-prem y hay algunas cosas que llevarán. Y no tienen la
+01:46:44 Speaker 2: rapidez
+01:46:47 Speaker 1: de querer llevarse todo el mundo. Porque piensan que todavía están en el mejor esquema. Porque el otro les implica más inversión,
+01:46:54 Speaker 2: adecuar
+01:46:56 Speaker 1: sus sistemas. Ahorita vamos a hablar, por ejemplo, cada uno de esos sistemas, una de las cosas que es un dato nomás. Si ustedes tienen hoy un sistema on-prem, hacen por default que ese sistema está diseñado pensando de otra manera, no en la línea. Eso ya significa que ustedes tienen que refactorizar ese sistema. No lo van a migrar tal cual. Migrar es facilito.
+01:47:16 Speaker 1: Pero si lo tengo que refactorizar, otra arquitectura, lo que nuevamente desarrollar, pruebas, integraciones, seis, nueve veces, un año, ya eso empieza a ser una variable de esfuerzo de migración. Versus, obviamente, mi hermanizarlo acá todavía.
+01:47:35 Speaker 2: ¿Sí? Dale. ¿Y ahora? ¿Ya acabo ya? Un premio todo. ¿Están convencidos?
+01:48:11 Speaker 1: En los temas sobre todo de tecnología y cuando estamos hablando
+01:48:15 Speaker 2: de arquitectura, es importante el contexto.
+01:48:17 Speaker 1: El contexto es todos aquellos supuestos o hechos que me permiten a mí poder decir, ah, esta es la situación que yo debo incluir para mí. Porque esto puede cantar en un escenario u otro. Entonces, aquí por ejemplo no hay mucho contexto, solo te habla de un flujo, en este caso aplica para un hospital, para una clínica, para un medicentro, y que está soportado por estos sistemas. Algunas precisiones que les he hecho a algunos, pero sobre todo desde el punto de vista, yo lo digo, un
+01:48:51 Speaker 2: poco lógico,
+01:48:52 Speaker 1: para que empezamos por ahí también a reforzar nuestro nivel de análisis. Si uno empieza a ver este tipo de soluciones, los portales de cita, y creo que más de uno de ustedes seguro alguna vez ha sacado una cita online,
+01:49:03 Speaker 2: Pues van a ver que no hay mayor complejidad.
+01:49:06 Speaker 1: Puedes seleccionar el horario, el doctor, seguro la sede y listo. No hay nada más. No hay algo que me diga a mí, esto requiere un trabajo muy especializado. Por lo tanto, yo podría estar asumiendo, si esto está en un premise, imagínate que esté mal implementado. Si yo lo voy a migrar a la nube, una de las cosas que voy a decir es que el esfuerzo de complejidad de migración debe ser súper bajo.
+01:49:31 Speaker 1: Acá me da un portal de goticitas. Claro, es cuando tú ingresas y dices, tengo una cita agendada, es como una bandeja para el cliente, donde dice, tu próxima cita es esta, puedes anularlo, puedes reprogramarlo. Las funciones básicas de un módulo de mantenimiento, claro, pero en una interfaz web. Igual, así esté mal implementada en un premise, de llevarlo a la nube,
+01:49:54 Speaker 2: no debería de mayor complicidad. Sin embargo,
+01:49:58 Speaker 1: Acá hay un sistema de gestión de pacientes donde está la historia clínica del paciente que no es algo menor. Sí es complejo. Y si esto está en un premis, y ahí sí puedo decir, si está en un premis debe estar con los mismos, si quieren, patrones o consideraciones que había en algunos premis de hace 40 años o 30 años. Si yo quisiera llevármelo a la nube,
+01:50:21 Speaker 2: no es un difícil.
+01:50:23 Speaker 1: Voy a refactorizar, voy a hacer una nueva arquitectura, tengo que hacer un nuevo desarrollo, tengo que hacer las integraciones,
+01:50:29 Speaker 2: tengo que probarlo.
+01:50:30 Speaker 1: Y eso no va a ser algo inmediato, eso me va a tomar un tiempo. Seis meses, nueve meses, de repente hace un año para
+01:50:37 Speaker 2: poder hacerlo. Inclusive ustedes podrían decir,
+01:50:39 Speaker 1: y si hay data, y si tengo que emigrarme la data, también se van a enfrentar a ese problema. Entonces, estos... complejidad baja de migración, complejidad muy alta de migración. Y acá, el sistema de facturación, inclusive, como ya está en nube y este acá, no voy a comentar porque ya se entiende que ya están en la nube y vamos a asumir que están funcionando correctamente.
+01:51:02 Speaker 2: Dale. Todo el front office a la
+01:51:05 Speaker 1: nube. Todo el front office a la nube. Esto acá.
+01:51:09 Speaker 2: Ahorita hablamos de eso.
+01:51:13 Speaker 1: Si ustedes mandan todo a la nube, ¿Qué es lo que está comentando? ¿Cuál es tu
+01:51:17 Speaker 2: nombre? Diego.
+01:51:20 Speaker 1: Para que esto de alguna manera se orqueste bien, lo de abajo también debería funcionar en la nube. ¿Por qué te lo digo? Porque si tú tienes cosas en la nube y tienes cosas abajo, el problema que sucede muchas veces es que yo estoy haciendo esto. Voy
+01:51:38 Speaker 2: a la nube y bajo.
+01:51:40 Speaker 1: Voy a la nube y bajo. Y eso se le llama centro de gravedad. ¿Qué significa? Que si yo tengo una aplicación, y ahí sí, es análisis puro, que es muy necesaria para mi lógica empresarial, pues esa es mi centro de gravedad. Y todos van a converger de alguna forma ahí, porque van a consultar, actualizar, revisar. Y entonces yo empiezo a hacer esto.
+01:52:04 Speaker 2: Voy, vengo,
+01:52:05 Speaker 1: y eso te genera o latencia, o te puede generar puntos de fallo. Entonces, No es muy conveniente tener algo en un data center local o en la nube, digamos, desde el punto de vista de ese centro de grada. No te convendría.
+01:52:22 Speaker 2: Ahora,
+01:52:23 Speaker 1: dicho eso, acá había tres opciones.
+01:52:26 Speaker 2: Vamos a decir,
+01:52:27 Speaker 1: yo al final lo que les quiero decir es, las tres opciones son válidas, depende del momento y depende de la empresa. Si hablamos de la opción uno, para mí es una opción válida siempre a largo plazo.
+01:52:40 Speaker 1: Y lo digo ahora, estamos en 2026, seguro 2030 me van a preguntar y siempre les voy a decir lo mismo, porque yo sí creo que la nube es algo que va a perdurar por mucho tiempo. Es bien difícil que las empresas vuelvan a pensar en on-prem. Alguien que ya se salió no va a decir, ahora quiero volver a mi infraestructura propia. No, van a querer ir esto de acá. Pero no es un journey to the cloud limpio, rápido y que sea el próximo año ya estoy todo en la nube. No, es algo que te puede demorar 5 años, 10 años en volver a la nube. Entonces siempre es una opción a largo plazo. Piensen en eso, algo a largo plazo.
+01:53:16 Speaker 2: Esta infraestructura que hoy día está aquí, si
+01:53:18 Speaker 1: lo ven, es una infraestructura que es combinada. Tengo on-premise y cloud. Eso significa que yo hoy día ya vengo como empresa asumiendo esos costos. Si yo dijera que me voy todo a la nube, mi factura en la nube va a crecer y mi factura on-premise va
+01:53:33 Speaker 2: a seguir igual pagándose.
+01:53:37 Speaker 1: Porque esta es la más difícil de deshacer. Yo no puedo deshacerme infraestructura on-premise como que desaparezco una laptop y la desaparezco y ya no. Es algo obviamente que a toda empresa le cuesta.
+01:53:50 Speaker 2: Desarmarlo de un data center, darle de
+01:53:53 Speaker 1: baja a sus componentes, mandarlos inclusive para ver si puede un recupero, para poder sacar algo por eso. Entonces es un proceso de gestión que no es menor. Así como les decía que me mandaba tres meses para habilitarlo, me ponían hasta seis meses para deshabilitarlo.
+01:54:06 Speaker 2: Así funciona este infraestructura on-premise. Entonces... Aquí yo le voy a decir,
+01:54:11 Speaker 1: si mi empresa que hoy día estoy analizando es una empresa local,
+01:54:17 Speaker 2: su
+01:54:19 Speaker 1: crecimiento no está pensando en crecer hacia un nivel nacional, entonces de repente mi opción de ellos es maximizar lo que ellos tienen hoy en día. Y maximizar lo que tienen hoy en día puede ser,
+01:54:33 Speaker 2: ¿sabes qué? Yo
+01:54:35 Speaker 1: creo que sí. podríamos maximizar el uso del hombre. Y quizás ahí la opción 2 es la que más se le acomoda. Es la que más se le acomoda. Pero en cambio, si mi visión es, no, yo necesito escalar en los próximos 6 meses, en el próximo año, yo seguro tendré que decir, para que tú escales en los próximos 6 meses, yo te recomiendo que hagas dos pasos. Primero, mueve estas aplicaciones a la nube. Y esta de acá. Demórate tres meses, seis meses en hacer esa migración.
+01:55:12 Speaker 2: La infraestructura en frente que tienes puede
+01:55:14 Speaker 1: reforzar inclusive lo que tengo actualmente para que se porte esos picos de que va y viene, va y viene. Y después aplicas la opción 3, donde ya desapareces todo, ya te llevas todo a la nube. Pero ¿qué he hecho en esos dos tramos? He maximizado el uso de infraestructura.
+01:55:34 Speaker 1: para poder tener una estrategia viable y sobre todo costeficiente. Que me permita poder llegar a donde yo quiero. Yo quiero llegar a la opción 3, a la opción 1, pero no es el salto inmediato. De repente hay pasos previos. Y depende si es opción 2 o 3, será pues dependiendo si es que soy una empresa grande o es empresa pequeña. Ahí cambia todo la opción.
+01:55:57 Speaker 2: ¿Vamos?
+01:55:58 Speaker 1: Entonces, el contexto es importante. Es algo que en el trabajo del
+01:56:03 Speaker 2: curso, yo igual lo voy a colocar,
+01:56:06 Speaker 1: pero está además decirles que ustedes pueden también seguro precisar algunas cosas en análisis que hago. Es parte de lo que se va a pedir, que precisen qué cosas han asumido para que concluyan,
+01:56:18 Speaker 2: con qué opción se quedan. Bueno, espero que les haya gustado el trabajo,
+01:56:21 Speaker 1: pero de esto trate lo que hizo, de hacer un análisis de escenarios en función obviamente a un plan muy problemático o a un detenimiento o una necesidad.
+  
