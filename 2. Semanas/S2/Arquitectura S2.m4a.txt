@@ -1,0 +1,857 @@
+# Arqui S2
+
+  Meeting started: 28/8/2026, 7:16:51 p. m.
+  Duration: 120 minutes
+  Participants: Speaker, Speaker 1, Speaker 2
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/1URLFmbwLL9c3EWK8fe8?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 1: Gracias. El día de hoy envío un correo con la confrontación de los grupos. Ya está completo.
+00:13 Speaker 2: El siguiente paso es, fin
+00:16 Speaker 1: de semana o lunes, voy a publicar el paso. Y el paireño.
+00:20 Speaker 2: Ese mismo día seguro les va a llegar el correo con el proceso que les toca de acuerdo a este paso de uso. Entonces de ahí empieza todo el trabajo que ya está publicado.
+00:32 Speaker 1: Lo que hay que hacer es
+00:34 Speaker 2: el paireño.
+00:39 Speaker 1: Nos falta ajustar más a las fechas, pero
+00:41 Speaker 2: acá está la plantilla y los tópicos que existen, en este caso,
+00:52 Speaker 1: el informe parcial. Entonces, sobre eso, ustedes van
+01:03 Speaker 2: a iterar y si hubiera alguna aclaración sobre ello. el proceso que les ha tocado y sobre el caso de uso que está descrito en ese texto, entonces lo que es tener es un espacio conmigo y lo aclarar con algunas preguntas básicas
+01:16 Speaker 1: que ustedes puedan tener.
+01:19 Speaker 2: Sobre todo para empezar a un tema, a un entendimiento adicional de lo que ya está descrito en el texto. ¿Sí? Así vamos a hacer con ustedes el ciclo,
+01:27 Speaker 1: igual que el ciclo pasado.
+01:33 Speaker 2: Como le dije en la clase anterior, era con el
+01:35 Speaker 1: objetivo
+01:37 Speaker 2: de poder lograr que todos los grupos finalmente conversen sobre un mismo caso, sobre una empresa, para que puedan ver que cualquier cambio tecnológico que ustedes propongan podría o no afectar a algún proceso. ¿Ok? Listo. Entonces vamos a entrar a ver el concepto relacionado a sistemas empresariales. Ya, tenemos que partir la conversación a partir de entender que es un sistema core. Es un sistema
+02:12 Speaker 1: core, finalmente, como yo resolví, es el principal, ¿no?
+02:14 Speaker 2: Pero hay que desmenuzar eso. Finalmente, un sistema core, y acá independientemente de la industria en la cual me encuentro, es el que maneja su lógica empresarial. Entendiéndose por lógica empresarial cuál es su modelo de negocio. Es decir, cómo hacen dinero.
+02:32 Speaker 1: ¿Estamos? Entonces.
+02:35 Speaker 2: El reto para ustedes, desde el caso de la empresa, que en este caso es un rubro que le vamos a asignar, ustedes entiendan cuál es su modelo nuevo, cómo generar valor. Más allá del tema tecnológico,
+02:49 Speaker 1: primero tenemos que entenderlo.
+02:51 Speaker 2: Porque de eso decantablemente, quizá aquello que funciona en su sistema actual o en su sistema actual. Entonces, por ejemplo, un banco que es la información más abundante que pueden ustedes encontrar en Internet, en Google,
+03:06 Speaker 1: en buscadores, o inclusive en la misma IA,
+03:09 Speaker 2: les va a decir que un banco su modelo de negocio es,
+03:11 Speaker 1: por un lado, capta dinero,
+03:13 Speaker 2: a través de las cuentas de ahorro, cuentos corrientes,
+03:16 Speaker 1: cuentos mutuos, de diversas formas.
+03:18 Speaker 2: Y luego lo que hace es colocar, a través de préstamos. Las cuentas, realmente tienen una tasa que
+03:25 Speaker 1: es muy baja,
+03:26 Speaker 2: mientras que los préstamos tienen una tasa que es más alta.
+03:30 Speaker 1: Ese es el exprés.
+03:31 Speaker 2: Así ganan dinero. Entonces, eso es lo mismo que tienen que aprender según el caso duro que se exasina. Tienen que entender cómo funciona. Porque depende de cómo funciona, los sistemas POT son aquellos que van a representar esa lógica empresarial. Donde obviamente esa lógica va a tener reglas,
+03:50 Speaker 1: va a tener decisiones claves,
+03:52 Speaker 2: ahí van a estar las acciones importantes. Por ejemplo, en el caso de una banca, cada vez que se realiza una transferencia,
+03:59 Speaker 1: lo que hay es un debe y haber, un concepto contable,
+04:02 Speaker 2: que saco de un lado y de otro.
+04:05 Speaker 1: Ese es debe y haber.
+04:07 Speaker 2: Bien, ejemplos de esto, por ejemplo. ¿Qué ejemplos tendríamos después? Un comparcario,
+04:14 Speaker 1: por ejemplo.
+04:16 Speaker 2: Toda la lógica de las cuentas, cuentas de ahorro, cuentas corrientes, todo el tema de préstamos, personales, de estudio, irregular, hipotecario, lisi, entre otros. Todo el manejo de lo que es pagos e intereses, control de saldos, en este caso el cronograma, el cronograma que se plantea cuando hay préstamos.
+04:36 Speaker 1: Y en el caso de un core educativo,
+04:39 Speaker 2: ¿Qué es lo más referente a lo que ustedes como usuarios conocen? Pues tenemos lo relacionado, por ejemplo, a la matrícula. Matrícula, cursos, administración de docentes, evaluaciones, rubrica, toda la parte de cómo controla el ciclo de vida de la institución.
+04:56 Speaker 1: ¿Estamos? ¿Se entiende esa parte bien?
+04:59 Speaker 2: Por empresarial relacionado a la lógica empresarial de una empresa. Acá hay dos ejemplos, un correo bancario y un correo invertido.
+05:08 Speaker 1: Pregunta, ¿es un único coro bancario, un
+05:10 Speaker 2: único coro educativo o puede ser más de uno? Por ejemplo... ¿Qué
+05:24 Speaker 1: creen
+05:28 Speaker 2: que es Paydaya? ¿Quién sea Paydaya?
+05:33 Speaker 1: Estudiantes y docentes. ¿Será un color educativo?
+05:38 Speaker 2: ¿Una parte del color educativo? ¿Por qué hay otros sistemas? Entonces no necesariamente tiene que estar con el único
+05:46 Speaker 1: sistema, no, de la logística empresarial.
+05:49 Speaker 2: En Panda, por ejemplo, hay un sistema que maneja todo lo que son las cuentas, la obra, la compra, y hay otro sistema que maneja todo lo que es la FTPP. Y en seguro va a encontrar tres cosas, principalmente. Uno que maneja cada línea o rama. El de salud, los seguros de salud, los seguros vehiculares, los seguros de vida, manejan cosas separadas. Entonces no existe una regla de que un core maneja todo. Pero se entiende que
+06:15 Speaker 1: ahí está la lógica de la organización.
+06:17 Speaker 2: ¿Ok? Bien. Vamos avanzando. Si no hay preguntas, vamos avanzando. Ahora pasemos a otro concepto. Igual. ¿Han escuchado? Hay una diferencia.
+06:34 Speaker 1: Sistemas de
+06:36 Speaker 2: información. Para mí igual son aplicaciones. ¿Quién me puede definir qué es un sistema de información o una aplicación?
+06:55 Speaker 1: Curso de la vena ciclónoma.
+06:57 Speaker 2: Definando,
+06:58 Speaker 1: ¿qué es un sistema de información? ¿Qué es un sistema de información? Bueno, un sistema es un conjunto de elementos, cada elemento tiene función, y luego es un conjunto que me gusta cumplir con un propósito. ¿Qué es un sistema de información en el que la
+07:21 Speaker 2: información es
+07:23 Speaker 1: el componente del elemento más importante que excluye a través de los elementos de este sistema?
+07:30 Speaker 2: Más preciso, porque ha redundado mucho en sistema, sistema.
+07:34 Speaker 1: Dale,
+07:35 Speaker 2: ¿qué es un sistema de información?
+07:37 Speaker 1: ¿Quieres transformar y que no se tenga nada? Pero hay que
+07:57 Speaker 2: saber darle a eso que ha dado algunos conceptos. Un sistema, eso que dicen ustedes, que vamos a decir. soporta las operaciones, o digamos, soporta el flujo de la empresa, a eso hay que decir que el sistema tiene funcionalidades.
+08:19 Speaker 1: Eso es uno.
+08:20 Speaker 2: Segundo, si obviamente es un sistema, debe tener
+08:26 Speaker 1: pantallas. Porque ahí vamos a discutir que es una base de arte,
+08:32 Speaker 2: es un sistema, no es un sistema, es una base de arte. Entonces, tiene funcionalidades, tiene pantallas,
+08:39 Speaker 1: y obviamente debe tener un
+08:42 Speaker 2: lugar donde almacenar todo eso que
+08:45 Speaker 1: a través de las pantallas representa una
+08:48 Speaker 2: creación, una actualización. Entonces, tiene un lugar donde tiene que ser la persistencia de la data o
+08:56 Speaker 1: de
+08:56 Speaker 2: la información humana.
+08:59 Speaker 1: Ahorita no nos vamos a complicar en el concepto, en realidad es data, porque información tiene que haber una transformación, pero...
+09:04 Speaker 2: Es lo mismo, es que la data que está en una pantalla y yo la quiero dar una base a él persistir, entonces debo tener una forma de persistir, claro, y esto es en una base a él. Entonces recuerden, un sistema tiene funcionalidades, tiene pantallas y tiene un lugar donde persiste información. Tiene otros componentes, reglas, capa de exposición,
+09:25 Speaker 1: interfaces bacheras, etc.
+09:27 Speaker 2: Pero principalmente tiene esto.
+09:29 Speaker 1: Ahora, vamos
+09:30 Speaker 2: a diferenciar. ¿Han escuchado el concepto de herramienta? Por ejemplo, yo les digo, Word es una
+09:37 Speaker 1: herramienta.
+09:42 Speaker 2: ¿Qué diferencia hay entre una herramienta y un sistema de información?
+10:09 Speaker 1: ¿Todos piensan igual?
+10:10 Speaker 2: Voy a darme la diferencia,
+10:12 Speaker 1: realmente.
+10:18 Speaker 2: Porque también existen herramientas,
+10:20 Speaker 1: cuando ustedes van a mapear, en
+10:24 Speaker 2: las empresas van a ver que existen herramientas. Así como dicen sistemas, también existen herramientas. Entonces hay que saber diferenciar. Una herramienta per se,
+10:34 Speaker 1: obviamente,
+10:35 Speaker 2: es algo que me puede, puede, digo, ayudar a construir una solución. O sea, la herramienta por sí no representa un sistema, no es un sistema.
+10:46 Speaker 1: Eso hay que aprendizarlas.
+10:48 Speaker 2: Entonces hoy día existen herramientas generadas bajo este paraguas que se llama low code. Tendrías esta Power Automate,
+10:59 Speaker 1: que es una
+11:02 Speaker 2: herramienta. Ustedes entran a Power Automate, tiene una interfaz para hacer una pantalla,
+11:07 Speaker 1: conectar con un flujo y funcionar.
+11:10 Speaker 2: Y en SharePoint también existía lo mismo, en SharePoint. Entonces hay que diferenciar. Una cosa es una
+11:15 Speaker 1: herramienta y otra cosa es un sistema.
+11:18 Speaker 2: Pero muchas veces el usuario dice, mi herramienta es Power Automate. Mi herramienta es Power BI. Power BI es una herramienta para visualización de datos.
+11:29 Speaker 1: ¿Te dan cuenta? La
+11:30 Speaker 2: herramienta me está ayudando a generar una salida que luego no utilizo en mi día a día. Pero la herramienta no es el sistema. Porque no tiene estas características. Entonces mucho cuidado de confundir.
+11:42 Speaker 1: esto de aquí. Ahora,
+11:46 Speaker 2: ¿por qué necesitar la corrupción? Porque el CRM es el otro de los sistemas empresariales que es importante hoy en día en una organización. Hemos dicho que hacia abajo está toda la lógica empresarial. Si quieren traducirlo a lógica transaccional. ¿Dónde estará toda la interacción con el cliente? Porque el cliente, entre otras cosas, llama para
+12:09 Speaker 1: sanar.
+12:10 Speaker 2: para hacer preguntas acerca del
+12:13 Speaker 1: estado de cuenta del
+12:14 Speaker 2: producto, o de repente nos llama simplemente porque es interesado en comprar otro producto.
+12:21 Speaker 1: El cliente en realidad se actúa hoy día mucho
+12:23 Speaker 2: por nosotros. Y no solo nos llama, también nos suscribe, por redes sociales también nos puede publicar algo a favor o en contra. Entonces, si todo ese ecosistema es diverso, ¿Dónde deberíamos presentar toda la interacción de un cliente? Entonces vamos a pensar que debe haber un sistema que maneja a todos. Ahora yo le lanzo la pregunta. ¿Y por qué tiene que estar centralizado? ¿Por qué no podría estar en múltiples sistemas?
+13:02 Speaker 1: ¿Sabes para tener una única fuente de verdad?
+13:06 Speaker 2: ¿Que nos serviría para...?
+13:08 Speaker 1: Para...
+13:23 Speaker 2: El concepto está bueno. La pregunta es ya. ¿Para qué te sirve eso? ¿Qué crees que me ayudaría a eso en vez de tenerlo todo, digamos, disperso? ¿Qué podría suceder cuando yo tengo todo disperso o cuando yo tengo un método de verdad?
+13:53 Speaker 1: Ya estamos, ahí estamos, claro. Y es más,
+13:59 Speaker 2: tú puedes ofrecerle un producto ahorita, en la mañana, lo llamas, y en la tarde o en la noche lo vuelves a llamar. ¿Y eso por qué ocurre? Porque todo está en sistemas separados.
+14:11 Speaker 1: En cambio, cuando todo está consolidado a única fuente de verdad,
+14:15 Speaker 2: ya lo veo, ya lo llamé, ya sé el resultado, y podría decir que lo voy a llamar seguro de acá en
+14:21 Speaker 1: una semana.
+14:23 Speaker 2: Entonces ahí está la diferencia.
+14:25 Speaker 1: Cuando yo tengo una única fuente de verdad donde
+14:27 Speaker 2: está todo centralizado, realmente puedo decir que el cliente lo tengo de alguna manera.
+14:34 Speaker 1: Bien identificado,
+14:35 Speaker 2: puedo saber cuál es la mejor acción para contactar, en el momento que lo contacto o en el momento que él me contacte. Cuando lo tengo disperso, pierdo esa visibilidad, pierdo esa vista 360 calidad. Y ahora, esto es muy importante hoy en día porque el cliente está al centro.
+14:52 Speaker 1: El cliente, digamos,
+14:55 Speaker 2: hace 30, no 30, hace más creo, lo que hacían las empresas era... Se les ocurrió una idea, diseñábamos el producto o servicio, y lo lanzábamos en el mercado. Y cada autoría no hay números, alguien tiene que comprar. Bueno, hoy es totalmente al revés. Hoy día sentamos un grupo, hoy hablan con el cliente, y lo que hacen es establecen, pues, no, esto es lo que realmente el cliente necesita. Eso es lo que diseñan el producto o servicio de
+15:17 Speaker 1: acuerdo a la necesidad de gestión.
+15:20 Speaker 2: Ha cambiado eso, entonces por eso tienen que estar al centro. Y por eso tiene que haber una plataforma que maneja
+15:24 Speaker 1: toda su relación con el cliente.
+15:26 Speaker 2: Que en este caso, se llama
+15:27 Speaker 1: CRM.
+15:29 Speaker 2: Pero el CRM, si tiene que manejar toda la organización del cliente, va a tener módulos. O sea, ahí hay que hablar otra cosa, ¿no?
+15:35 Speaker 1: Los sistemas,
+15:37 Speaker 2: como unidades,
+15:40 Speaker 1: van a tener módulos.
+15:44 Speaker 2: Y esta es una gran discusión de qué cosa es un módulo.
+15:48 Speaker 1: Bueno,
+15:49 Speaker 2: yo no sé si existe una definición explícita de qué es un módulo, pero para mí cuando las cosas se dividen, es
+15:55 Speaker 1: posiblemente lo que busco es una mejor... explicación
+15:59 Speaker 2: de lo que se contenía el mismo. Por eso también en procesos existen los famosos procesos. ¿Qué hace en su proceso? Agrupa obviamente
+16:06 Speaker 1: un conjunto de pasos.
+16:08 Speaker 2: Ahora, ¿cuál es el criterio para agrupar?
+16:09 Speaker 1: El criterio es que el
+16:11 Speaker 2: modelador, la persona que diseña, tiene obviamente para poder separar las cosas. Entonces en los sistemas también se crean módulos. En este caso, para el CRM, existen módulos principales. Uno de ellos... Se le conoce como el módulo de marketing. ¿Cómo es esta toda esta, digamos, inteligencia para saber que debo llamar a Carlos,
+16:36 Speaker 1: a Pepe, a Juan, a María?
+16:38 Speaker 2: Pues lo hacen a través de un módulo de marketing donde establecen clientes, expectativas, necesidades, qué cosas está buscando. Generan a través de unos scores para ver qué tan propicio es esta persona para que yo le pueda vender algo. Y a partir de ahí generan las campañas. Que puede ser por llamadas, por WhatsApp, por correo. Pero es toda inteligencia y de eso se encarga. Incluyendo realmente la comunicación. Después, hay otro nuevo lo que llaman service. Conocido como la post-venta. El cliente ya está con nosotros. Pero cada vez que se contacta con nosotros,
+17:14 Speaker 1: como les digo, a diferentes medios,
+17:16 Speaker 2: entonces se crea un caso. Así que dicen, crear un caso. Lo interesante de esto es que un caso puede derivar... en una actualización del contrato o de repente alguna devolución, no lo sé. Pero el caso es primero. Porque hay que recordar que en los casos pueden ser aprobatorios, es decir, se le da la razón al cliente, o en este caso también puede ser por lo contrario. Más allá de la acción que ellos ejecuten en los sistemas empresariales. Y luego está otro módulo que le conoce como venta. Los CRM manejan toda la venta en el sentido de todo
+17:56 Speaker 1: ese ciclo de
+17:58 Speaker 2: la venta. Desde la prospección, desde la
+18:02 Speaker 1: solicitud, la evaluación,
+18:04 Speaker 2: el alta. Manejar,
+18:06 Speaker 1: orquestar,
+18:07 Speaker 2: no necesariamente crece. Yo tengo un sistema CRM que me resuelve todo. Solamente para que lo tengan en cuenta.
+18:16 Speaker 1: Bien, entonces, es
+18:17 Speaker 2: importante, concentra todo. Otro dato más que les voy dando es el CRM, ¿por qué se ha vuelto tan importante? Porque ahora las empresas tienen varias formas que el cliente nos actúa. Ya les dije, por llamada, por WhatsApp,
+18:30 Speaker 1: pero también por
+18:31 Speaker 2: canales web. Canales web propios o canales
+18:35 Speaker 1: externos.
+18:37 Speaker 2: Entonces todo eso hace que aquí arriba tenga multicanalidad y
+18:41 Speaker 1: tenga que concentrarlo en algún
+18:43 Speaker 2: lado para poder obedecer. saber que este cliente, por más que venga por cualquier canal, yo acá lo tengo identificado como único, si quieren registro, como único ID,
+18:52 Speaker 1: para saber que es el cliente que me contactó por WhatsApp,
+18:55 Speaker 2: que también me está llamando y que también está entrando por este canal. Por eso hablan acá del tema de canal, múltiples canales.
+19:04 Speaker 1: Bien,
+19:05 Speaker 2: preguntas hasta acá, ¿estamos? Entonces, entre otras cosas que yo puedo hacer dentro de un server, por ejemplo, son estrategias de retención. Claro, cuando un cliente me llama y me dice, quiero cancelar el producto que tengo contigo, una de las cosas que yo tengo que activar es si este cliente para mí está alto valor. Si está alto valor, voy a hacer una estrategia de retención. Por ejemplo, darle un descuento en su próxima renovación. O ofrecerle algo, ¿no? Para que no perderlo. Entonces puedo hacer eso. Y lo otro, si concentro toda la información del cliente, otra de las cosas que puedo lograr hacer es personalizar las comunicaciones. O sea, ya no le mando algo genérico, ¿no? Ya
+19:44 Speaker 1: puedo ofrecerme algo preguntado
+19:46 Speaker 2: a sus necesidades. Claro, todo eso, recuerden, es porque todo está centralizado en un punto. Si lo tengo todo fragmentado, es difícil. No digo que no sea posible, digo que es difícil. Porque la información que esté en un lado, que esté en otro, puede inclusive estar desplazada. Mejor es tener un único punto para que a partir de ahí yo pueda llegar a una persona de expresión,
+20:08 Speaker 1: como ahora le llaman, no one to one. Bien,
+20:13 Speaker 2: entonces ya tenemos por,
+20:15 Speaker 1: ya hablé de CRM, y ahora voy a hablar de RP.
+20:19 Speaker 2: Los RPs, y acá haciendo un poco de historia, normalmente eran conocidos como los únicos sistemas empresariales de una organización. O sea, antes solo existía el RP, nada más. El RP concentraba todo, para toda transacción. Pero ahora por miedo, todo es inverso. Ahora busco más autoservicio. Ahora busco que el cliente desde la web, desde su app, desde ahí me contacte. Entonces yo le doy un sistema al cliente. No es que el cliente entre a mi sistema. Entonces eso es por eso que ya empezaron a angularizarse y por eso se han creado nuevos conceptos u otros sistemas que funcionan ahora. Pero entonces el RP que me sirve, ¿no? Porque el RP sí es importante. Porque claro, toda empresa lo que sí no ha variado en los últimos 30, 50 años es parte financiera. O sea, la parte de contabilidad, un tema de estado financiero, eso no ha cambiado. La contabilidad, que igual se traduce en asientos, tampoco ha cambiado. La generación de un libro mayor para poder obviamente llevar las cuentas, tampoco ha cambiado.
+21:20 Speaker 1: Entonces necesito un sistema
+21:22 Speaker 2: contable financiero que me permita poder operar mi organización. Entonces, por eso los RTs son importantes hoy en día. Porque obviamente manejan los procesos de logística, de finanzas, de compras, cuentas por cobrar, cuentas por pagar. Toda la parte financiera hoy está en los RTs.
+21:41 Speaker 1: Es con lo que se han quedado los RTs hoy en día. Algunos ejemplos, por ejemplo, se van a encontrar el
+21:49 Speaker 2: más conocido. O sea, el nombre comercial de algún producto,
+21:53 Speaker 1: el SAP.
+21:55 Speaker 2: Así como para CRM, el más conocido... ...
+22:00 Speaker 1: ... ... ... ... Y
+22:06 Speaker 2: si hablamos de Core, y acá hay una lista larga, ¿no? Por ejemplo, en banca... ... hay un software que se llama...
+22:15 Speaker 1: ... ... ...
+22:23 Speaker 2: En seguros hay
+22:26 Speaker 1: un software que se llama iWired. ¿Es así? O sea, tienen sistemas
+22:33 Speaker 2: empresariales, software de empresas que han construido y desarrollado esos software y que obviamente lo comercializan.
+22:41 Speaker 1: ¿Ok? Bien.
+22:45 Speaker 2: Entonces. Funcionalidades que yo pongo en un ERP, cuentas por pagar a mis proveedores o cuentas por cobrar a mis clientes o
+22:53 Speaker 1: a ser parte de mis socios estratégicos.
+22:56 Speaker 2: ¿Preguntas hasta acá? ¿Estamos? Llevamos tres conceptos.
+23:00 Speaker 1: Por
+23:00 Speaker 2: CRM y ERP. Ahora, empezamos con la otra parte que también es importante. Si hoy en día yo
+23:13 Speaker 1: decía que en mi sistema si
+23:15 Speaker 2: manejábamos la data, porque tiene que persistir la información, esa data que tiene de particular, que es una data que está modelada, yo le relaciono, lo que la
+23:24 Speaker 1: vinculo, si digo acá hay el día cliente, acá hay el
+23:26 Speaker 2: día producto, acá hay el día transacción, así lo hago. Pero, anteriormente, cuando uno quería guardar un documento, ¿qué hacía?
+23:35 Speaker 1: Lo guardaban aquí. Lo guardaban en esta base de datos.
+23:40 Speaker 2: Por eso las bases de datos empezaron a tener otros tipos de datos. Apareció el dato binario. Una forma de almacenar datos que no necesariamente son datos directos.
+23:53 Speaker 1: No son documentos, son imágenes.
+23:56 Speaker 2: Pero ¿qué sucede en una base de datos si tú guardas esa información? La
+23:59 Speaker 1: base de datos es la que se renunciaba.
+24:02 Speaker 2: Y se degrada. Entonces por eso dijeron, ¿cuál es la previsión de estos documentos, imágenes? Bueno, hoy en día la previsión es exponencial.
+24:16 Speaker 1: La verdad que creo que es,
+24:19 Speaker 2: hoy día debe ser que la información en una organización, el 30% es transaccional, así datos directos, y el 70% es así, imágenes, documentos, correos,
+24:30 Speaker 1: whatsapp, llamadas, audio. Y eso es donde lo analicemos.
+24:35 Speaker 2: Porque igual forma parte de la interacción con el cliente. Una llamada donde el cliente me está reclamando algo, me interesa analizarla después. Una llamada donde no pude cerrar una venta, también me interesa analizarlo. Para ver dónde es lo que fallo. Qué es el argumento que dan los clientes con los cuales yo no puedo cerrar una llamada con él. Todo eso se analiza. Entonces, necesito un lugar donde almacenar esa información. Y es así como se quedó este concepto. Que le llaman...
+25:02 Speaker 1: ESM.
+25:03 Speaker 2: Gestión de contenido empresarial. Hablando de contenido de la forma más amplia posible. Audios, documentos, imágenes. Todo aquello relacionado a los procesos generalmente core de la organización. Por ejemplo, me podrían preguntar, ¿y un contrato? ¿El contrato que yo le firmo a una empresa para que me haga la limpieza de mi luna seitanista? Porque se entiende que es una operación crítica. Por ejemplo, si yo producto que tengo el servicio, va un técnico a resolvérmelo y el técnico me genera a mí un orden de compra, ese orden de compra sí va a este. Es parte del flujo, ¿no? Entonces hay que saber diferenciar qué va aquí y qué no va. Porque si no, pues llenaría todo. No llena todo, llena lo más crítico y lo que resuelve las operaciones del
+25:56 Speaker 1: sistema.
+25:58 Speaker 2: Entonces, lo primero que tiene que vincular, todo aquello que tu sistema core maneja como lógica con
+26:05 Speaker 1: tus terrenos,
+26:06 Speaker 2: toda esa interacción debería decantar. Si tienes un documento o algo, debería decantar tu ESM.
+26:12 Speaker 1: ¿Ok?
+26:13 Speaker 2: Bien, entonces, tiene que ser un ESM porque acá hablamos de varias cosas. Primero, lo más básico, almacenarlo.
+26:21 Speaker 1: Lo segundo,
+26:23 Speaker 2: una clasificación. Piensen en una biblioteca. ¿Cómo está la biblioteca? Ordenada. Si esto es un repositorio, yo no puedo tirar solamente los documentos. ¿Se imaginan que yo pueda almacenar 10
+26:35 Speaker 1: .000
+26:36 Speaker 2: documentos sin ningún orden? ¿Cómo lo buscaría después? Tiene que haber almacenamiento, organización, versionamiento. Si voy a actualizar algo dentro de eso, tiene que haber un versionamiento. Y esto obviamente me sirve... Durante el ciclo de vida de ese activo, así se conoce, porque lo que yo voy a hacer finalmente es manejar versiones. Voy a hacer en un momento ese archivo, así como la data se habla, puede tener todo un ciclo de vida donde en un momento se descarta. Bueno, ya no es muy importante, se mandará una historia. Entonces, por ejemplo, algunas cosas importantes, todo lo que hemos hecho en el archivado, todo lo que hemos hecho a través de la metadata.
+27:27 Speaker 1: Si tenemos este metadata,
+27:40 Speaker 2: Y me sirve para poder relacionar. Por ejemplo, cuando yo guardo un documento,
+27:45 Speaker 1: no guardo solamente el documento per se.
+27:48 Speaker 2: Lo que intento es decir, ¿qué hay en ese documento?
+27:50 Speaker 1: ¿A quién le pertenece?
+27:52 Speaker 2: Para que de esa manera sea fácil la búsqueda. Si no es como buscar, pues, entre muchas
+27:58 Speaker 1: opciones, pensar que yo voy a dar cómo.
+28:01 Speaker 2: la búsqueda o el keyword clave para poder encontrarlo.
+28:06 Speaker 1: Yo estaba en mente de pensar en eso. Bien. Cuatro conceptos llevamos.
+28:13 Speaker 2: ¿Hasta acá alguna consulta?
+28:15 Speaker 1: ¿Sí? ¿Estamos?
+28:17 Speaker 2: A ver, entonces ahora vamos a hablar de
+28:18 Speaker 1: arquitectura basada en ITI.
+28:22 Speaker 2: Vamos a, primero, diferenciar. Un API deben asociarlo primero a que sea una interfaz.
+28:29 Speaker 1: Yo que decía que era una interfaz es como acá en las pantallas.
+28:32 Speaker 2: En las pantallas también se le dice interfaz.
+28:34 Speaker 1: Entonces,
+28:35 Speaker 2: en el argor, mucha gente confunde el API con el que tiene la lógica de negocio. El API es interfaz. Y dicho de otra manera, el API es el endpoint. Es como RL.
+28:46 Speaker 1: Que obviamente...
+28:47 Speaker 2: Para yo poder acceder y utilizarlo, voy a tener que tener algunas credenciales para poder acceder. Pero accede a través del API.
+28:55 Speaker 1: O sea, el API que tiene un equipo, accede a través de él.
+28:58 Speaker 2: ¿Ok? Hasta ahí estamos bien.
+28:59 Speaker 1: Ahora,
+29:00 Speaker 2: entonces, si el API es la interfase, ¿dónde realmente está la lógica? ¿Dónde está descrito qué hace ese API?
+29:06 Speaker 1: Ponte que ese API consulte a clientes.
+29:09 Speaker 2: El microservicio. El API es la interfase. El microservicio tiene la lógica. Por eso que en el curso, cuando vamos a hacer un diagrama, yo no generalmente
+29:24 Speaker 1: ni hablo de API ni hablo de microservicio.
+29:26 Speaker 2: Yo generalmente hablo de un concepto y digo, este es un microservicio de aplicación. Seguro que acá está el API y está el microservicio, pero yo hablo conceptualmente de esto.
+29:40 Speaker 1: Y quien lo expone,
+29:41 Speaker 2: generalmente, es un sistema core. exponer, o sea, le pertenece.
+29:49 Speaker 1: ¿Sí? ¿Estamos? Solo para que lo tengamos claro.
+29:53 Speaker 2: El servicio de aplicación es expuesto por un sistema code. Que seguro en este servicio de aplicación yo voy a tener un API, un endpoint, una interfaz, y otro servicio asociado que maneja la lógica. ¿Dónde está el código?
+30:10 Speaker 1: Aquí está. ¿Ok? Bien, entonces.
+30:14 Speaker 2: ¿Qué será una arquitectura basada en APIs? Es un enfoque, como dice acá,
+30:18 Speaker 1: donde a
+30:19 Speaker 2: través de este concepto de API, ¿por qué es el concepto de API? Porque hoy día un sistema en una organización necesita conectarse con otros. Mi sistema, por ejemplo, de ARP, necesita interfasear con el sistema Core. Porque el sistema Core, cuando yo digo hay un alta de un contrato, quiere decir que ha recibido plata, pues la contabilidad lo tiene que reflejar. ¿Cómo interfaseo? Pues no interfaseo diciéndole toma mis credenciales, acceda a mi baseator, registrame, no, no, no. Es a través de ideales. Esa es la manera como se... Y eso también se ha llevado al mundo externo. Es decir, yo diría, si quiero interfasear, voy a irme hacia poder interfasear con APIs hacia
+31:03 Speaker 1: sistemas externos.
+31:05 Speaker 2: ¿Sí? Entonces, todo eso hay que considerarlo. Entonces, por eso se habla mucho de
+31:10 Speaker 1: arquitectura basada en ideales.
+31:12 Speaker 2: Y de API podemos hablar de varias APIs,
+31:15 Speaker 1: solo una.
+31:17 Speaker 2: Pero el concepto de API también está asociado a lo que hablábamos con Pro Computing. Escalabilidad. Yo para, obviamente,
+31:27 Speaker 1: desarrollar un API,
+31:28 Speaker 2: yo estoy pensando en que lo voy a desarrollar en la nube. En algunos de los conceptos que hablábamos, ¿no? Generalmente, seguro, común.
+31:34 Speaker 1: Mucho necesario.
+31:36 Speaker 2: Porque es la manera donde más se comunice. Lo puedo contenerizar también, seguro. Pero un push on service sería mucho más... O sea, lo restante servicio, no. Sería mucho más eficiente.
+31:46 Speaker 1: Bien. No sé si está más adelante. Pero sobre
+31:53 Speaker 2: APIs tenemos que diferenciar. Hay APIs que manejan la lógica de negocio. Hay APIs que están orientados en los canales. Y hay APIs que manejan las cosas técnicas. Como el SM. Porque el SM es un sistema, ¿cierto? Pero es un sistema... De negocio es un sistema técnico. Es un sistema técnico. Y también eso hay que diferenciar.
+32:16 Speaker 1: Pero bueno.
+32:18 Speaker 2: Ahora, pasando en esto. Ya les decía, para yo poder construir estas arquitecturas, obviamente me estoy basando en el concepto de Cloud Computing. Esto acá no lo podría implementar en
+32:33 Speaker 1: un tema de on-premise.
+32:35 Speaker 2: No lo podría hacer. ¿Vale? Entonces, basado en lo que dicen acá, yo lo que requiero es una arquitectura moderna, entonces para eso yo pienso en que algunos... la funcionalidad de mi sistema viene el verbo que estoy usando o la forma con lo que estoy pensando algunas funciones de mi sistema lo voy a llevar a microservicios yo no llevo todos a microservicios a algunas cosas para poder hacer yo eso para llevar una serie de microservicios que son funcionalidades hacia el esquema de APIs obviamente necesito el concepto de API, porque es la forma como yo voy a, vamos a decir, comunicarme. Es una comunicación estándar. Necesito el tema de API. Y voy a necesitar la nube. Si no tengo estos componentes, pues no voy a poder generar esa
+33:28 Speaker 1: comunicación.
+33:30 Speaker 2: Si requiero la nube, si requiero el concepto de API, y
+33:35 Speaker 1: si requiero el concepto de microservicios,
+33:36 Speaker 2: para poder comunicarme en las aplicaciones que
+33:39 Speaker 1: tengo. Ah, sí está este gráfico.
+33:47 Speaker 2: Porque esto también es importante. Más allá de que no lo profundicemos acá, igual díenselo como concepto. Acá se lee API Canal, API Negocio y acá está API Técnico.
+33:57 Speaker 1: ¿Por qué se lo explico ahora?
+33:59 Speaker 2: Hace dos, tres años estuve
+34:02 Speaker 1: en un evento y
+34:03 Speaker 2: alguien pensó que este patrón de diferenciar las
+34:06 Speaker 1: APIs venía pues de una empresa,
+34:08 Speaker 2: un banco, que había generado ese concepto, que era algo local. Bueno, no es un salvo local, ¿no? Lo que dijo este costo de costa. Y ese patrón, que si ustedes allá se murieron hace 15 años, se desarrolla en otra parte. Que obviamente hay empresas que acá, locales también, han adoptado eso mismo, ¿no? De diferenciar el API de negocio, el API
+34:29 Speaker 1: de canada y el API de... Entonces,
+34:31 Speaker 2: pero ¿por qué lo diferencio, no? ¿Para qué yo hacerme tan complicado si al final es un endpoint? ¿Para qué separarlo? Y ahí viene, yo creo, lo que hemos hablado acerca de...
+34:42 Speaker 1: ¿Cómo es aquello que yo estoy buscando hoy
+34:43 Speaker 2: en día? Yo necesito la nube,
+34:46 Speaker 1: porque me
+34:48 Speaker 2: permitía a mí poder desarrollar, desarrollar, entregar valor de una manera mucho más, si quieren, más rápida, a un costo más eficiente. Esa rapidez tiene que hablar también cómo diseño mis componentes. Pero, ¿cómo yo debo diseñar mis componentes? Entonces, si yo pienso que es lápiz para mi único concepto, yo mismo puedo ser complejo cuando implemento. Pero si empiezo a dividir, que voy a poder lograr un mejor entendimiento y voy a hacer que algo que es importante hoy en día es cómo se implementa hoy en día. Hoy en día hay una estrategia muy fuerte de implementar, pero no concentrando. O sea, no es que un equipo único implementa, sino lo que se busca es distribuir la implementación.
+35:32 Speaker 1: Que sea distribuida,
+35:33 Speaker 2: que varios equipos implementen. Porque si solo uno implementa, es un pollo de botella. Yo necesito que varios obtenemos. Entonces tengo que empezar a diseñar conceptos que ayuden a eso. Entonces, ¿qué hay aquí importante? Esto que ustedes ven acá arriba son aplicaciones. Que generalmente son las aplicaciones que están instaladas,
+35:53 Speaker 1: la doctora decía, es teléfono.
+35:56 Speaker 2: Que son las que ustedes utilizan.
+35:58 Speaker 1: Esas aplicaciones muchas veces requieren
+36:00 Speaker 2: cierta personalización.
+36:03 Speaker 1: Por
+36:04 Speaker 2: la forma como ustedes la usan. Por ejemplo, Si ustedes tienen al menos una funcionalidad donde a ustedes les muestra una consulta de sus movimientos, de sus transacciones, de sus productos, si quieren, puede ser que en algunos casos lo orienten dependiendo de algún criterio. Por ejemplo, el monto. Por ejemplo, la fecha. Por ejemplo, la importancia que tiene para ustedes ese producto o servicio. Dado esa personalización que ustedes tienen, generalmente... Eso es parte de lo que maneja el API Canal. Porque ¿qué es el concepto de API Canal? A través de estas aplicaciones, este API generalmente lo que hace es manejar la experiencia, salud, del cliente. Si para el cliente es muy importante que lo que aparezca aquí tenga un formato diferente, un branding diferente, el API Canal se encarga por eso. Entonces, ¿qué haré el API negocio? Es lo más grosso posible, lo que permite mayor reuso posible. Pensando que les dije, yo tengo acá un estado de 10 registros, por ejemplo, estamos consultando el estado de los movimientos de mi cuenta de ahorro. Yo se los voy a este API canal y el API canal dice, por el tamaño de la losa, no me permite mostrarlo en tu smartphone. Necesitamos ativiar. Yo no voy a hacer esa lógica. Yo ya les mostré los resultados. ¿Quién va a hacer esa personalización? ¿Yo me concentro en qué? En aquello que es pros,
+37:40 Speaker 1: que puedo revisar. ¿Y en qué se concentra este?
+37:43 Speaker 2: En la forma, en la experiencia del cliente. Entonces hasta ahí estoy viviendo de una manera,
+37:48 Speaker 1: vamos a decir,
+37:49 Speaker 2: práctica, para no cruzarnos. Porque imagínate que yo haga esa lógica. El canal 1 me lo pide, por decir, por fecha. El canal 2 me lo pide por monto. El canal 3 me lo pide por prioridad del cliente. Entonces crearía el 3 a ti.
+38:05 Speaker 1: Y eso es
+38:06 Speaker 2: mayor obtenimiento. Finalmente, el epitécnico, a lo largo de toda solución, va a encontrar que existen componentes técnicos, como el SM, como firma digital, como biometría. A todos ellos se les pone generalmente una capa delante, porque el api finalmente es una capa delante, ¿no? Delante quiere el servicio. ¿Para qué hago eso?
+38:26 Speaker 1: Por ejemplo, hace poco nos ha pasado,
+38:28 Speaker 2: caso real, Renier tiene una aplicación, se llama Identia. Esa aplicación es la que hoy día te permite, cuando tú quieres sacar un
+38:46 Speaker 1: duplicado de tu DNI,
+38:49 Speaker 2: ayudarte a hacer la famosa biometría, que es validar con tu rostro, el movimiento,
+38:55 Speaker 1: quién eres, quién dices algo. Ahora,
+38:58 Speaker 2: ¿qué pasa con esto de aquí? Esa aplicación es propietaria de Renier.
+39:04 Speaker 1: Y antes Renier,
+39:05 Speaker 2: lo mismo que pude hacer por su aplicación, también te lo permitía a través de un API, exponían y te cobraba. Bueno, dijo, por temas de seguridad, ya no voy a exponer el API, que ahora tienes que usar mi
+39:19 Speaker 1: aplicación.
+39:22 Speaker 2: Pero imagínense, ¿qué es eso para una empresa? Yo estoy en una aplicación, me piden biometría, en ese momento tendría que salir de esa aplicación, bajarme la app de Renier. Hacer la autenticación, que todo salga bien y luego regresar. Eso es fricción con el cliente. Por más que se pueda hacer, es friccionar el cliente. Porque el haz de Renier inclusive se cae.
+39:48 Speaker 1: Y eso sucede.
+39:49 Speaker 2: Pero entonces, ¿cuál sería la salida para esto? Tocar otra manera de hacerlo. Pero ¿qué sucede? Si yo no he hecho esto de acá, si yo he hecho básicamente lo que muchas personas hacen antes, y a ver si yo le explico... Y después de muchos años me comentan sobre esto. Es que muchos lo que hacen es, cuando quieren consumir un recurso o un app externo,
+40:10 Speaker 1: lo hacen directo.
+40:12 Speaker 2: O sea, no la ven.
+40:13 Speaker 1: Yo les digo, no la ven. Se van directo al app externo.
+40:18 Speaker 2: ¿Qué pasa cuando ese app cambia? Tengo que cambiar toda la lógica de mi aplicación que está acá detrás. ¿Y qué hace este app técnico? Es simplemente poner una capa para que no importa lo que yo consuma hacia afuera, si cambia yo lo cambio acá. pero mi aplicación no sufre ningún cambio entonces por eso es la importancia de tener estas capas y de manejar lógica separada para
+40:40 Speaker 1: que así te permita saber
+40:42 Speaker 2: eso que se llama hacer agnóstico a los cambios cuando menos agnósticos son y cuando más conexiones directas hacen y lo que hay que hacer justamente es crear esas capas que te permitan hacer más agnósticos Porque hoy día fue R&D, mañana es otro creador que cambia, y así, el mundo tecnológico cambia, no sabe increíblemente. El problema es que cuando uno comete esos errores, pues ya te van sacando de la lista.
+41:05 Speaker 1: Así no puede.
+41:07 Speaker 2: Porque saben que no dominan los conceptos básicos. O sea, te has quedado en la idea de que todo
+41:11 Speaker 1: funcionaba con un nuevo premio.
+41:13 Speaker 2: En el ladito, en que tú invocabas directo. Eso en el mundo de Cloud Computing ya cambió. Yo lo primero que les digo a ustedes es que cambian.
+41:22 Speaker 1: Tienen que pensar...
+41:23 Speaker 2: Porque hay cosas que no es que se trabajan porque uno busca mayor complejidad, sino porque responden a un fin. Y entiendan ese fin. ¿Para qué? No es copiarme eso porque yo lo vi a alguien que lo hizo. ¿Para qué lo hiciste? ¿Qué te evitó? Entonces, estas tres, hoy día es lo que varias empresas, no digo todas, varias, utilizan. Happy Canal, Happy Negocios y Happy Tech. Y así lo van a encontrar.
+41:50 Speaker 1: ¿Puedo explicar la diferencia entre API canal y API negocio? Claro.
+41:54 Speaker 2: Un API canal, generalmente lo que está manejando es la interacción o la experiencia que maneja con la aplicación de canal. Mientras que el API negocio está más relacionado al sistema core o al sistema empresarial. Entonces, entre estos dos, podría ser que requieran lo mismo, pero ese básicamente se va a mostrar un resultado
+42:12 Speaker 1: que puede ser utilizado por varios canales, y
+42:14 Speaker 2: él es el que lo personaliza. Entonces, yo hablaba del ejemplo de consultar el
+42:18 Speaker 1: estado de movimientos de mi cuenta ahora.
+42:20 Speaker 2: El API de negocio tiene el valor,
+42:22 Speaker 1: son 10 registros,
+42:23 Speaker 2: pero resulta que el canal dice, no, no, yo lo entiendo ordenado por pecho, o por monte. Esa personalización no te lo va a hacer aquí,
+42:29 Speaker 1: te lo va a hacer el último canal.
+42:31 Speaker 2: Entonces, para eso se separa. ¿Cómo separar responsabilidades?
+42:35 Speaker 1: Bien, seguimos, pasamos al siguiente. ¿Por qué había dicho que para hacer las pruebas en Office se necesita el Cloud Platform?
+43:03 Speaker 2: Porque no se puede implementar en un premio.
+43:06 Speaker 1: ¿Por qué no?
+43:07 Speaker 2: Porque el premio está basado en un concepto donde mi infraestructura no tiene un crecimiento, sino es a través de una manualidad, un operador que lo hace escalar. Y yo acá estoy pensando en una arquitectura escalable, que no depende de personas. El on-premise es como tu laptop. Todo lo que tu laptop tiene de capacidad es todo lo que puede crecer. Yo no quiero eso. Quiero crecer ilimitadamente. Eso no me lo da el on-premise. ¿Cuáles son los disturbios conflictivos? ¿Ok?
+43:40 Speaker 1: Entonces ahora vamos a empezar a ver... Debe cerrar todo lo que podamos.
+43:47 Speaker 2: Igual, si falta algo, lo vemos en la siguiente clase, pero vamos a ir avanzando. Bien, entonces hasta ahora hemos visto, siempre lo repito porque es lo mismo que empezamos a ver en
+43:57 Speaker 1: el curso, y a veces estos conceptos,
+44:00 Speaker 2: estamos a mitad del curso y a veces todavía no terminamos de cerrar. Pero hemos visto, sistema core, nuestro CRM, RP, y hemos hablado de APIs. Solo para tener en cuenta lo de APIs, Porque yo generalmente me gusta llevarlo todo a este concepto de servicio de aplicación. Me parece que engloba más. Para no perdernos en el tema del import. Algunos me sacan el tema de FIGET y otras cosas. Bien. Ahora nos toca hablar del otro tema. Yo les decía que los datos son lo que las aplicaciones manejan. Los datos. ¿Y qué será el tema de información? Bueno, ahí, cuando hablamos de información y data, la data, cuando es transformada, se convierte en información.
+44:40 Speaker 1: Dicho de otra manera,
+44:42 Speaker 2: si por ejemplo ahorita yo dejara mi número de teléfono en una página web, para empezar, eso es un dato. Mi número de nueve dígitos es un dato. ¿Cuándo se convertirá información? Cuando detecten que de repente yo estoy interesado en comprar un seguro vehicular. Entonces alguien me llama, utiliza mi número y obviamente me ofrece su producto. Ahí se convierte en información. Para separarnos. Bien, pero este concepto abierto en el ritmo porque es importante. Ya les hablaba de por qué el SM tenía esta necesidad de ser creado. Entonces, si ya sabemos que la mayor cantidad de información viene de estos... Información que le vamos a llamar... Llamemos la información...
+45:26 Speaker 1: A ver...
+45:27 Speaker 2: Cuando yo les voy a decir información estructurada, significa que es información modelada. ¿Cuál es la información que está modelada? La información que realmente está en un sistema.
+45:37 Speaker 1: Nosotros la modelamos.
+45:38 Speaker 2: Por eso hacemos una base de datos como si la... Creamos un modelamiento en tercera forma normal, la que quiera, pero la relacionamos. Esa forma de hacer se le hace que es una data estructurada.
+45:51 Speaker 1: O sea, que la hace estructurada. Sabes dónde está la data de cliente, la data de producto, etc. Así como hay data estructurada,
+45:59 Speaker 2: cuando hablamos de este concepto, se pensó para el tema de la data no estructurada. No hay modelamiento. Por ejemplo, un correo. Un correo no tiene moda. Es una serie de párrafos, textos, y dentro de eso hay datos que a mí me interesa.
+46:11 Speaker 1: ¿Ok? Entonces,
+46:14 Speaker 2: ¿para qué me servía esto? Porque identificaron que existía data no estructurada que seguía en las organizaciones sin analizarlo. Y necesitábamos llevarlo a algún lugar, aplicarle algún concepto, aplicarle alguna técnica o extraerla. Seguro llevarla a
+46:31 Speaker 1: estructurarla para
+46:32 Speaker 2: luego aplicar a un algoritmo de Machine Learning y sacar alguna conclusión. Bueno, todo ese proceso es importante, pero no lo puedo hacer en el SM. El SM no me sirve para eso. El SM me sirve solamente para almacenar.
+46:45 Speaker 1: ¿Y
+46:46 Speaker 2: dónde hago entonces toda esa inteligencia? Entonces tengo que hacerlo en otro concepto. Y crearon este concepto que se llama Big Data y Analytics. Entonces acá ya hablaban de cantidades de enormes de datos, por eso es Big.
+46:58 Speaker 1: Muchos datos.
+46:59 Speaker 2: Así como existen muchos correos, muchos audios, muchos documentos PDF, ya.
+47:05 Speaker 1: Muchos, muchas cantidades de datos que
+47:07 Speaker 2: obviamente eran difíciles de procesar pensando en que no están modelados. Entonces, toda esa información yo la quiero para poder hacer examinada y para encontrar, como dice acá, patrones o tendencias. Hablando de eso, eso me lo contaron hace muchos años, ¿verdad? Por ejemplo, una de esas cosas que está como caso de...
+47:30 Speaker 1: Es
+47:33 Speaker 2: un patrón, una tendencia que se encontró hace muchos años, pero que fue bien llamativa. Cuando había estos eventos deportivos en Estados Unidos,
+47:45 Speaker 1: en esas fechas específicas, dice que las...
+47:52 Speaker 2: Tiene su concepto, así como nosotros tenemos un plazadero y esto también se me dio el nombre, pero estas tiendas mayoristas, estas tiendas mayoristas, esos días, todo lo que era cervezas, que estaban en góndolas, creo que se le llaman, estaban en un lado y al costadito estaban los pañales. Y ese es un caso que lo
+48:14 Speaker 1: pueden encontrar en Instagram.
+48:15 Speaker 2: Claro, entonces decían, ¿por qué pones los pañales al lado de la cerveza? Claro, entonces decía, porque en esos eventos deportivos,
+48:23 Speaker 1: la gente,
+48:25 Speaker 2: sobre todo las personas del sector masculino, lo que hacían era ir a las tiendas a comprar cerveza. Y sucedía que en ese viaje, los que eran casados, tu esposa los llevaba y decía, ¡ay, aparte trae pañales! Entonces claro, si el pañales estaba cerca, lo traía. Entonces llevaban como algo así. Cerveza, pañales. ¿Cómo encontraron esa relación? Porque analizaron los datos. Por eso hicieron ese movimiento. Para que favorezca justamente a esa compra, si quieren, por paquete. Pañales y cerveza. Increíble, ¿no? Pero así, muchas empresas, bueno, ya estoy en el caso hace muchos años, encontraron una forma de cómo tener más ingresos en estas
+49:08 Speaker 1: fechas postivas. Entonces, Big Data, que
+49:19 Speaker 2: trata más que todo de la captura, captura es como ingesto esta información, como la almaceno, la forma como el proceso. El Analytics está más relacionado a modelos. Aquí entra el tema de Machine Learning, la diferencia artificial, que son algoritmos, que lo que me permiten es generar, como dicen, predicciones o internet. Una predicción es como decir, ¿qué va a suceder? Eso es lo que la mayoría de empresas quiere hoy día determinar. Hay esa pregunta, ¿no?
+49:52 Speaker 1: ¿Qué quiero que suceda? ¿Qué va a suceder?
+49:56 Speaker 2: Por eso hacen toda esta inteligencia, porque están tratando de determinar cuál va a ser ese comportamiento. Porque si lo pueden, de alguna manera, determinar, eso les permite poder generar más ingresos. ¿Y dónde está el valor? Pues en las decisiones que toma. Por ejemplo, si yo identifico que hay algo que tiene, digamos, mucho crecimiento, pues puede ser una forma de que pueda usar un pricing. El pricing finalmente es el precio. ¿Cómo se mueve
+50:28 Speaker 1: el precio? No se mueve para arriba.
+50:31 Speaker 2: Especialmente el precio se ajusta, si saben que ha de bastante mal, porque lo que te interesa es la demanda. Y
+50:36 Speaker 1: ahí puedes ajustar el precio. Puede
+50:39 Speaker 2: haber riesgo también, ¿no? Imagínate, hoy día, inclusive yo sé que hay agentes que ingresan a otras páginas de la competencia y van viendo, ¿no? Van viendo qué parte se han lanzado. Eso de alguna manera alerta de que es posible que la competencia ya me esté superando y yo de alguna manera qué acción esté tomando. Y si eso no podría generarme alguna pérdida. Entonces, todo esto son decisiones que deberían venir desde el manual. Entonces, así como que para que se entienda el Big Data
+51:06 Speaker 1: qué cosa maneja, maneja el Analytics. Big Data, la data, los
+51:10 Speaker 2: procesamientos, qué es el almacenamiento, y después el análisis de esa data, para ello puedo descartar en
+51:18 Speaker 1: alguna sesión.
+51:22 Speaker 2: Entonces, ¿qué podríamos hacer en estos casos? Por ejemplo, podría hacer un análisis de riesgo.
+51:28 Speaker 1: Podría evaluar un riesgo que
+51:30 Speaker 2: me permita luego, obviamente, concluir. Por ejemplo, yo podría decir, ¿no? He evaluado a un cliente y me ha determinado que este cliente no debería yo comenzar a usarlo. Porque de repente está en una lista negra, porque de repente me da cuenta que esto me llama mucho para quejarse. Hay un costo que importa mucho en las empresas que se llama el
+51:57 Speaker 1: costo del cliente. ¿Tiene
+52:00 Speaker 2: otro nombre?
+52:01 Speaker 1: El costo de vida del cliente.
+52:02 Speaker 2: El Lifetime Value, ¿no? El costo de vida del cliente. Lo que sucede es que un cliente, el típico, el que nos interesa a nosotros, es aquel que nos compra y tiene pocas interacciones con nosotros. Pero el que tiene muchas interacciones con nosotros
+52:17 Speaker 1: es un cliente que realmente
+52:18 Speaker 2: nos está generando carga. Entonces, ¿cómo lo determinan? Pues se analizan, se perfilan.
+52:25 Speaker 1: Para eso sirve la data cuando se le da un solo lado.
+52:28 Speaker 2: Imagínate un cliente que me ama toda la semana. Es un cliente que está utilizando un servicio por el cual yo pago. Porque el operador de contact center no me sale gratis. Yo lo estoy pagando. Y debido a que hay un cliente que llama muchas veces, ese cliente está consumiendo ese servicio. Entonces así sucede, ¿no? Las empresas analizan eso porque luego emiten quién es el más rentable.
+52:49 Speaker 1: Entonces...
+52:50 Speaker 2: El riesgo es importante muchas veces porque me ayuda a determinar cuándo o no voy a hacer una compra. O sea, cuándo puedo de alguna manera aprobar una venta hacia alguien, productivamente que yo he analizado previamente su vida. Puede ser el tema de predicción de tendencias, a partir de datos históricos, como he dicho, para anticipar inclusive qué cosa puede suceder, qué quiere que suceda. Antes, por ejemplo, lo único que
+53:14 Speaker 1: era
+53:17 Speaker 2: conocido era... Le decían el análisis forense, ¿qué
+53:21 Speaker 1: sucedió?
+53:22 Speaker 2: Es decir,
+53:23 Speaker 1: pasó el mes y
+53:24 Speaker 2: yo analizaba el mes pasado. Esa era mi idea, ¿no? Y basado en lo que anacía el mes pasado, determinaba algunas acciones. Bueno, eso es tarde, ¿no? Porque a veces el mes
+53:32 Speaker 1: pasado no se comporta igual que este mes.
+53:34 Speaker 2: Entonces ahora están como que anticipando. Están diciendo, quiero ver más allá, por eso quiero ver qué cosa va a suceder. Por eso ya cambió la forma de cómo analizamos. Ya mucho es por tendencia. Bien, entonces ya nos toca ver el tema de inteligencia artificial. Acá no quiero que confundan una cosa, ¿no? Se habla agentes, y en la IAEA, ¿cómo se relaciona todo eso? De empezar, hay que empezar a decir que inteligencia artificial es como que el paraguas más grande. Y de ahí han salido algunas, vamos a decir, líneas, se puede decir, que puede ser... precisan ciertas cosas, como el Deep Learning,
+54:15 Speaker 1: como el Machine Learning, como
+54:17 Speaker 2: el tema de IA generativa. Pero es a partir de la inteligencia
+54:22 Speaker 1: artificial. Entonces,
+54:24 Speaker 2: esta inteligencia artificial, por ejemplo, aquí está, un parábamos grande. Acá está el Machine Learning, Deep Learning, y mira, acá como un subconjunto es el tema de la Lens. Solo para tenerlo en cuenta, cuando hablamos de inteligencia artificial es en sentido más amplio. Entonces, lo que hacen estos... Vamos a decir sistemas de inteligencia artificial. Eso obviamente nos apoya en el tema de realizar tareas que nosotros hacemos. Pero obviamente tiene que haber un comportamiento humano ahí. Donde obviamente es importante varias cosas. Primero aprender. ¿Cómo aprende en este caso el sistema? Pues aprender de los datos históricos. Entonces ahí viene un reto. La data que yo en este caso le suministro tiene una data de calidad. Si no, pues no lo va a poder hacer. Por ejemplo, Si hoy día yo tengo un negocio
+55:12 Speaker 1: donde me
+55:15 Speaker 2: he dado cuenta que en mi negocio estoy tomando malas decisiones, yo quiero que haya un agente, pero para que tome buenas decisiones, la pregunta es que va a hacerme alguien que quiera construir un negocio. ¿Cómo sabe qué decisiones buenas va a tomar?
+55:29 Speaker 1: Si la data que esto ha usado es la data que ha generado
+55:31 Speaker 2: malas decisiones. Entonces, para empezar debo a partir de, oye, tengo la data para poder suministrarla a una gente para que pueda tomar las decisiones que uno se debe tomar. No. Entonces no necesitas una gente. Necesitas primero arreglar
+55:45 Speaker 1: tu data.
+55:47 Speaker 2: Y la data viene a ser, creo que, como dicen, el Golden para mí, más el Golden Source. Porque realmente es lo más importante cuando hay que hacer una gente. Y nos preocupamos mucho por el EDN,
+55:58 Speaker 1: el modelo EDN que voy a usar, o si va a tener
+56:01 Speaker 2: RAF, y todo lo demás. Y no hay data. ¿Cómo lo voy a hacer?
+56:07 Speaker 1: Bien, entonces,
+56:08 Speaker 2: aprendizaje, razonamiento, tiene que reconocer patrones. reconocer patrones pues me ayuda obviamente a tomar decisiones y luego obviamente esto que es importante pero que ojo que en el tema que hoy día justo se habla de los agentes el tema de toma de decisiones se está digamos llevando a un esquema más que todo supervisado no toma decisiones directamente el agente hay un concepto que le llaman el human dialogue entonces lo que se hace es el agente procesa razones, da un resultado pero que hay una persona
+56:39 Speaker 1: que verifica para finalmente decir si va o no
+56:41 Speaker 2: A eso le llaman Human Interlude
+56:43 Speaker 1: Bien,
+56:45 Speaker 2: entonces sobre esto Entramos
+56:47 Speaker 1: a ver Machine
+56:48 Speaker 2: Learning E dice aprendizaje automático Aprende a partir de la experiencia Entonces, el Machine Learning, ¿qué será? Yo diría una derivada, pero es una técnica, de la inteligencia artificial, donde los sistemas aprenden a partir de los datos, información histórica, y mejoran sus resultados sin necesidad de ser programados explícitamente. ¿Cómo pueden hacer eso? Por puntaje, ¿no? Porque, por ejemplo, si tú le dices, clasificame estas imágenes, y obviamente empieza
+57:22 Speaker 1: a clasificar.
+57:24 Speaker 2: Puede ser sencillo, que diferencie una pelota, por ejemplo, de una bicicleta. Y al momento que lo empieza a ver, identifica todas las pelotas. Y le empieza a identificar todas las pelotas. Y en el momento que se equivoca, le pones un putaje negativo.
+57:42 Speaker 1: Como que lo castigas.
+57:44 Speaker 2: Es ahí donde se está dando cuenta que se está equivocando. Entonces empieza a decir, esto que me han dicho que yo se le sonaba mal. qué cosas tienen características para que ya no lo vuelva a considerar. Y es así como va aprendiendo. Por eso que dices que fue la necesidad de aprender. Pues aprende de sus errores.
+58:00 Speaker 1: Pero
+58:00 Speaker 2: parece necesariamente tener data y es peligroso.
+58:06 Speaker 1: Entonces,
+58:07 Speaker 2: por ejemplo, ¿no? Alguna vez a nosotros nos ha pasado, y esto me lo explicaban hace muchos años, de... Machine Learning suena bien bonito, el término suena bien rimbombante. Pero el tema es que esto ya se venía hace muchos años, solamente que nosotros quizás no lo conocíamos como ese término. Entonces hace muchos años ya existía este tema. Las plataformas de correo, por ejemplo Gmail, ya empezaban a hacer esto, ¿no? Plasificar los correos en algunos casos los llevaban una flecha llamada spam.
+58:40 Speaker 1: Y así. Ahora,
+58:42 Speaker 2: ¿qué sucedía? Yo podía entrar a esa carpeta, Spam, y decir, ah, este no es Spam. Cuando tú haces eso, realmente lo que estás haciendo es, le estás haciendo que te has equivocado.
+58:54 Speaker 1: Entonces, ¿qué hace el algoritmo? Espera y le
+58:55 Speaker 2: dice, ah, esto no es Spam. Esto que tiene este concepto, ¿qué es esto?
+59:00 Speaker 1: Lo que
+59:02 Speaker 2: intento de ver es patrones no conocidos. Es como que, por ejemplo, algo que me explicaban acá, ¿no? A veces... No hay nada más que la lógica pura para poder entender cómo hacer algo. Si, por ejemplo, vivo por el libre, digamos que mi zona donde yo utilizo mi tarjeta de crédito es San Miguel, por ahí es Madalena, San Borja, La Molina, y en un momento aparece una transacción de los olivos, ¿qué es lo que el sistema de fraude debería pensar?
+59:33 Speaker 1: Hay un potencial robo
+59:36 Speaker 2: o un fraude de salud. Porque claro, es algo que no conocen. Porque se mueve un punto de movilización. Y puede haber unos patrones también que puedan ser relacionados, ¿no? Por ejemplo, yo utilicé la tarjeta hoy día a las 3 de la tarde aquí, que resulta que a las 5 hay algunos olivos que estoy utilizando. Entonces, con más razón para decir que es un potencial trabajo. Claro, porque estamos usando patrones. Así es como se construyen patrones, lo sabes. Igual. Por ejemplo, alguien analiza y dice, a ver, ¿qué es lo que yo consumo, por ejemplo, con mi tarjeta? Generalmente consumo ropa de cortito. Y por ahí alguien encuentra que con mi tarjeta, de repente yo compro algún otro
+01:00:16 Speaker 1: doméstico. Entonces también hay en ese momento que esto
+01:00:19 Speaker 2: no tiene coherencia. Si siempre hay un consumo sobre un tipo de línea, cuando aparece otra, pues eso es llamado un patrón desconocido. Entonces eso es lo que realmente es el tema de... ¿Cómo un tema de fraude puede ser identificado? A partir de establecer patrones, y cuando se presentan los antipatrones, es cuando empiezan a mandar las alertas. Puede estar de varias maneras, ¿no? Primero te bloquean la tarjeta, o te llama, te piden una autorización, o al menos te piden una
+01:00:47 Speaker 1: autorización para que puedas autorizar la transacción. Todo es parte de eso. Ahora,
+01:00:54 Speaker 2: hablando de la otra derivada, ¿no?
+01:00:56 Speaker 1: Como hablábamos de Machine Learning,
+01:00:59 Speaker 2: entonces ahora tenemos que hablar del Big Learning.
+01:01:01 Speaker 1: Entonces, el Lean Learning, a diferencia, es una
+01:01:04 Speaker 2: técnica más avanzada, porque aquí estamos hablando de grandes volúmenes de datos. Pero acá aplicamos redes neuronales. Acá no aplicábamos redes neuronales, acá aprendíamos a partir de la experiencia, lo que les digo, buscar cosas directas.
+01:01:19 Speaker 1: Pero ¿qué es una red neuronal? Es la forma en la que nosotros pensamos.
+01:01:24 Speaker 2: Y esto, de redes neuronales, existe hace muchos años. Claro, que se ha traído de modo a... porque yo diría, con el uso de Pro Computing,
+01:01:33 Speaker 1: todas estas cosas han
+01:01:34 Speaker 2: ganado de los cientos de salmín. Yo empecé la clase pasada diciendo que antes, cuando yo quería procesar algo, me moraba días.
+01:01:44 Speaker 1: Días.
+01:01:46 Speaker 2: Pero ahora, el protocolo me permite procesar cosas en
+01:01:50 Speaker 1: segundos, en minutos. Ahí está la experiencia.
+01:01:54 Speaker 2: Entonces esto, de red neuronal, como digo, como consejo que dijiste antes, pero esto de aquí es la forma como nosotros pensamos. ¿Qué significa una red neuronal? Significa que yo no es que, digo, loro, Y solo pienso en el loro como, no, loro y asocio una serie de cosas al loro. Dicen que no es mejor forma de pensarlo, y por eso existe también esa herramienta que llaman mapas mentales. Porque relacionas un concepto a varias cosas alrededor. Tu forma es el concepto aparte. Entonces, cuando le digas sistema de información, que espero que se recuerden de esas tres cosas. Y así, con cada concepto, ustedes
+01:02:31 Speaker 1: deben relacionarlo a ello. Para que siga así el ejemplo.
+01:02:34 Speaker 2: Bueno, esta es la forma como se piensa, nosotros pensando así, y es la
+01:02:38 Speaker 1: manera como el Deep Learning está implementado a través de redes neurales,
+01:02:42 Speaker 2: o sea, relación. Entonces, si yo hago eso, obviamente, es una técnica más avanzada.
+01:02:50 Speaker 1: Definitivamente, ¿no?
+01:02:52 Speaker 2: Es como decir, quiere imitar la forma como nosotros pensamos.
+01:02:58 Speaker 1: Entonces,
+01:03:00 Speaker 2: Machine Learning, como dice, aprende en los actos pasados para tomar mejores decisiones a
+01:03:05 Speaker 1: partir de este relacionamiento.
+01:03:09 Speaker 2: ¿Por qué es importante el relacionamiento? Porque obviamente hoy en día, inclusive con el tema de agentes, el agente que necesita para poder tomar una buena decisión, el
+01:03:18 Speaker 1: contexto.
+01:03:20 Speaker 2: Y el contexto no es nada más que
+01:03:21 Speaker 1: saber relacionar con los conceptos.
+01:03:24 Speaker 2: Para la organización, para el caso que quiera resolverlo. Por ejemplo, aquí hablan de los vehículos
+01:03:30 Speaker 1: autónomos. Entonces, lo que hace el deep learning en este caso, porque ahora mismo hemos avanzado esto.
+01:03:36 Speaker 2: Imágenes de cámaras, sensores, ¿no? Todo eso, ¿para qué lo ayuda? Pues porque quiere reconocer señales, patrones, toma de decisiones de información.
+01:03:46 Speaker 1: Por ejemplo, una de las cosas que
+01:03:47 Speaker 2: testearon es el tema de los autónomos. ¿Qué sucedía en ese momento donde estaba en la vía una madre con su hijo en
+01:03:58 Speaker 1: un coche?
+01:03:59 Speaker 2: Y que él, digamos, esté cerca de impactarlo, ¿no? ¿Qué decidiría? sabiendo que la opción no es detenerse, porque detenerse no frenaría, igual va a impactar.
+01:04:10 Speaker 1: Entonces, ¿qué diría? ¿Lo impacta?
+01:04:12 Speaker 2: O, en este caso, decide decirse a un barranco, ¿no? Como que yo desvío mi ruta y me voy a otro lado. Entonces, ¿qué decide en ese momento? Entonces, lo que ellos, en este caso, estaban viendo, que su decisión, casi a 1,99%, era irse a un barranco, ¿no? Porque, obviamente, lo que también analiza es la esperanza de vida de la persona que está ahí en el punto de espera. Si es una persona que tiene, obviamente,
+01:04:37 Speaker 1: 40, 50 años,
+01:04:39 Speaker 2: pues el diplomate lo que está razonando es que esta persona ya vivió mucho. En cambio, prevalece la vida
+01:04:44 Speaker 1: de una persona que es un hijo.
+01:04:46 Speaker 2: Entonces, dice su criterio por el cual empieza a decir,
+01:04:49 Speaker 1: tengo que hacer todo.
+01:04:50 Speaker 2: Obviamente, ninguno quiere que pase nada de eso, pero
+01:04:53 Speaker 1: ahí puede haber suceso. Entonces, por
+01:04:55 Speaker 2: eso el diplomate también tiene que tener ciertos elementos. Es igual, podríamos hacer detección de fraude, pero en este caso ya serían patrones más complejos. Porque yo les digo que yo estoy por posición, es
+01:05:06 Speaker 1: súper sencillo. Ya hay que ver otro tipo de forma.
+01:05:10 Speaker 2: Por ejemplo, algo que se está viendo
+01:05:12 Speaker 1: últimamente es, la
+01:05:14 Speaker 2: otra vez me pasó a mí, es... Bueno, yo no perdí mi tarjeta, nuestra persona lo perdió. Y la cosa es que empezaron a querer hacer consumos mínimos, sabiendo que por consumos mínimos no pasan. Es decir, yo hago un consumo de 30 o 40 soles, y generalmente los algoritmos, para ver qué es un consumo bajo, digamos que ha costado un título de no revisar.
+01:05:35 Speaker 1: Porque el primero piensa que si utilizan tu
+01:05:37 Speaker 2: tarjeta van a hacerlo para montos grandes. Pero eso es el famoso tito feo. Empiezan a gastar, se van, empiezan a consumir, pero ¿por qué hay montos? Pueden gastarles hasta 1000 soles. Porque igual los montos pequeños suman, suman, suman hasta que se llevan
+01:05:51 Speaker 1: mucho tiempo.
+01:05:52 Speaker 2: Entonces, claro, cuando me avisaron de que había perdido mi tarjeta, pues lo que yo primero que hice fue mover todo el dinero, ¿no? Cuando llegué a otro lado. Pero luego me di cuenta, porque me llegaron las comunicaciones de sentimental, personas, bueno, han intentado hacer esa transacción y no han tenido éxito. Pude salir. Por tanto, es suficiente, sinceramente. Y se veían los montos
+01:06:10 Speaker 1: que querían hacer. Cuatro soles, cinco soles.
+01:06:13 Speaker 2: Intentaron varias veces, ¿sabes? Obviamente no el resultado. Entonces, ahora... Ya no solo esto tiene que ver con que yo pueda decir, ah, acá hay un patrón. No. Si alguien intenta muchas veces, eso también es fraude.
+01:06:28 Speaker 1: Eso también es fraude.
+01:06:30 Speaker 2: Entonces ese sí es un comportamiento más avanzado.
+01:06:32 Speaker 1: Y así.
+01:06:33 Speaker 2: Y hay cosas que ya hoy día, con el Deep Learning, yo podía detectar que antes de repente solamente me dedicaba a los casos más directos. Y viene lo más que
+01:06:46 Speaker 1: dicen que está de moda, que
+01:06:48 Speaker 2: es la guía generativa. De hecho, que yo siempre les pregunto, en el examen sobre todo es, ¿cómo ven el tema de la guía generativa para el caso de uso o el proceso? Ustedes están en el examen, si
+01:06:59 Speaker 1: ven que es algo que pueden incorporar.
+01:07:02 Speaker 2: Guía generativa, y ahora incluso hablamos de agentes.
+01:07:05 Speaker 1: Pero, ¿qué es la guía generativa?
+01:07:07 Speaker 2: Al final, otra vez. Es un tipo de inteligencia artificial, pero acá hay una gran diferencia, que crea contenido. Y esa es la gran diferencia con las otras inteligencias. Las otras inteligencias no creaban contenido, simplemente concluían. Entonces decían, te doy mi respuesta, esto es lo que debes hacer. Te ayudaban a tomar una mejor decisión.
+01:07:32 Speaker 1: Y acá se rompe un poco ese ejemplo,
+01:07:34 Speaker 2: dice no. Ahora lo que vamos a hacer es crear contenido. Y eso es lo que hace el data generativa. Te genera contenido en base, obviamente, a lo que llaman el prompt, ¿no? Entonces puedes crear, creo que ustedes lo saben, seguro mucho más que yo, text, imágenes, audio, canciones, y decir, código, ¿no? Nos puede ayudar a hacer código de calidad a partir de, obviamente, cómo lo estructure. A partir de, obviamente, patrones que aprende de grandes volúmenes de datos. Entonces, para nosotros es, básicamente, una manera... de cómo simplificar algunas actividades que antes nos tomaban horas o días, y ahora nos vamos a tomar minutos, dependiendo realmente del PROMP. Y ahora justamente va el tema que yo siempre discuto, ¿no? Entonces, si
+01:08:13 Speaker 1: se trata todo del PROMP ya,
+01:08:15 Speaker 2: realmente deberíamos ser unos buenos ingenieros del PROMP. Pero ahí está la complicación, que no todos somos buenos ingenieros del PROMP. Pensamos que la I es mágica. No es mágica. Porque dependiendo de lo que yo le ingreso, ¿cómo le ingreso el contexto? Es lo
+01:08:28 Speaker 1: que me va a dar el resultado.
+01:08:30 Speaker 2: Entonces ahí está el reto. Y entonces ahí viene otra de las cosas que debemos saber. Ya hemos, hasta que he revisado, ya hemos salido al diálogo de APIs. Yo les dije, un API finalmente corresponde a una información que sale de un sistema, porque acá está el IPI, sale de un sistema, donde hay data no
+01:08:48 Speaker 1: estructurada, data estructurada.
+01:08:50 Speaker 2: Entonces, basado en esto, yo podía concluir
+01:08:52 Speaker 1: que esta información es determinística.
+01:08:55 Speaker 2: Es decir, que esa información no va a cambiar. Un agente puede cambiar su respuesta, por supuesto que lo puede cambiar. Entonces tienen que ustedes saber diferenciar. Una cosa es, en un contexto dado, yo quitar el tema de API, porque sé que es lo que espero de respuesta, es lo que me explico. Y otra muy diferente es solamente, de darle a esta idea generativa, que me dé una respuesta orientada de repente a un contexto. Quiero que resumas, en medida de este contrato, cuáles son los puntos que debo realizar. cuáles son los conceptos de cuentas en este contrato para así yo poder obviamente con esto tomar alguna
+01:09:33 Speaker 1: decisión entonces es diferente acá
+01:09:35 Speaker 2: yo obviamente tengo que tener mucho cuidado porque a pesar de que también funciona con temas de red neuronal la
+01:09:43 Speaker 1: diferencia es que me quedan contenidos y lo peor que yo podría
+01:09:45 Speaker 2: hacer es asumir que ese contenido es como copy-paste lo pego,
+01:09:50 Speaker 1: lo envío más
+01:09:52 Speaker 2: bien, este contenido lo tengo que revisar Y no abusar del tema de la edad generativa, porque si yo le estoy haciendo preguntas directas, es lo mismo que podría resolver con un IPI. Porque un IPI fue creado para eso, para el tema de los místicos. Entonces, la edad generativa me debería ayudar cuando me enfrento a un tema de razonamiento. Y quiero que me ayude a resumir grandes, de repente... Páginas, hojas, cosas que yo me
+01:10:24 Speaker 1: enfrente a eso, que yo me voy a usar cada vez en el mundo.
+01:10:27 Speaker 2: Pero si simplemente le estoy preguntando, dame la fecha del contrato,
+01:10:30 Speaker 1: no sé si es la que más que tal que lo pueda. Y está bien sin eso. Porque ahí está la respuesta, muchas veces, a los
+01:10:38 Speaker 2: problemas que hoy en día existen hoy día, de querer
+01:10:40 Speaker 1: usar mucho el tema de guía negativo para todo.
+01:10:44 Speaker 2: Entonces, por ejemplo, hay chatbots internacionales, lo que les decía, resúmenes de documentos. Como, digamos, casos de uso, el punto 12 del resumen de documentos es el que a mí me parece más valioso. Por ejemplo, si ustedes no están muy orientados a la parte legal y quieren leer un contrato, lo que
+01:11:06 Speaker 1: pueden hacer en la guía, ¿no?
+01:11:08 Speaker 2: Lee este contrato y dime cuáles son los puntos que yo debería tomar en consideración.
+01:11:13 Speaker 1: Que este contrato les favorece
+01:11:16 Speaker 2: a mí con la relación de este producto. Les voy a ir arrasando.
+01:11:20 Speaker 1: Entonces.
+01:11:22 Speaker 2: Y acá lo que me gusta explicar es porque creo que es importante dejar más que todo conocimiento, más allá de que eso no lo desorganiza de gusto 100%. Pero miren lo que dice el tema de la
+01:11:31 Speaker 1: IA, la IA generativa sobre todo.
+01:11:34 Speaker 2: Nosotros al final decimos, al igual que un humano, incluso el más inteligente del mundo,
+01:11:40 Speaker 1: este motor
+01:11:42 Speaker 2: de IA o este componente de IA generativa puede
+01:11:46 Speaker 1: equivocarse.
+01:11:48 Speaker 2: Así como nos equivocamos nosotros. ¿Y de qué depende que nos equivoquemos? Pues por esto, ¿no? Porque, a ver...
+01:11:53 Speaker 1: Una
+01:11:55 Speaker 2: de las cosas que tiene que tener en cuenta es que en un proceso de razonamiento, en la gente guía, no se puede replicar de manera idéntica en cada interacción. O sea, en otras palabras, por más que queremos decirle que tenga memoria, es complicado decirle que mantenga ese tema de memoria. Puede equivocarse si las indicaciones no son las suficientemente claras, o sea, las instrucciones, ¿no? Por eso es la importancia del tema del problema. Y obviamente que puede, como dice acá, confundirse por el volumen de información y responsabilidades. Por eso inclusive ahora se habla de tener los agentes,
+01:12:25 Speaker 1: a ver,
+01:12:26 Speaker 2: con otras palabras, con especializaciones. Y eso da un punto que me gustaría que igual lo lean. Yo lo publiqué acá. Acá. Artículo empresarial agéndica. Leen un artículo de dos minutos, pero justamente habla del tema de cómo hoy día los agentes en el enfoque de lo que es especialización es mucho mejor que pensar solamente en un enfoque de me ayudas a resumir un documento, me ayudas a escribir esto más rápido, me ayudas... no. Cómo realmente deben estar orientados los agentes, más por especialización. Bien,
+01:13:08 Speaker 1: nos volvemos al caso de... Entonces,
+01:13:16 Speaker 2: yo lo que busco es que funcione correctamente y también cómo supervisar. Entonces, eso es un riesgo del uso. Y entonces una de las cosas que es, si acá hubiera una persona, esta persona, ¿qué es lo que hoy día esperamos de esta persona? Por ejemplo, que utilice sistemas. Que obviamente tenga una experiencia, un conocimiento. Eso es importante. Pero que también esté claro.
+01:13:42 Speaker 1: sus funciones,
+01:13:44 Speaker 2: qué funciones realiza el trabajo. Entonces, un profesional inclusive de alto rendimiento tiene estas características y aún así esta persona puede equivocarse. Entonces, ¿por qué esperamos lo contrario de una gente? ¿Por qué pensamos que la gente no va a fallar?
+01:14:00 Speaker 1: Sí va a fallar.
+01:14:01 Speaker 2: Y va a depender de los mismos componentes. Porque, a ver, para que la gente funcione, estos sistemas que utiliza el humano o la persona, tienen que estar amplificados. Ahí va un primer problema, ¿no? Necesito amplificar, y ya les contaba la clase pasada, para poder amplificar, esto es muy inteligente. ¿Qué cosa mandó a construir como APIs? Si viene a APIs, pues este también se confunde.
+01:14:25 Speaker 1: Ahí va uno.
+01:14:26 Speaker 2: El know-how generalmente está descrito en esta famosa base de datos vectorial que llaman RAF, donde la data es importante. Si tengo mala calidad de datos, pues también eso hace que este se equivoque. Y el otro, su descripción del trabajo, es como el prompt.
+01:14:42 Speaker 1: Y ahí va otra cosa, ¿no? Una de las características del prompt es
+01:14:46 Speaker 2: que obviamente es abierto. Por más que hemos querido nosotros tratar de leerlo. de ponerle ciertas restricciones, en realidad nosotros podemos expresar de muchas maneras de decirlo en nuestro lenguaje las cosas. Entonces eso te genera un doble riesgo. Porque el PROM puede ser malicioso y puede de una manera obtener información que no le corresponde.
+01:15:09 Speaker 1: O viciarás.
+01:15:11 Speaker 2: Entonces estos vienen a ser los principales causantes de que este agente de guía
+01:15:18 Speaker 1: falle.
+01:15:20 Speaker 2: Las APIs, mal construidas, la data, la calidad de los datos,
+01:15:24 Speaker 1: y la forma como... Bien,
+01:15:31 Speaker 2: entonces, para cerrar esto, ya hemos hablado de muchos conceptos, pero si quisiera hablar en general del ecosistema de alta analítica, entonces resumiría que tengo varias fuentes de información, entre ellos sistemas transaccionales, imágenes, audios, videos... que necesito el Big Data para procesar esa gran cantidad de información, porque necesito procesarla, primero ingestarla, procesarla, modelarla,
+01:15:56 Speaker 1: llevarla a un mundo analítico para
+01:15:59 Speaker 2: poder, obviamente, determinar estos insights, estos patrones que a mí me interesa, que seguro será de input para la ley generativa, para que, obviamente, esto pueda dar una mejor decisión para el negocio. Al final, cada una de esas escalas que hemos visto, la ley generativa, lo que estamos buscando es... ¿Cómo genera un mayor valor al negocio? La diferencia entre la generativa y las otras inteligencias, es que la generativa se acerca más al comportamiento que nosotros esperamos frente a un cliente. ¿Qué interactúe? ¿Qué perfiles? ¿Qué gramización? Creo que hasta ahorita no hay un agente todavía lo suficientemente inteligente, como para decir, lo podemos dejar operar solo. Hasta ahora la mayoría de los agentes han sido supervisados. Tampoco se ha hecho un esfuerzo por llevar a una organización a ser totalmente agéntica a lo que están haciendo algunos casos de uso para probar su potencial, pero no todavía llevarlo a una escala mundial. En proceso, yo me imagino que va a llegar
+01:16:56 Speaker 1: en los próximos años. Bien,
+01:16:59 Speaker 2: nos quedamos ahí,
+01:17:01 Speaker 1: 5 y 30,
+01:17:02 Speaker 2: tenemos 15 minutos y regresamos. Si estamos hablando de la semana 7, la exposición va a ser el 2 de octubre.
+01:17:13 Speaker 1: Chachos, por favor, ya empezamos.
+01:17:17 Speaker 2: 2 de octubre. Eso quiere decir que la tarea académica tiene que ser subida un día anterior, primero. ¿Ok?
+01:17:25 Speaker 1: Y
+01:17:26 Speaker 2: el orden de exposición ya
+01:17:27 Speaker 1: también está aquí. Cada grupo, inclusive mandado por correo, ya sabe su número de grupo.
+01:17:33 Speaker 2: Y es en función de estos horarios. Entonces, asegúrense de estar en estos horarios. Pueden estar toda la exposición a tres horas mejor, porque como todo el caso, gira en realidad una empresa, en realidad le va a interesar conocer de todo un poco. Este es el mejor ejemplo de esto.
+01:17:49 Speaker 1: Y asimismo, la presentación final,
+01:17:52 Speaker 2: igual según el calendario, debería
+01:17:55 Speaker 1: ser la semana 14.
+01:17:56 Speaker 2: Entonces igual, debe ser el 20 de noviembre, y el día anterior, que es el
+01:18:01 Speaker 1: 19, ya está subida a la tarea cárcel. Deben subir el informe de
+01:18:06 Speaker 2: esta plantilla que aparece ahí. Aquí aparece una plantilla. Esto es lo que ustedes suben más una presentación.
+01:18:17 Speaker 1: Suben dos cosas.
+01:18:18 Speaker 2: La presentación es lo que ustedes presentan obviamente ese día. No es el informe que leen, sino una presentación. Una presentación ejecutiva que resuma todos los que en este caso se ve en esta plantilla. Por ejemplo, para aquí, lo más importante y relevante es presentar el tubito. Y en la presentación parcial, ¿qué es lo que se enfocan? En el ASIS. Entonces, para que tengan claro qué es lo que deben presentar el programa. Y
+01:18:42 Speaker 1: hacen una presentación ejecutiva, donde cada
+01:18:44 Speaker 2: uno debería exponer una cantidad de tiempo, dos minutos, dos y media, aproximadamente. Y luego hay unas preguntas finales, y con eso sale una nota, que hemos hablado ya que es porque es importante la parte
+01:18:55 Speaker 1: práctica. Bien,
+01:18:58 Speaker 2: le preguntaron también lo que iba a publicar, debe estar en esta zona de los puntos generales, o sea, no está, es donde acaba de estar el espacio integrador. Ahora nos toca ver este concepto de ciberseguridad y gestión de riesgos digitales. Como les dije en la sesión anterior, todo el tema de conceptos en el resto está todo para todos ponernos en el mismo alumno, para conocer acerca de lo que generalmente se va a discutir dentro de una sesión en cuanto
+01:19:45 Speaker 1: a qué sistema tiene, por eso sabemos.
+01:19:50 Speaker 2: Se usa analítica para realmente, vamos a decir, automatizar más sus procesos, para mejorarlos, para darle mejor experiencia a ese cliente final. Y también vamos a ver el tema de seguridad, o ciberseguridad, porque hoy día este concepto ha tomado mayor vuelo, porque efectivamente, si hablamos de hace muchos años, si un sistema está en una laptop, y esa laptop ustedes solo lo usan, pues ese sistema no tiene riesgo. Hoy el sistema no está en una laptop, ni en un servidor on-premise, sino ¿dónde está? Está en la web. Y no lo descargamos, así como me encargo yo, se le puede sacar un hacker. Y ahí está la problemática.
+01:20:28 Speaker 1: ¿Qué hace el hacker? ¿Qué cosa quiere hacer un hacker finalmente? Quiere
+01:20:31 Speaker 2: vulnerar. Porque a partir que lo vulnere puede sacar alguna ventaja. Tomar información.
+01:20:37 Speaker 1: A veces no solo entra porque quiere sustraer
+01:20:41 Speaker 2: algo de tu entidad. No, entra porque... sabe que eso le ha permitido entrar a un sistema que está alojado y desde ahí podría entrar a otro lado y podría robar más información. Entonces, por eso la ciberseguridad se ha vuelto importante. Entonces, no solamente hay que pensar en ciberseguridad, porque, como dice acá, es un tema técnico y yo me enfoco en proteger las redes, el sistema, es lo que antes hacía. Sino ahora también hay que ver toda la parte digital. Así como nos protegemos hacia adentro,
+01:21:13 Speaker 1: hay que protegernos a ese cuerpo.
+01:21:16 Speaker 2: Entonces, el otro es, por ejemplo, alguien me decía...
+01:21:18 Speaker 1: Había un concepto
+01:21:20 Speaker 2: que se llamaba Firework hace muchos años. No tenía el Firework
+01:21:24 Speaker 1: de un sistema, solo que tenía.
+01:21:26 Speaker 2: Pero es un Firework que obviamente controlaba todo el tránsito de IP que podía entrar a otra organización. La historia es muy básica. Lo que antes resultaba en mayor escala de seguridad, hoy es básico. El pago no impide que alguien entiende a su sistema. Entonces empieza a ver lo otro que sí se ha vuelto súper importante y todas las decisiones que hoy día lo están abordando es lo
+01:21:50 Speaker 1: que se llama
+01:21:50 Speaker 2: segregación de errores. Sí, ese tema odioso que a veces no dicen. Que sepas que una persona no tiene que tener acceso a todo, sino que tiene que tener acceso a lo que realmente hace.
+01:22:05 Speaker 1: Pero es lo que las soluciones consideran que es el
+01:22:07 Speaker 2: candado más seguro, porque sí. En mi caso, que tengo un perfil, que de repente es solo un perfil de auditoría, vulnera mi cuenta, y solo soy auditor y puedo entrar a determinadas cosas, eso limita el campo de acción de la persona que ha auditado. En cambio, si no manejo ese concepto, yo entro al sistema y accedo a todo. Entonces, por eso es la importancia del tema de segregación de funciones y roles. Más allá de todos los candados que se puedan tener. Así es como les dije, el tema del fallo.
+01:22:38 Speaker 1: Entonces,
+01:22:39 Speaker 2: se habla ahora de una defensa por capas, donde obviamente yo primero voy a querer asegurar mi infraestructura. O sea, todo lo que es microcomputing, tengo que tener alguna razón. unos servicios para poder defenderlo. A nivel de usuarios, está el tema de segregación de funciones, a nivel de aplicaciones, está el tema de utilización y de autorización, la edad que inclusive tiene que ver fácil, el ataque sensible. Entonces, la idea es obviamente esto, ¿no? Si una capa falla, está la siguiente para poder, vamos a decir, complejizar el acceso de esta persona que quiere obviamente obtener
+01:23:09 Speaker 1: algún beneficio.
+01:23:15 Speaker 2: Entonces, protección, por ejemplo, ¿no? Puedo
+01:23:18 Speaker 1: proteger
+01:23:18 Speaker 2: medidas y velocidad para obviamente proteger la información o la data de nuestros clientes. Hay niveles, ¿no? Cuando uno habla muchas veces de cómo protegemos los datos, lo primero que se nos viene es cifrar los datos. Es una manera. Pero, por ejemplo, en otros casos, lo que hacen es no cifrar la data. Cifrar es un buen algoritmo. Allá lo llamamos juzgamiento, ¿no? Combino valores. O también lo que a veces se presenta, ¿no? Cuando usted ve, por ejemplo, la importación de las tarjetas hoy en día, que son números de 16 dígitos, en la mayoría de los casos, acá va así, ¿no?
+01:24:09 Speaker: Entonces acá, por ejemplo, porque
+01:24:22 Speaker 2: si un momento yo vulnero y simplemente obtengo esa información no puedo hacer nada de eso porque para poder transaccionar necesito el número de tarjeta completo entonces por eso hay niveles de seguridad ejemplo hoy día hay una situación muy importante acerca del que es el máximo nivel de seguridad para avaliar a un cliente cuando quiera hacer una transacción que es la biometría porque solamente si yo pongo mi
+01:24:48 Speaker 1: rostro y eso se compara con la remie
+01:24:50 Speaker 2: perfectamente en mi movimiento definitivamente es el momento más seguro para asegurarme
+01:24:55 Speaker 1: que él es la persona que dice ser pero
+01:24:58 Speaker 2: ese servicio es más caro te puede estar costando un promedio,
+01:25:03 Speaker 1: unos 2 dólares, 6 dólares por
+01:25:06 Speaker 2: transacción. Para una empresa que utiliza mucho eso, le puede significar una factura de 50
+01:25:11 Speaker 1: .000, 80.000 dólares.
+01:25:13 Speaker 2: Clarísimo. La pregunta que siempre tenemos que hacernos es, ¿ese nivel de seguridad debe ser utilizado para todos mis casos de uso o solo para algunos? Solo para algunos. Y tengo otras formas.
+01:25:27 Speaker 1: Hay una norma, que le dicen en la norma 5004, que
+01:25:30 Speaker 2: todo lo que es digital, o sea, todo lo que ustedes pueden acceder a través de aplicaciones, ¿está lo llaman digital?
+01:25:35 Speaker 1: Dicen que tiene que tener dos mecanismos de autenticación.
+01:25:39 Speaker 2: El primero es la clave, la contraseña y el segundo, algunos quieren biometría, pero hay otros que dicen, ¿para qué la biometría si hay
+01:25:46 Speaker 1: otra forma? Un token, por ejemplo.
+01:25:49 Speaker 2: Y un token a tu correo o
+01:25:51 Speaker 1: celular, eso es una manera.
+01:25:53 Speaker 2: Otra podría ser, contrata algún servicio de una empresa de riesgo que se llama Equifax, y esta empresa lo que maneja son preguntas financieras. De alguna forma, solo tú deberías saber de esa otra manera. ¿Por qué les digo esto? Porque cada una de esas implementaciones definitivamente va a ser mucho más barato que
+01:26:12 Speaker 1: un financiero inventario.
+01:26:15 Speaker 2: Entonces, toda la gente que alguna vez se interesa en ciberseguridad, creo que se reconsejó algo. Nunca vayan por el top top de implementar la mejor
+01:26:23 Speaker 1: estrategia,
+01:26:24 Speaker 2: porque eso lo que hace es encarecer a una organización a nivel de costos de ley. Tienen que pensar que el riesgo que ustedes van a asumir está en función al control que ustedes quieren controlar. Tienen que ver ese balance. El tema de compliance es igual, ¿no? Si tenemos cumplimiento de normas y regulaciones, inclusive por parte de la SBS, eso es también una forma de asesorizarse. Ahora, hablando del tema de riesgos digitales.
+01:26:55 Speaker 1: Si hoy día yo tengo funcionalidades que ya expuse a través de mis principales aplicaciones,
+01:27:02 Speaker 2: los clientes, cada una de esas aplicaciones se puede convertir en un riesgo digital. Entonces yo tengo que empezar a hacer un tratamiento sobre eso. Y acá se maneja esto que le llaman, ¿no? La famosa variable probabilidad de impacto.
+01:27:16 Speaker 1: Yo hace poco, creo que...
+01:27:18 Speaker 2: Tenía algo acerca de la
+01:27:20 Speaker 1: parte que yo considero que es cómo
+01:27:22 Speaker 2: se organiza todo este tema hoy día que existen muchos sistemas en las empresas. Para empezar, los sistemas que yo, digamos, tienen cara a un cliente
+01:27:32 Speaker 1: final, yo digo que son monotarcos.
+01:27:34 Speaker 2: Así les he llamado monotarcos. O sea, no es
+01:27:36 Speaker 1: multitarcos. ¿Qué significa?
+01:27:38 Speaker 2: Un sistema hacia afuera no puede tener múltiples roles que ingresan en ese sistema.
+01:27:43 Speaker 1: Ese es algo un valor.
+01:27:45 Speaker 2: Pero sé que han construido aplicaciones que han construido. el cliente, el socio, el partner, todo, quieren entrar al sistema. Pero cuando ustedes hacen eso, ¿qué está finalmente haciendo un sistema complejo? Y creyendo que manejándolo por accesos de autorización o autenticación, todo está resuelto. Y no todo está resuelto. Entonces lo que se tiene que hacer es, cada rol,
+01:28:07 Speaker 1: un cliente final, una empresa, un socio estratégico,
+01:28:10 Speaker 2: tienen que tener su propio portal institucional. Separado. Un sistema parvo. Para que de esta manera ustedes manejen por ahí
+01:28:18 Speaker 1: autenticación, autorización. y
+01:28:21 Speaker 2: no los complique lo que quieren hacer. Porque de eso depende esto, ¿no? Cuando yo me enfrento a un tema de autoría, lo primero que me van a preguntar es, si yo vulnero ese sistema, ¿cuál es la probabilidad? Y la probabilidad se va a asociar al impacto que puede generar eso. Por ejemplo, riesgo reputacional. Más allá de que de repente no hice alguna acción, o publicarlo en redes, he vulnerado tal sistema.
+01:28:47 Speaker 1: Y eso es riesgo reputacional.
+01:28:49 Speaker 2: ¿Cómo ha sucedido muchas empresas? Que han expuesto su información de sus clientes para un poco decir que estas empresas no son seguras. Y eso luego ocasiona que las clientes se vayan de sus empresas, retiren sus productos
+01:29:02 Speaker 1: de ellos.
+01:29:05 Speaker 2: Entonces ahí interviene otro factor, ¿no? ¿Qué controles se tiene implementado? ¿Cuál es el nivel de exposición? Por ejemplo, lo que hablábamos, otro concepto de la exposición. Todas esas aplicaciones que ustedes tienen instalado en los celulares, para mí son aplicaciones que yo le llamo
+01:29:20 Speaker 1: simplemente de front, es decir, son
+01:29:23 Speaker 2: carcasas, no tienen nada, no deberían tener nada.
+01:29:27 Speaker 1: Si alguien la vulnera, que se la tienen, si tienen interés,
+01:29:30 Speaker 2: porque ahí no tengo nada. Mira lo que estoy diciendo. Pero siempre y cuando lo he diseñado así. En cambio, si a mí se me ocurrió, el cliente me está dejando su dato de contacto. Ah, yo lo almaceno en esa base de datos. El cliente me está dejando una preferencia. Lo almaceno en mi base de datos. En la base de datos de esa aplicación que usted tiene instalada. Entonces, cuando alguien la vulnera, todo es información salida. Entonces, hay que tener claro, los sistemas, estos sistemas. o de sistemas que están orientados a los clientes finales,
+01:30:03 Speaker 1: generalmente son sistemas simplemente
+01:30:06 Speaker 2: que cargazan, simplemente tienen la interfaz, su base de datos al cancelar temas de auditoría, log,
+01:30:11 Speaker 1: pero no data transaccional. Data transaccional
+01:30:14 Speaker 2: donde debe abordarse, y sistemas por, a través de APIs. Ese es lo más lógico. Pero se convierte en errores, todavía hasta ahora, de seguir guardando en estos sistemas. Cuando tiene una base de datos, le guardo la información.
+01:30:31 Speaker 1: Porque me quiere evitar hacer el API.
+01:30:34 Speaker 2: Ahí empiezan los antipetroles.
+01:30:36 Speaker 1: Entonces, por eso hoy día, muchos hackers vulneran sistemas de PROM que tienen datos.
+01:30:42 Speaker 2: Sin necesidad de entrar.
+01:30:44 Speaker 1: ¿Para qué?
+01:30:45 Speaker 2: Si lo dejaron acá, me lo dejaron en mis servidores. Por una mal disepia. Entonces, por eso hablan de los controles de la exposición. Claro, si yo hago un sistema que vulnera y no tiene información relevante, la exposición es baja. Si tengo información relevante, la exposición es alta.
+01:31:02 Speaker 1: Igual, si yo, por ejemplo, hoy día,
+01:31:04 Speaker 2: de una aplicación AIB, voy a enviar la información a través de un API, lo primero que dicen, ese API, ¿qué credenciales usa? Ah, las credenciales que usa también la otra aplicación. Las credenciales, así como se hacen los
+01:31:19 Speaker 1: usuarios,
+01:31:23 Speaker 2: No pueden ser compartidas. Porque si yo tengo un único credencial para acceder a todo, entonces con eso también accedo a la base de
+01:31:31 Speaker 1: sueldos de las personas. No puede ser que pensemos que por
+01:31:37 Speaker 2: simplemente racionalizar ahí es lo mejor. En seguridad, cada credencial tiene que ser exclusiva. Se maneja lo que llaman las cuentas de servicios.
+01:31:48 Speaker 1: Para
+01:31:48 Speaker 2: así, obviamente, evitar... Y si alguien, obviamente, accede a una contraseña, a una credencial, con esa puede entrar lo demás. No debería.
+01:31:57 Speaker 1: Y luego,
+01:31:59 Speaker 2: esto es algo continuo porque cada vez que tú vas mejorando la seguridad, siguen saliendo nuevas cosas. Esto es como algo que le llamaban el Kaizen, no, la
+01:32:08 Speaker 1: mejora continua. El riesgo es así.
+01:32:10 Speaker 2: Hoy día existen mucho más, vamos a decir, herramientas que se tienen para poder vulnerar por esa exposición que haya se puede. Entonces lo que tenemos que es tratar de controlarla con un riesgo que no sea muy caro implementarlo, pero que nos permite estar seguro. Y ahí está la clave. Ahí está la clave para mantener esto. En cuanto a lo que es lo último que vamos a ver, antes de entrar a los casos que vamos a hacer el día de hoy. Vamos a hablar de microservicios. Sobre todo me gusta hablar de eventos y
+01:32:43 Speaker 1: el tema de P-Manage. A ver, primero.
+01:32:50 Speaker 2: Yo he puesto aquí monolítico y he puesto acá microservicios y no estoy hablando que el monolítico es algo que para mí se ha descartado. Es más, yo creo que hoy existen sistemas que pueden resolverse con un monolítico. Hablando con monolítico, el concepto más claro es un sistema totalmente acoplado. Entonces, si yo tengo un sistema totalmente acoplado, ¿qué sucede? Pues todo lo que es, sus funcionalidades, su lógica... su información, pues todo está, digamos, conectado. ¿Qué cuesta más en un monolítico?
+01:33:23 Speaker 1: Los cambios. Los cambios pequeños. ¿Quiero
+01:33:26 Speaker 2: cambiar algo? ¿Modifico eso? ¿Qué es donde me duele? Profe, ¿por qué no puedo usar esa parte? Por eso se dice que está acoplado. Porque tú has modificado una porción de código de algo que no está separado, sino que es parte de un todo. Entonces, si yo modifico acá, tengo que probar todo lo que está conectado. Y eso es lo que duele en un monolítico. Imagínense un sistema CRM monolítico. Le pasaría meses, pero bueno. Un sistema CRM monolítico le pasaría meses, pero bueno. Pero quizás es un sistema, como lo traes de guía, ¿no? Un sistema de estos de currider, que lo que se hacen es que se entregan físicamente a algunos documentos, porque ya las empresas formáticas y hospitales mantienen una mínima documentación que se entrega en físico. Entonces el sistema correcto es un monolítico. Porque no hay muchas personas, porque el formal
+01:34:26 Speaker 1: courier es
+01:34:27 Speaker 2: como que la última mía. No regresa a nadie, es simplemente la última mía. Entonces, piensen en eso. Entonces, yo no he dicho para nada, me dijo, usted dijo que esto no servía. Yo nunca digo que esto no sirve. Yo digo que simplemente tiene unos conos,
+01:34:41 Speaker 1: unos constraints. ¿Ok? Y
+01:34:43 Speaker 2: por acá está lo que se habla que es, obviamente, la visión de qué es lo que queremos lograr muchas veces en las sesiones. Modularizar.
+01:34:51 Speaker 1: ¿Sí?
+01:34:53 Speaker 2: Modularizar
+01:34:54 Speaker 1: y distribuir.
+01:34:56 Speaker 2: Para poder hacer esto, pues yo me baso en este concepto donde ya
+01:35:01 Speaker 1: no tengo un único, digamos,
+01:35:04 Speaker 2: lógica en un solo componente. Si no lo tengo, vamos a ir distribuido. Varios.
+01:35:13 Speaker 1: Varios.
+01:35:14 Speaker 2: Y usan obviamente, podrían usar diferentes fotógrafos. ¿Por qué estoy haciendo esto? Porque a lo que me estoy enfrentando es, mi sistema tiene que responder a situaciones de días pico, días donde hay demasiada transaccionalidad, y tengo que estar preparado para eso. Aquí, ¿puedo estar preparado para eso? No. Un monolítico, si yo quisiera escalarlo, es todo esto, hacerlo crecer, crecer, crecer, costosísimo. ¿Acá lo podría hacer? Sí, porque al ser esto más atómico, yo lo podría implementar en la nube, y a partir de que esté implementado en la nube, darle recursos, inclusive con un tema que vimos
+01:35:55 Speaker 1: de mucho en Service, inclusive poder hacer
+01:35:58 Speaker 2: más costo eficiente. Solo lo utilizo cuando lo invoco, y ahí empieza a facturarse. Entonces, esto suena muy bien, pero tiene un problema. ¿Cómo sé cuántos
+01:36:10 Speaker 1: microservicios necesito para la utilización?
+01:36:15 Speaker 2: Y ahí va pues el concepto este de que decían alguna vez algo. ¿Qué
+01:36:20 Speaker 1: es más fácil? ¿Administrar
+01:36:22 Speaker 2: dos tonos o cincuenta galletas?
+01:36:26 Speaker 1: Por volumen,
+01:36:28 Speaker 2: si yo tengo muchas cosas que necesitas,
+01:36:30 Speaker 1: voy a desbordar. Prefiero
+01:36:32 Speaker 2: administrar cosas que son
+01:36:34 Speaker 1: más compactas.
+01:36:38 Speaker 2: lo que sucede en el mundo empresarial. No nos queremos llenar de muchas cosas independientes, porque eso nos dificulta la gestión. Lo que queremos obviamente es lograr pocas cosas controladas. Entonces los microservicios tienen ese
+01:36:52 Speaker 1: problema. Cuando alguien aprende el concepto, quiere utilizar
+01:36:55 Speaker 2: microservicios para todo, así como ir a generativo. Entonces se empezó a crear muchos servicios, finalmente microservicios y enviados. Dos mil microservicios, dos mil
+01:37:05 Speaker 1: endpoints, manejables. inmanejable. Y ahí va otro tema, ¿no?
+01:37:12 Speaker 2: ¿Cuál es el concepto? Yo lo pregunté una vez en un examen. ¿Cuál es el concepto para yo generar un microservicio? O sea, ¿en qué podría basarme para decir que
+01:37:21 Speaker 1: este microservicio es válido para la industria? ¿Qué se les ocurre?
+01:37:33 Speaker 2: ¿Demanda de quién? Le damos un ejemplo de un trecho, por ejemplo. Dime, ¿la demanda de este producto o de qué? ¿De qué estás haciendo cuando hablas de más?
+01:37:47 Speaker 1: Dime una transacción.
+01:37:50 Speaker 2: Entonces tú dices, ¿está además de esta transacción? Entonces yo digo, debo hacer un microservicio. ¿Sí?
+01:37:56 Speaker 1: ¿Ok?
+01:37:59 Speaker 2: ¿Alguien que más quiera reforzar o están de acuerdo con lo que ha hecho un tema?
+01:38:04 Speaker 1: Como si lo he visto, lo digo.
+01:38:07 Speaker 2: ¿Cuál sería otra base para yo poder decir cómo definir un microservicio?
+01:38:11 Speaker 1: Definirlo, no estoy hablando de implementarlo, sino de definirlo.
+01:38:14 Speaker 2: Porque si no, podría suceder que creen 3.000 microservicios, 5.000 microservicios.
+01:38:19 Speaker 1: No tengo el límite. ¿Nadie más? A ver,
+01:38:30 Speaker 2: vayan desde sus ciclos anteriores. Finalmente, los sistemas, ¿a qué cosa van a
+01:38:35 Speaker 1: estar siempre relacionados? A los procesos.
+01:38:39 Speaker 2: Por lo tanto, el proceso y sus actividades es lo que debe guiar a mí una forma de cómo yo relaciono lo que yo voy a plantear. Entonces, ese microservicio tiene que estar orientado a alguna actividad de
+01:38:55 Speaker 1: un proceso.
+01:38:56 Speaker 2: Y si es obviamente altamente utilizada, con más razón. Por ejemplo, lo que decía Rodrigo. Lo explicó diciendo,
+01:39:04 Speaker 1: tengo algo que
+01:39:05 Speaker 2: escala, que tiene mucha demanda. Claro, es una actividad. Por ejemplo, yo puedo decir, la transferencia entre bancos. En un día de quincena, cuando toda la gente recibe el dinero. Mucha demanda. Por la compra de una entrada, por un evento que tiene mucha promoción. Ese también es una actividad. Todo eso es lo que nosotros tenemos que analizar para decir, es un candidato para hacer un microservicio. Porque todo lo demás no requiere hacer un microservicio. Si no, se van a llenar de muchos microservicios
+01:39:37 Speaker 1: que finalmente no van a utilizar.
+01:39:39 Speaker 2: O en todo caso, que los hacen simplemente por usar la tecnología o usar el concepto, pero que luego es difícil de
+01:39:46 Speaker 1: mantenerlo.
+01:39:49 Speaker 2: Bien, entonces, ese es el... El reto, el challenge que hay que hacer cuando uno crea microservicio. Saber qué cosa vuelve
+01:39:56 Speaker 1: a un microservicio. Porque si no podíamos convertirnos en una empresa que luego no lo puede jugar. Entonces,
+01:40:03 Speaker 2: el concepto de microservicio, y esto me gusta, por eso lo coloque así, es, muchos pensamos microservicio, por ahí escuché servicio, debe ser un tema de integración. No es un tema de integración. El microservicio es una extensión de la aplicación. Entonces es la aplicación que, como dice, convierte esto en un fragmento mucho más reducido y pequeño, pero que es independiente, que es autónomo. En otras palabras, mi aplicación está acá, acá tengo mi microservicio, sin la aplicación no puede escalar un problema, porque yo sí podría escalar. En otras palabras, sin mi microservicio no depende de los recursos de mi aplicación. Por eso es independiente, por eso es autónomo. Y por eso obviamente que... Lo que está orientado es hacer una sola
+01:40:50 Speaker 1: función.
+01:40:53 Speaker 2: Tengo que, para poder realizar la operación que les digo, transferencia. Hago una transferencia y luego lo que quiero
+01:41:01 Speaker 1: hacer es, por ejemplo, si me ocurre,
+01:41:04 Speaker 2: esta transferencia yo debo notificar al cliente que ya la hice. ¿Quieren que le ocurre? No hagan esa locura en el micosevicio, la notificación. Son en otro lado. El micosevicio solo debe ser el hecho de llevar de una cuenta a otra. Por eso
+01:41:20 Speaker 1: se dice que es...
+01:41:22 Speaker 2: independiente. Por eso se dice
+01:41:23 Speaker 1: que es específica.
+01:41:26 Speaker 2: Si yo empiezo acá, que debe entrar mucha lógica, entonces otra vez, lo hago bastante complejo y por lo tanto luego no puede ser reutilizable. Y bueno, debe ser comunicado mediante APIs y obviamente el sistema de escalamiento es lo que se espera cuando hace muchos servicios. Entonces,
+01:41:43 Speaker 1: por ejemplo, acá tienen
+01:41:44 Speaker 2: un interfaz de usuario. En este caso es un microservicio que está diciendo que puede orquestar otro microservicio. Eso es algo que se puede hacer. Muchas veces, no todos los que ustedes están pensando que para ustedes es un clic, se resuelve al otro lado con una única operación. Pueden haber 10, 15 pasos que se tengan que hacer para poder lograr eso. Por ejemplo, otra vez me decían el ejemplo de, así facilito, tú vas a un cajero automático, pero yo sé que mucha gente ya no saca dinero físico. ¿Pero qué sucede cuando pones tu tarjeta y quieres sacar dinero? Lo primero que hacen es
+01:42:21 Speaker 1: que le van a pedir tu clave, tu compro dinero.
+01:42:25 Speaker 2: Eso de ahí va a ingresar, se valida, y luego tú ingresas el monto que quieres sacar.
+01:42:33 Speaker 1: Y al momento que haces ingresar hay otra validación, que
+01:42:36 Speaker 2: es la validación de saber si tienes el saldo que obviamente
+01:42:38 Speaker 1: estás diciendo que has ingresado.
+01:42:40 Speaker 2: Todos esos pasos no son solos, son varios. Y entonces de repente necesito algo que los pueda orquestar. Paso uno, paso dos, hasta que finalmente obviamente me da el dinero físico.
+01:42:50 Speaker 1: Que es lo que yo voy a hacer.
+01:42:51 Speaker 2: Podría suceder esto, ¿no? Un microservicio de orqueste o simplemente un microservicio que actúe de manera directa. Sobre, en este caso, estos DBs, entiéndalo como aplicaciones. No lo he representado así, pero en realidad son aplicaciones. Entonces, esta es la forma. Tienen que darles la forma como yo debería...
+01:43:08 Speaker 1: visualizar el tema de micro
+01:43:11 Speaker 2: servicios. Como que está dividido en piezas más pequeñas, pero que son independientes, que pueden ser desplegados con
+01:43:20 Speaker 1: autonomía. Vamos a cerrarlo. Vamos a hacer hasta microservicios, hasta
+01:43:34 Speaker 2: eventos, perdón, y ahí vemos el
+01:43:37 Speaker 1: caso de la gente.
+01:43:41 Speaker 2: Finalmente, algo que me interesa que también se lleven es el tema de eventos. Hoy día la comunicación, como se ha manejado, digamos, durante los últimos años, ha sido siempre hablándose de síncrono a síncrono. Comunicación síncrona a síncrono. Hablándose de lo síncrono, aquí es lo que quiero que suceda en este momento.
+01:44:00 Speaker 1: Ahorita.
+01:44:02 Speaker 2: Tanto así que si usted ve en una bibliografía, cuando algo está sincrono, dice, yo envío la respuesta en la petición, y mientras no obtenga respuesta, acá se queda como en blanco.
+01:44:16 Speaker 1: Cuando él resuelve,
+01:44:17 Speaker 2: devuelve la respuesta y continúa. Bueno, eso de ahí era como que la forma como simple se implementaba las preguntas. Y la forma de cómo se orquestaba. Todo era sincrono. Nadie pensaba en otra forma. Entonces apareció el tema asíncrono. Y el tema asíncrono decía, yo envío la petición, te puede demorar 5 minutos, 20, te me interesa, tú continúas. Cuando yo termine, te voy a avisar. Y eso obviamente empezó a abrir un patrón interesante. Y así fue como se mejoró la experiencia del cliente en sus actuaciones. Porque habían tenido que esperar siempre la famosa pantalla blanca. Si no ahora, lo que hacía era, le daba de una vez un mensaje y luego había unas cosas que se generaban en paz. Por ejemplo, si alguno de ustedes ha tenido la oportunidad de abrir una cuenta digital, como tres pasos creo, ustedes abren la cuenta digital y automáticamente les aparece un número de cuenta y el CCI. Que son los datos que realmente un cliente necesita. Porque a veces está esperando que le caiga una plata y dice,
+01:45:24 Speaker 1: ya, y se dice, seguí enviando, porque no está en el sistema bancario.
+01:45:27 Speaker 2: ¿Qué viene después?
+01:45:29 Speaker 1: Muchas cosas. Para empezar,
+01:45:31 Speaker 2: el banco está obligado a enviarte el contrato. Eso ahí te lo voy a enviar de forma asíncrónica. ¿Ok? No necesita que en ese momento salga eso. Así como es acción, hay otras acciones que se hacen para poder concluir con ese proceso de una apertura de una cuenta digital. Entonces,
+01:45:53 Speaker 1: ahora,
+01:45:53 Speaker 2: el tema asíncrono se volvió bastante utilizado y de ahí para mí escaló en algo que me parece muy potente hoy en día, que es el tema de ventas. Yo les decía, una cosa es que yo tenga como orquestación y diga, este servicio es síncrono o síncrona, y otra cosa es decirme, manejo en base a eventos. Que para mí es lo que va a afirmar, y aquí,
+01:46:15 Speaker 1: por lo menos en los próximos 10 oficiales, este
+01:46:19 Speaker 2: concepto, eventos. Que lo que busca el evento es sistema síncrono, pero lo busca de otra manera. Para empezar, diferencia en lo que es ecosistemas, en lo que es... las interacciones que hay con los sistemas, existen lo que se llaman eventos. Y hay eventos de negocio y hay eventos técnicos. Un evento técnico, alguien registra, vamos a decir, una transacción en esta tabla. Ese es un evento técnico. Alguien actualiza un dato en esta tabla. Ese es un evento técnico. Pero ¿qué es un evento de negocio? Es lo mismo, pero darle un contexto diferente. Por ejemplo, yo tengo mi cuenta de ahorros y todos los meses, lo voy quitando, me cae mi sueldo. Y el banco sabe cuando me cae. ¿sabe el monto qué? que obviamente todos los meses me depositan en mi sueldo pero ¿qué pasaría si en un momento yo recibo tres meses más lo que está en esa cuenta?
+01:47:09 Speaker 1: el uso y a X entonces
+01:47:12 Speaker 2: vamos con una regla y dice el día que tú tengas un monto mayor al 50% o 100% de
+01:47:19 Speaker 1: lo que te deposita para
+01:47:21 Speaker 2: mí eso representa una manera que
+01:47:23 Speaker 1: yo pueda
+01:47:24 Speaker 2: castigar alguna opción comercial Y a eso leían de evento. Porque ya no está simplemente el tema de la data que se registra, sino
+01:47:35 Speaker 1: el contexto.
+01:47:37 Speaker 2: ¿Y por qué es importante? Porque cuando ocurre un evento, como se menciona acá, acá están los sistemas que generan ese evento, pero se creó el concepto de dejarlo en una cola, que se le conoce como el caso de Even Broker. Más representado con la tecnología de Kafka. Entonces, dejan ese mensaje en esa cola y todos los que se han suscrito a ese evento, que son otras aplicaciones,
+01:48:06 Speaker 1: empiezan a,
+01:48:06 Speaker 2: con ese evento, generar sus propias acciones. Por ejemplo, este es mi sistema, en el caso que les he dicho, este es mi sistema de fondos mutuos. Se enteró que esta persona recibió tres veces más su sueldo y le está ofreciendo, si impusitas su dinero acá, una tasa de rendimiento de repente un punto más del promedio. Este puede ser mi sistema de cambio de divisas. Le está ofreciendo que cambia dólares, de repente una tasa de cambio preferencial. Este puede ser mi sistema relacionado al tema de cuentas de ahorro. Y le estoy ofreciendo que si apertura su cuenta de ahorro, yo
+01:48:42 Speaker 1: podría ofrecerle una mejor tasa preferencial.
+01:48:46 Speaker 2: Cada uno de estos sistemas podría gatear una acción en base a un único evento. Y es así como los sistemas ahora se van a conectar. ¿Por qué hoy día ya no se habla de sistemas? La palabra sistema ya quedó atrás. Ahora me he dicho el concepto ecosistema. O sea, los sistemas y sus
+01:49:08 Speaker 1: relaciones.
+01:49:10 Speaker 2: Y ecosistema solamente va a poder ser utilizado a través de ventas. ¿Vale? Bien. Entonces nos vamos a quedar acá. Y vamos a ir al caso del día de hoy, que
+01:49:27 Speaker 1: está aquí publicado.
+01:49:31 Speaker 2: Es este caso una aseguradora, es una empresa de seguros. Cuando hagan esto les va a salir este paper y van a aparecer a ver. Vamos a ver todo, o sea, tiene que ver todo, pero principalmente
+01:49:56 Speaker 1: lo que he identificado acá es que hay cuatro actores.
+01:49:59 Speaker 2: Un operador de contact center, un procurador, un perito y un analista de signos.
+01:50:05 Speaker 1: Y acá está escrito el flujo ASIS, que
+01:50:08 Speaker 2: generalmente es el que se activa cuando una persona choca
+01:50:11 Speaker 1: su vehículo. En base a eso está referenciado.
+01:50:14 Speaker 2: Se han tenido una experiencia relacionada a eso. Seguro que muchas de las cosas que están deliciosas acá lo van a hacer muy familiar. Si no hay buena que esté anticipado, ¿qué hace cada rol? El perito, el producidador,
+01:50:25 Speaker 1: el ambiente siniestro y el otro. Finalmente hay un dibujo,
+01:50:31 Speaker 2: la verdad bastante genérico, de cómo se podría ojejar la situación actual. desde las aplicaciones, que en este caso hay ausencia de aplicaciones from office, que hablan de correo, hablan de Excel, si hablan que tienen un sistema principal,
+01:50:49 Speaker 1: un sistema que está muy monolítico,
+01:50:51 Speaker 2: y bueno, no hay integraciones. Por eso que las CISI es bien básica. Entonces, ¿cuál es el reto?
+01:51:01 Speaker 1: Aquí,
+01:51:02 Speaker 2: ¿qué dice? Componentes requeridos para el estado objetivo de tu vida. Y te detalla cada uno. Se acaba de hablar de un app de cliente. App de cliente me refiero a una aplicación mobile. Una aplicación para el procurador, que es un error que está ahí. El CRM, que hemos visto para qué
+01:51:19 Speaker 1: sirve. Un BPM, esto les voy a explicar.
+01:51:21 Speaker 2: Un motor de inteligencia artificial. Un sistema de acuerdos seguros. LRP, que también hemos visto. Un repositorio centralizado de datos de clientes, estos son el tema de Big Data, y
+01:51:36 Speaker 1: el tema de infraestructura en la nube.
+01:51:37 Speaker 2: ¿Cuál es el reto? Este es como los lejos. Ya saben los componentes que están ahí, entonces se van a juntar en grupos de 5 personas, 5 o 4 personas, y lo que van a hacer es cómo conecto todos estos componentes que están distribuidos, a partir de los conceptos que nos equipamos. Entonces, lean el caso. Tienen los componentes que hay que utilizar,
+01:52:00 Speaker 1: entonces tienen que boquejar. Boquejen.
+01:52:02 Speaker 2: Empiecen a diseñar cómo conecto este componente a este componente. Porque todos los que están ahí forman parte de una arquitectura. ¿Vale? Empiecen por lo más básico. Si quieren empezar por la parte que más referencia, empiecen por ahí. Y luego van a ver con los demás que se conectan. ¿Sí? Entonces, ¿cuál es la idea? Es un diagrama conectado. ¿Sí? Entonces, tenemos cerca de unos 40 minutos para hacerlo.
+01:52:25 Speaker 1: ¿Vale?
+01:52:26 Speaker 2: Entonces, empezamos.
+01:52:36 Speaker 1: Ya les
+01:52:37 Speaker 2: he dicho ya, el RPE con Core ya está conectado, ahora empiezan a conectar lo demás.
+01:53:00 Speaker 1: Están ahí. La infraestructura no es. No, la infraestructura no
+01:53:03 Speaker 2: es cross. Pero acá en medio hay algo que está escrito. Son componentes que aparecen que hacen que yo pueda conectarme desde aquí hasta abajo. Entonces la idea es que ustedes vean cómo lo conectan.
+01:53:15 Speaker 1: Claro, entonces con los arrestadores, ¿no? Aquí me dicen que el BPM... El BPM como arrestador. Entonces el BPM
+01:53:21 Speaker 2: debe estar ahí. La cosa es cómo juega el
+01:53:23 Speaker 1: CRM. Supongo que el cliente se ponen al registrador y el registrador al CRM. Pero
+01:53:34 Speaker 2: dibujen. O si quieren utilicen una herramienta visual. Si no lo
+01:53:41 Speaker 1: visualizan, no lo van a poder resolver. Se comunica con, por ejemplo, el CRM para las solicitudes y reclamos. Y este CRM se nutre también de la parte del PP. Deleganche. ¿Sería algo así CRM?
+01:54:26 Speaker 2: y acá
+01:54:27 Speaker 1: sería el BPD Este creo que iría en medio de estos dos. Me detenía. Sería a cliente en el frente, a procurador. Procurador. Procurador. Procurador. Procurador.
+01:55:02 Speaker 2: Uno se los explica, pareciera tema 1, tema 2, tema 3, pero cuando todo se relaciona creo que nos falta a veces conectar,
+01:55:11 Speaker 1: conectar los conceptos.
+01:55:21 Speaker 2: Pero ese es el reto. Yo necesito que después de esta unidad, cada uno de ustedes sepa que todas estas formas o estos conceptos tecnológicos que hemos explicado tienen una conexión cuando uno habla de una solución. No trabajan de manera independiente, no, trabajan conectados. Entonces lo primero que les decía, más allá de que yo no voy a clasificar los sistemas, porque todavía no hemos entrado a eso, pero yo les estaba explicando, el caso me habla de que hay un sistema core. Y bueno, que todo esto va a estar soportado en un tema cloud. Que ahorita no es discusión, porque no es que esté muy híbrido. No es que acá hay cloud y acá comprendo. Todo es cloud. ¿Cómo me lo llevo a la nube? Eso lo vamos a discutir más adelante. Pero ahorita solamente estamos hablando del sistema y sus relaciones. Yo les decía que empiecen por acá, porque es lo primero que expliqué. Hay un sistema que habla, que es el sistema RP. Pues acá está el sistema RP. Este sistema RP tiene que estar conectado con el sistema COR. Porque toda operación que se realice en un sistema COR finalmente va a representar una transacción financiera. Y eso se registra acá. Entonces por ahí tienen que empezar.
+01:56:31 Speaker 1: Luego, arriba, se
+01:56:33 Speaker 2: menciona
+01:56:34 Speaker 1: que
+01:56:36 Speaker 2: hay un par de sistemas. En este caso hay una aplicación de cliente y hay una aplicación del procurador y
+01:56:45 Speaker 1: el perito.
+01:56:46 Speaker 2: bueno acá están los roles ahora lo primero que hay que hacer si yo quiero que el cliente dejar trazabilidad de todas sus interacciones entonces este de aquí tiene que interfasear con
+01:56:59 Speaker 1: gateway con el terreno
+01:57:05 Speaker 2: Tiene que estar conectado, porque acá dejo justamente la interacción de este incidente que él me reporta,
+01:57:10 Speaker 1: yo lo tengo que dejar rastro acá. Entonces hay que
+01:57:12 Speaker 2: diferenciar acá. Acá estoy en el CRM y vamos a separar en el módulo de services, que es lo que era post-venta, voy a crear un caso.
+01:57:23 Speaker 1: El cliente me ha llamado y me ha dicho que tiene un accidente vincular.
+01:57:27 Speaker 2: Ahora, el CRM no va a resolverle todos los siguientes pasos. Porque hay varios pasos. Hay el procurador, hay el perito, hay el analista, hay muchas personas. Entonces, por eso es que yo necesito otro componente donde esté esa orquestación. Ese componente se llama BPM. He explicado que, ¿por qué no resolverlo esto con un API? Porque el API también pudo orquestar. Al final, esto es un orquestador. Bueno, la diferencia está en que el BPM maneja como que memoria. Maneja estados.
+01:58:05 Speaker 1: Es una máquina de estados. ¿Esto qué significa? Que como BPM,
+01:58:09 Speaker 2: y acá imagínense esto. Si han visto modelamiento de procesos, pues un proceso tiene esto. Bueno, el BPM trata de orquestar ese flujo. Y lo importante de un BPM es que te puede volver a un paso previo. Yo estoy aquí y
+01:58:23 Speaker 1: requiero hacer eso.
+01:58:24 Speaker 2: Por ejemplo, le pasaron las imágenes. Yo estoy como analista, revisando y digo, esta imagen es invadida, borrosa, vuélvela a tomar. Tengo que volver a un paso previo. Eso no lo puede hacer el alumno.
+01:58:36 Speaker 1: Un BPM sí lo puede hacer.
+01:58:39 Speaker 2: Ahí está la diferencia.
+01:58:41 Speaker 1: Entonces, como BPM...
+01:58:44 Speaker 2: Porque así se dice, cuando el analista siniestro, por ejemplo, va a requerir validar
+01:58:48 Speaker 1: de cobertura y paso, un par de minutos.
+01:58:53 Speaker 2: Entonces, yo voy a interfasear con un sistema COR. Por acá se habla que existe un repositorio centralizado, que se conoce como MDM. ¿Qué significa? Que el CRM, que es seguro el sistema RP, que es seguro el sistema CORN, está llevando su data transaccional, porque aquí este es una gran base de datos, y como este tiene su base de datos,
+01:59:22 Speaker 1: como este tiene su base de datos,
+01:59:24 Speaker 2: este tiene una base de datos pero lógica, ¿no? Pero no es un sistema, es un orquestador. Ahí hay diferencia. Estos son sistemas, este no es un sistema, es un componente de integración. Aquí, lo que está haciendo el representante, y seguro esto, va a procesarlo. Pero de un punto de vista analítico. Entonces, si yo tengo por acá un motor, donde hay reglas, un motor analítico, que sirve, en el caso del perito, el tasador, en este caso, que es el perito, quiere hacer la estimación de daños. que si tienen un monto, tendrían que interfasear con esta, ¿no? Y obviamente, este aquí pide la data camp. Porque ¿para qué voy a ir a los sistemas? Si este es el que lo consolida. Pues voy a este, ¿no? Cuando está consolidado, es donde yo puedo tenerlo para este.
+02:00:11 Speaker 1: Entonces,
+02:00:12 Speaker 2: esta era la manera,
+02:00:13 Speaker 1: como vean, que conecta cada uno de esos conceptos que hemos estado viendo en este capítulo.
+02:00:20 Speaker 2: ¿Vale? Esto es lo que van a tener que hacer para el trabajo y esto es lo que también el examen expide. Así que revísenlo aquí, repásenlo. Si tienen dudas, vamos a la siguiente clase. ¿Ok?
+  

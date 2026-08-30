@@ -1,11 +1,83 @@
-. {
-	. {
-		. 
+. TA{
+	. Parcial{
+		. Entrega (AS IS: informe+presentacion): 1 de octubre
+		. Exposicion: 2 de octubre 4:10pm
+	}
+	. Final{
+		. Entrega (TO BE: informe+presentacion): 19 de noviembre
+		. Exposicion: 20 de noviembre 4:10pm
 	}
 }
 
-. {
-	. {
-		. 
+. EP{
+	. ¿En que me puedo basar para decir que un microservicio es necesario en mi organizacion?{
+		. El microservicio debe estar gatillada a una actividad de un proceso
+		. La transferencia entre bancos tiene mucha demanda
+	}
+}
+
+. Unidad 1: Conceptos Tecnológicos - Sistemas Empresariales: Cores, CRM, ERP, ECM y Arquitectura basada en APIs{
+	. Sistema{
+		. Funcionalidades
+		. Pantallas
+		. Persistencia
+	}
+	. Herramientas{
+		. Muestra una pantalla con datos que le servira al sistema
+	}
+	. CRM
+	. ERP
+	. ECM{
+		. Todos los documentos relacionados a un proceso core de la organizacion, por lo que no esta ahi un contrato
+		. Solo se debe llenar lo mas critico y la logica de negocio
+	}
+	
+	. ARQUITECTURA BASADA EN APIs{
+		. El "Servicio de aplicacion" (api) es expuesto por un "Sistema core" (microservicio)
+		
+		. Algunas funcionalidades de mi sistema la llevo a microservicios
+		
+		. Api canal{
+			. Se encarga de la experiencia visual del cliente
+		}
+		. Api de negocio{
+			. Se encarga de que la app se personalice si la app se tiene que ajustar a la pantalla del cliente
+		}
+		. Api tecnico{
+			. Servicio
+		}
+		
+		. Para implementar esto, se necesita cloud-computing y no on-premise para crecer ilimitadamente
+	}
+}
+
+. Unidad 1: Conceptos Tecnológicos - Data e Inteligencia: Big Data, Analytics, IA Generativa y Machine Learning{
+	. IA Generativa{
+		. Te debe ayudar cuando te enfrentes a un problema de razonamiento porque sino una API la puede dar
+		
+		. A la IA le puedo decir que lea un contrata para saber "de que manera ayudara a mi empresa"
+	}
+	. CIBERSEGURIDAD{
+		. Biometria: Metodo mas seguro, pero el mas caro
+		
+		. Norma 504: Todo lo digital debe tener mecanismo digital
+	}
+	. GESTION DE RIESGOS DIGITALES{
+		. Que la informacion se guarde en el core con APIs
+		. Si se almacena todo en el front, el hacker vulnera facilmente
+	}
+	. MICROSERVICIOS{
+		. El microservicio es autonomo
+	}
+	. EVENTOS{
+		. Se gatilla en base a un contexto
+		. Event Producer: Sistema que genera el evento
+		. Event Broker: Encola
+		. Event consumers{
+			. Sistema de cambio de divisas (ofrece una tasa de cambio referencial)
+			. Cada sistema puede engatillar una accion
+			
+			. Ecosistema: Sistema y sus relaciones
+		}
 	}
 }
