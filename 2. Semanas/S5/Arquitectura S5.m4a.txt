@@ -1,0 +1,332 @@
+00:00 Speaker 1: La capacidad es más que algo que la empresa
+00:03 Speaker 2: es capaz de hacer, como yo soy capaz de correr, de caminar, de publicar, muchas
+00:09 Speaker 1: cosas como personas, pero también son capaces de hacer cosas. Pero estas capacidades las adquiere, obviamente, para luego generar valor. O sea, si es una empresa, puede tener la posibilidad para
+00:20 Speaker 2: recibir clientes, para retener clientes,
+00:23 Speaker 1: para poder lanzar nuevos productos de servicio. Cada una de esas capacidades son las... que les ayuda a construir su ventaja un pequeño.
+00:32 Speaker 2: Entonces,
+00:33 Speaker 1: esto es importante, porque si pensáramos, como les dije, que simplemente es compro la mejor tecnología y con eso ya desarrolla una capacidad, no. La capacidad se tiene que desarrollar. Y eso es algo que nosotros vamos a tener que relacionar cuando hablamos de tecnología, que tenemos que desarrollar una
+00:52 Speaker 2: capacidad. ¿Y la capacidad viene antes que la tecnología, o ir a la par, o ir después?
+00:58 Speaker 1: la tecnología me permite desarrollar la capacidad y justo quería caer un ejemplo hablando obviamente de lo que estaba seguro más en muda para nosotros o bueno, es lo que más se escucha por ejemplo, la tecnología la tecnología puede
+01:23 Speaker 2: ser una plataforma de
+01:32 Speaker 1: IA, ¿no? Una plataforma de intervención comercial. Esta es la tecnología. ¿Cuál es la capacidad que yo lograría con
+01:44 Speaker 2: la plataforma IA?
+01:45 Speaker 1: Y pensemos en esta
+01:47 Speaker 2: empresa, que
+01:49 Speaker 1: en realidad como tu aseguradora o como
+01:51 Speaker 2: una empresa de servicio financiero o como un banco,
+01:53 Speaker 1: requieren mucho algo que pasa muy a menudo. en los indicadores es prácticamente donde muchas veces ellos ponen más énfasis porque es donde pierden más dinero, que son los fraudes. El fraude interno, externo e interno. Entonces yo de repente digo, con esta plataforma de guía lo que quiero hacer es una capacidad para, vamos a decir, identificar
+02:13 Speaker 2: probativamente fraude.
+02:22 Speaker 1: Oye, Aleya lo puede hacer.
+02:24 Speaker 2: Aleya es pura edad.
+02:26 Speaker 1: información, le das reglas, le das contexto, y la IA puede empezar a encontrar antipatrones dentro de
+02:31 Speaker 2: la información que procesa o el
+02:33 Speaker 1: lote de información que tú le envías. Inclusive la IA se puede dar cuenta que tú le estás tratando de pasar un documento que
+02:41 Speaker 2: se lo pasas el tercer año. Eso es lo que una persona no lo puede decir, pero cuando tiene volumen, eso sabe.
+02:48 Speaker 1: ¿Cuál es el valor? ¿Por qué hay un valor? ¿Una ventaja? ¿Una ventaja
+02:52 Speaker 2: o el valor?
+02:55 Speaker 1: ¿Cuál será? Claro. Si yo identifico tempranamente fraude,
+03:01 Speaker 2: ¿qué creen que va a suceder? Pues vamos a reducir los costos con fraude. Y eso que se finalmente incrementa siempre. Otra vez, la plataforma per se no me está dando la capacidad. Yo estoy desarrollando esta capacidad. Para desarrollar esta capacidad, seguro es una checklist de varias cosas que tengo que hacer. Lo voy adelantando ahora. ¿Qué necesita la guía hoy día para funcionar mejor?
+03:39 Speaker: Contexto. Va uno. La información limpia. ¿Qué es la información limpia? Le doy un punto en el examen. ¿Qué es la información limpia?
+04:22 Speaker: Gracias. Por ejemplo, digo un ejemplo. Quiero este ejemplo, yo tengo aquí en 30. Por ejemplo, sería la data de... ...de todos los empleados.
+05:22 Speaker: Es seguridad y información claro. Estás protegiendo para que cada data... ...buena data. O sea, calidad de datos, ¿eh? Por eso, es un tan simple momento. Si yo traía dos registros de cabo Chávez, eso ya no es buena.
+06:02 Speaker: Si aparece sus contratos. La gente, por ejemplo, tú le dices...
+06:23 Speaker: El agente para traer la información y esperamos que esté en algún lugar, se lo ves a otro. Repite hay data que está en cuenta. Entonces sí es importante que trabaje más
+06:44 Speaker 1: que vos. Tienes que estar súper bien. Si no, todo lo que lleva arriba no funciona. La idea solamente trata de, a
+06:52 Speaker 2: través de, vamos a decir...
+06:55 Speaker 1: Simple si quieres interactuar con una
+06:58 Speaker 2: persona,
+06:59 Speaker 1: poder razonar, poder generar
+07:02 Speaker 2: la respuesta,
+07:03 Speaker 1: pero a partir de que existe información consistente.
+07:12 Speaker 2: Bien, entonces, esto es
+07:14 Speaker 1: importante que quiero que tengan, porque las tecnologías, como he dicho, plataforma IA, podría ser cloud. Y otra vez, tengo que pensar qué capacidad es un cloud.
+08:09 Speaker: ¿Qué capacidad podría construir con Cloud?
+08:33 Speaker: como lo que es cloud para que lo puedas colocar con conectores y así puedes automatizar algunas tareas como AWS dentro que pues ayuda bastante
+10:30 Speaker: ¿A qué me refiero cuando digo automatización?
+11:25 Speaker: En fin, automotrización, hacer más rápido y menos intervención. Porque este también es algo que ha llevado de la tecla tradicional a una tecla digital. Analíticas pensando obviamente en este procesamiento grande de datos. Hablamos de datos transaccionales, datos que debería estar en correo, en un momento, está en el audio de una llamada, está en muchos lados, está en las redes sociales. ¿Qué me dan esta capacidad analítica? ¿Qué es lo que yo quiero hacer con eso? Tomar decisiones. Tomar decisiones.
+12:18 Speaker: Tomar decisiones informales. ¿De qué está pasando? ¿Qué me hará la inteligencia? ¿Qué es diferente? Una cosa es la analítica y otra cosa es la inteligencia. La inteligencia está analítica. Ahora ya me permite entender qué está sucediendo. A esta persona el producto que padece más es esto. La mejor acción para consultarlo ahora es esto. Eso me da la inteligencia.
+13:11 Speaker: La experiencia es cómo transformar la manera de cómo el fundico. De repente hay personas que quieren que todo se le piden por WhatsApp. Mientras que hay personas que quieren todo por correo. O hay personas que quieren que lo llamen. Hay personas que quieren que lo visiten. Ellos tengan la posibilidad de un aplicativo donde puedan auto... Todo eso tiene que ver con experiencia, porque no todos reciben la misma experiencia. Va a depender mucho de ese grado de personalización que queremos. Cuanto más grande la eres, mejor son otros.
+13:51 Speaker: Entonces, hablando del caso de que estamos conectando, por ejemplo, es algo que le duele mucho a las empresas. La mayoría que está haciendo es la lectura automática. ¿Qué significa? Yo recibo un documento. ¿Quién diría un documento? De
+14:39 Speaker: herramientas. Y esto es analítica. ¿Qué tendrían
+14:56 Speaker 2: analítica para estos casos?
+14:59 Speaker 1: Yo podría hacer un ejemplo de esto.
+15:38 Speaker: Quizá detecta que cuando uno se ajusta en la aplicación no requiere una exauce. Las operaciones de aprendizaje financiera se refiere. Es una información. Ahora, por el lado inteligente, pues acá vamos a decir, analítica,
+16:51 Speaker: podría ser, por ejemplo, lo
+17:12 Speaker: brutal, personalizado. Cuando tú llamas a un contact, si usted tiene un producto, sus teléfonos, si ustedes los han contactado, si usted llama, más de que la mayoría de contact centers, lo que hacen es que merecen si usted es un
+18:28 Speaker: árbol, lo que es su opción. El banner que les aparece está personalizado según su preferencia.
+19:13 Speaker: Por eso esto es experiencia. Si no, todo lo toca igual. Como sucedió hace 60 años. No lo tocábamos igual, no había diferencia. Bien. En
+19:51 Speaker: esta capital, en esta capital, es de entrada al cliente.
+20:11 Speaker: Le dije, mejor caso, piensa en el Netflix, ¿no? Netflix, maneja la humanidad, porque sea el canal por el cual yo voy a retomar la serie de la película, no puedo hacer eso. Eso extrapone a las empresas, pero a las empresas hay una complicidad. Si son múltiples canales, puede haber múltiples sistemas, que aquí de
+21:01 Speaker: repente vino un correo. Si no tienen eso, después, Data Driver. por ejemplo, acá hablan de analítica avanzada
+21:57 Speaker 2: Pero para predecir necesito obviamente comportamiento,
+22:01 Speaker 1: necesito información histórica y también necesito tendencias.
+22:04 Speaker 2: Entonces la analítica avanzada y me permite a mí poder escuchar. Predecir. Y vos con lo de predecir no viene de
+22:25 Speaker 1: correo corporativo. Cuando tú ingresabas a ese correo corporativo, una de las cosas que ya empezaba a hacer, por ejemplo, un IP, te digo hace 10 años, si tú ponías, por ejemplo, hola, automáticamente te empezaba a reinar.
+22:42 Speaker 2: Hola, ¿cuá? Hola, May.
+22:48 Speaker: Empezabas tu correo diciendo, agradezco por la información, automáticamente te empezaba a reinar tu solución, te decía, gracias por la información. O sea, ya te conocías las palabras. ¿Cómo sabes?
+22:59 Speaker 1: ¿Cómo predeciendo? Porque tiene su banco de base de datos, los correos que he enviado, sabe cuál es el patrón. Eso es lo mismo que se hace aquí. Decisiones basadas en datos siempre va a ser mejor.
+23:11 Speaker 2: Decisiones basadas en datos siempre va a ser mejor. Decisiones basadas en datos.
+23:18 Speaker 1: Agilé innovación. Acá está el box. Si no quedo claro de la anterior clase. Si yo no tengo idea de box, yo prácticamente estoy haciendo mi relación. Si quieren, con la maquita de Scrum, un ataque. Que todo se mueve más rápido. Es más, si quieren, me gusta mi hincha de Scrum. Pero eso no cambia nada. ¿Por qué? Porque hago todo rápido. Diseño el producto rápido. Hago mi piloto rápido. Y al momento que quiero desplegar al cliente.
+23:50 Speaker: Mientras el producto, el software no esté disponible, prácticamente no vale nada. Eso es lo que yo he aprendido mucho. Podemos ir a volar, haciendo las cosas por rápido, diseñando, pero si finalmente no está puesto, hay que estar para que el cliente pueda percibir, experimentar.
+24:28 Speaker 1: y por qué se dice la innovación porque cuando tú haces innovar tú siempre
+24:45 Speaker: ¿Por qué se equivocan? Si se equivocan, si quieren tener una dirección. Guarda rápido. que no te cueste mucho y aprender eso. Para que así obviamente no vuelvas a convertir en cuatro pacientes. Es como el ejercicio. Entonces cuando uno quiere hacer estos famosos pilotos, no estoy seguro de qué cosa voy a lanzar al mercado, sé que es algo, sé que es una aplicación, pero todavía no sé qué voy a lanzar. Para empezar, no siquiera pienses en la mejor tecnología, pienses en la tecnología que va a ser más rápida y complementar eso. Es una prevención. Luego pienses si quieres seguir. ¿Y dónde lo vas a hacer? Primero, piensa en desarrollar la idea.
+25:29 Speaker: Para así luego poder probarla, validar el resultado. Al final, si tiene tracción, pues, gracias a la tecnología que tú quieras con una empresa que tiene unos estándares. Hoy ya nos equivocamos mucho en eso. La innovación que queremos hacer prácticamente es superar ya un sistema propio en vivo. Ya quiero hacerlo ya. Gracias por ver el video.
+26:25 Speaker: La eficiencia operacional, nosotros a veces en algunos casos hablamos de casos de exámenes, hablamos de esto, porque esto es una de las cosas que las organizaciones hoy día están haciendo bastante. ¿Cómo hacen eficiencia operacional? Porque se centran mucho en la automatización del proceso, utilizando una herramienta de arte. La verdad que me parece buena, sobre todo porque...
+27:05 Speaker 2: Creo solo a muchos de nosotros. A veces solamente busca la aplicación de algo, pero no entiende lo que sucede atrás. Y esta persona decía, bueno, ¿ustedes que entienden lo que pasa atrás de algo?
+27:20 Speaker: Créeme que es mucho mejor, porque saben cuál es un sublimo. Entonces él nos decía, ¿no? ¿Han escuchado este concepto? ¿Te lo leo? ¿Sí? ¿Cómo funcionan? ¿Cómo funcionan?
+28:40 Speaker 1: Pero, a lo que ha dicho Roland King más puede contribuir que más pasa. Porque sí tiene que ver con lo que dice, pero se
+28:46 Speaker 2: puede explicar de otra manera. Lo de proximidad, lo de actores...
+28:52 Speaker 1: Realmente nosotros, cuando queremos entrar en un
+28:56 Speaker 2: modelo,
+28:58 Speaker 1: lo que realmente hacemos es en usar un programa. Y ese programa obviamente...
+29:11 Speaker 2: y y y y Hay esta persona que hablaba acerca de esto y decía, claro, lo primero que hace, primero es separarnos, a eso le damos un toque.
+29:29 Speaker: Porque eso es lo primero que hace. Por eso luego hablamos de los famosos toques. Y por eso el consumo de estos modelos, que estamos hablando de ellos. Que a veces se acaban muy rápido cuando usamos prácticamente enunciar otros. ¿Vale? Entonces, lo segundo que decía... Lo primero que tiene que decir es si esto es una intención. Y así. Identificar qué cosa está explicando. Empieza algo.
+29:56 Speaker 1: Después, a partir de eso, efectivamente, de lo que es un terror incierto, dice, a partir de que él, obviamente, tiene acá una gran base.
+30:09 Speaker 2: Él empieza como que a predecir la siguiente palabra. O la siguiente, digamos, sí.
+30:16 Speaker 1: Claro, cuando hasta quiero la, dice que es una intensa.
+30:20 Speaker 2: Entonces dice, receta. Ah, ya, pero ¿qué tipo de receta me estás hablando? ¿Me estás hablando de una receta médica? ¿Una receta de cocina? ¿Una receta, no sé, de laboratorio? Miren, acá. Cuando yo le doy el contexto de arroz con pollo, él dirá, bueno, café en Daniel.
+30:44 Speaker: Ah, dice, está acá. Cocina. Después, obviamente pienso en lo de cocina porque yo tengo, ¿no? Comida. Comida, yo tengo la comunidad. Ah, sí. Comida, si quieres. Voy a hacer por ti. Todo esto que él está haciendo, básicamente, es como un árbol. Un gran árbol, y él está ubicándose. Y dice, ah, está haciendo comida de pie. Y acá, pero, pues, tiene varias opciones. Y hasta que se muero con una de ellas.
+31:26 Speaker: Y me da cuenta, él se piensa. Y esto es una realidad. O sea, se está hablando de que yo estoy adivinando. Bueno, se está prediciendo lo siguiente. a partir de cómo ha sido entrenado. Entonces, por eso la importancia de cómo iniciamos. Bien, entonces, esto te lo decía porque hoy día con el uso de la IA, y obviamente hablando de los agentes, lo que se está buscando es cómo hacemos que los procesos puedan tener, vamos a decir, flujos más cíclicos, y ya no tanto predeterminados. ... ... ... ... ...
+32:35 Speaker: ¿Qué estoy pensando? Estoy pensando que uno de estos, cualquiera de estos, quiero utilizar una tecnología, por ejemplo, por ejemplo, por ejemplo, pero digamos que esta manera es muy básica, porque ahí ¿qué está sucediendo? El propio cuerpo es producido y es algo que así está diseñado y no se va a servir de esto. Yo no necesito eso. Yo lo que necesito es una persona pedir una intención que aquí esté mi agente. Mi agente, mientras tengo otros agentes, que dependiendo del monitexto agente, no puede regresar. Esto, lo dije, es lo que se contempla en los procesos agentes. y esto ya no es algo conocido
+34:28 Speaker: Bien. Finalmente, lo que hablamos acá de cultura, habilidades, cambio organizacional, está muy relacionado a la parte de, para yo poder hacer esos cambios, requiero un maíz diferente y también necesito una estructura musical diferente, más plana. Porque si tengo una estructura muy jerárquica, una pirámide, cada decisión que es detenida por el supervisor o el gerente o el director tiene que aprobarlo.
+35:14 Speaker: Bien, entonces, ahora hablando de lo que son los habilidades tecnológicas. Para el tema de Club EMPI tenemos el tema de microservicios. ¿Se nos habla de microservicios? ¿Sí? ¿Está claro?
+36:03 Speaker: Entonces hay una capacidad de tranquilidad, biológica, de empaquetar el microservicio, que es como que autónomo, expediente, como dices, que luego puede escalar. Entonces el microservicio es un concepto más de extensión de la aplicación. Apis es como consejo general, básicamente, hay api negocio, hay api canal, hay api técnico, y el api es como la interfaz con la cual yo puedo interactuar luego con otras aplicaciones. Por dentro el api seguro utiliza un micro servicio, porque se ha ido a usar el uso.
+36:49 Speaker: Gracias por ver el video. Y acá tenemos mi data, analítica y machine learning. Siendo machine learning, obviamente, que habíamos hablado, es esa, digamos,
+37:18 Speaker: forma de día que tienen las herramientas, y a partir de los datos, poder aprender, aprender para poder buscar, para las decisiones. De box de automatización, se hice de, esto es, despliegue continuo, integración continua. Una cosa es que yo llegué hasta desplegar. Es como que es top top. Desde que he desarrollado hasta desplegarlo. Yo no lo necesito de integrar, necesito integrar. He podido empaquetar mi solución, he podido probar y ahí me quedó. Y hay una cosa, ¿por qué no se puede llegar a este nivel de despliegue continuo?
+38:01 Speaker: Porque ocurre algo interesante. Despliegue continuo se explicaría... Prácticamente todo lo que yo requiero para poder agregar la solución y no necesariamente necesariamente. Cuando usted construye un discurso, nadie les llama. Decía que existía en los servicios, y no solamente la lógica, sino también por abajo qué cosa está. La infraestructura. Entonces la pregunta que yo voy a desplegar en la solución es decir, ¿no? Y aparte, necesito desplegarme con el software y el software. ¿Cuál va primero?
+38:39 Speaker: Muy bien, muy falso. Y me permite sustentar. tendría que recibir un ticket para quitar el hardware y luego administrar. Entonces hay dos componentes que hoy día las herramientas deciden la respuesta y tratar de que tenga un único aprobador. Porque de eso se trata, yo decía, automatizar significa que reduzca la cantidad de interacciones. Pero aquí necesitarían dos aprobadores. Aquel que apruebe que se empiegue a la estructura y aquel que apruebe que se empiegue a la estructura. El cambio, el microservicio, lo que estamos entregando. Ahí va el conflicto. Yo no puedo tomar las ilusiones de decir voy a desplegar, voy a prearrobar las operaciones. Entonces se requiere otra tecnología y otro enfoque para tratar de buscar que sea un solo cliente o un solo cliente. No es tan fácil. Por eso ocurre este problema acá.
+39:42 Speaker: El despliegue a partir de la mente que se unan todos los conceptos y plataformas digitales pensando en más temas de platform and service para poder crear un cogestión de todo lo que es software base. No tiene serverless, el hecho es importante. Más serverless y contenidos.
+40:50 Speaker 1: ¿Cuál sería mi justificación si fuera gerente de TI y dijera necesito una plataforma de análisis?
+40:59 Speaker 2: ¿Cómo podría abordar?
+44:44 Speaker: ¿Quién? ¿Quién me puede comentar? ¿Cómo lo justificaría? Dime, Rodrigo.
+45:16 Speaker: O sea, tú estás diciendo que hay una necesidad. O algo así, que los clientes o dignidades o algo a través del bien. ¿Quién tiene otra justificación?
+47:04 Speaker 2: No, bueno, creo que hay que diferenciar la duda. Una cosa es...
+47:37 Speaker: Todo esto puede ser, hasta podría ser importante. Y por ahí que lo han estado enunciando. O sea, tengo un problema. ¿Cuál es mi problema? De repente mi problema es que
+48:08 Speaker 1: debido a que yo quiero interconectarme con, como dices, plataformas externas, socios externos, o inclusive con mis propias plataformas canales,
+48:16 Speaker 2: no tengo la velocidad para poder hacerlo. O me demoro, ¿sabes? Es un dilema. Me demoro mucho para integrarme con... Quiero integrarme con Yaffe y me voy a demorar un año. Entonces, ¿cuál es el problema? Identifiquen el problema. Y a partir del problema dicen, necesito esta tecnología y a su vez voy a cerrar una capacidad.
+48:42 Speaker: Integración externa con partners, con socios. Esa es mi capacidad. Y luego, ¿cómo lo voy a medir? Hoy día me demoro seis meses, después de haber implementado eso me demoro dos semanas. Hace toda la plantera. ¿Sí? Pensemos primero en cómo lo voy a medir. Vamos a fijar eso. Primero está el problema.
+49:18 Speaker: Tengo la tecnología. la capacidad de un juego que permite vivir generar el oro de la vida.
+49:59 Speaker: ¿Qué significa? El primero que es el tema. Necesitamos que nos avisen. Necesitamos un micrófono. Necesita una plataforma guía. Aunque piensan en la tecnología. Pero no piensan primero en cuál es el problema para subir la tecnología. ¿Cuál es la capacidad que tenga un público de tecnología para resolver?
+50:20 Speaker: Esto es importante conocerlo. Y eso es lo que generalmente las universidades, el futuro de la calle, me van a explicar muy bien. Lo que les invito es a que relacionen estos conceptos. Porque eso nos va a ayudar muchas veces a plantear mejor resolución. Entendiendo bien el problema de la necesidad de los conceptos. Y no se queda solamente con los ciertos terceros. Y hay muchísima información en ese momento. Bien.
+50:54 Speaker: Y esto habla de la siguiente slide. Tenemos el tema de generación de valor. A ver. En la perspectiva que se evalúa,
+52:47 Speaker: cuando ustedes tienen un cliente, a ver si le quieren vender, o no le quieren vender, es lo mismo. Ahora, no quiero marceli, quiero prosceli, porque ven todos los productores, te le digo,
+53:18 Speaker 1: no sé lo que hacen, porque hay nutrientes, yo no pierdo, no solo pierdo lo que es más lejos y más lo que necesito.
+53:29 Speaker: Y lo otro es reducción de costos. Ahí se tiene que dar procesos, que el
+54:29 Speaker: cliente tenga una buena sanidad, esas cosas que perdon, que al final son fluides, que dan dos ingresos.
+56:33 Speaker: Gracias por ver el video
+57:12 Speaker: que mi agente no puedo llevar ese sandbox en la nube y mientras yo estoy durmiendo y ahí se está padea ¿me imaginan eso? eso es potentísimo ¿no? porque mientras yo estoy descansando ¿crees?
+57:59 Speaker: ¿crees o no crees que se va a reducir? ¿por qué se va a reducir?
+58:07 Speaker 1: Porque hoy día la IA ya está podiendo regenerar casi todo
+58:12 Speaker 2: el ciclo de desarrollo sólido. Pero ¿qué todavía la IA no puede hacer? No puede tener el pensamiento funcional.
+58:22 Speaker 1: Aquel que obviamente sí conoce por dentro un módulo, un negocio, un contexto de cómo funciona, cómo opera. Pero es ese rol que más se va a potenciar. ¿Por qué? No puede ser reemplazado. Es el que conoce realmente. Toda la idea es simplemente la automatización. Pero para eso, obviamente, me tengo que ver en esta situación. No simplemente un
+58:44 Speaker 2: problem básico. Yo tengo que empezar a detallar quién es tu bólogo, quién es tu regla, quién es tu asociación, quién es tu asociación, quién es tu asociación, quién es tu asociación, quién es tu asociación, quién es tu asociación, quién es tu asociación, quién es tu asociación.
+59:05 Speaker: ¿Qué va a pasar en unos 2 o 3 años? No encontramos en otros países y ya están empezando juntos. Esto va a llegar acá. Entonces va a haber esa, digamos, yo llamo eso productividad. ¿Por qué le llamo productividad? Porque efectivamente, hoy día uno de los logros de las empresas que toman mucho tiempo en desarrollar un cambio, una solución, demora demasiado. Entonces, prácticamente... Creo que hemos llegado a un punto donde ya no van a esperar más. Que un día que se resuelva, si no van a empezar con la idea de ser ahí ese propósito de la semana, mientras que un grupo de desarrolladores no resolver el precio. Si se van y se, seguramente, a la idea total de su. Gracias.
+59:57 Speaker: Eso mismo que está pasando desde tecnología, en otras áreas de negocio, también se está trabajando. Se está viendo que lo que hacen cinco o diez personas, estudiando, son los que solo supervisan, y luego se va a hacer eso. Entonces, ¿dónde está el conocimiento otra vez? Y lo que tiene es el pensamiento en él. El pensamiento del rubro del conocimiento. Esa todavía no se ha visto como reposar, pero al menos todo lo demás, lo hicieron otra vez. La intensidad es...
+01:00:43 Speaker: Gracias por ver el video. Gracias por ver el video.
+01:01:15 Speaker: Lo siguiente tiene que ver con la velocidad, que es la respuesta rápida del montador. Es un timing
+01:01:39 Speaker 2: que se usa para poder yo decir, ¿cuándo necesito algo? No me paro ahí, acá se me han dicho. Cuando me dicen que era algo, yo lo necesito en semanas. Cuando me dicen, voy a morar en algunos meses, tendremos a decir que la gente tiene dosis, y te vas a tomar tres, cuatro, cinco.
+01:02:04 Speaker: Pero si yo le digo en semanas, las semanas son 52, yo le digo como voy a tomar 3 o 4 semanas suena. Y se está en tu margen, apunta a eso. Hoy es muy agresivo, claro, porque mientras yo sigo con mis procesos tradicionales de construcción o desarrollo de sistemas para poder lanzar unos productos o servicios, pues la comunidad es realmente actual con la guía y luego. Entonces el time to market es importante y este es el que justamente empieza para mí a generar todos los cambios que se hacen para mí. Porque vamos a usar más de patología, más de la actividad. Porque se quiere reducir los tiempos. Creo que hay mucho de los cargados, sobre todo de lo que sucede.
+01:02:48 Speaker: Decían que... Hay un, este, en el mundo financiero, hay unos indicadores que tienen que haber puesto un indicador de crecimiento, de crecimiento de la bolsa en los diferentes países. Para empezar, una bolsa más hermosa
+01:03:59 Speaker: que todas las bolsas de la bolsa, tanto así que decían que la
+01:04:39 Speaker 1: bolsa de la bolsa Y ve ahí hacia la proyección.
+01:04:41 Speaker 2: Y ahí cuanto más va a crecer eso, o se va a mantener en los próximos años. Mira en Latinoamérica, dicen en Latinoamérica. Porque cuando hay incertidumbre, tu dinero que pones, de repente lo pierdas. Cuando hay mayor certeza, empiezas a invertir. Entonces dicen que los próximos...
+01:05:39 Speaker 1: tiempo que va a durar la derecha y lo esperamos, va a haber mucha sostenibilidad. Entonces quiere decir que muchas de estas cosas que hoy día se presentan sostenibles están recibidas de la construcción. A mí fueron tres años, porque te puedo dar una idea de qué puede estar pasando. Una empresa ahora no es la misma del año pasado. Esta empresa de ahora, el próximo año, está pensando en invertir más. Y el año pasado pensaba en invertir más. Entonces ahí cambia mucho. Cuando tú vas a decirle que hay que comprar algo, lo primero que va a decir.
+01:06:25 Speaker: El año pasado, ¿qué te decía? No quiero cerrar las inversiones. Hoy día, la inversión. Ya les dije otra vez, que así como esta parte desarrollaba, el desarrollo de las medidas va a crecer. Va a crecer. Yo leí una noticia donde Starbucks ya había reemplazado casi el 70% de su software que tenía con terceros con software hecho a la medida propia. La empresa donde estoy, que es parte de un grupo que será la empresa más importante, ya apunta
+01:07:14 Speaker 2: para los próximos años a empezar a desarrollar
+01:07:16 Speaker 1: y reemplazar sistemas que hoy día lo utilicen con otros ventos. Buscando eso, no se supone. Sabe que la guía le puede ayudar a generar ese desarrollo sin complicaciones.
+01:07:31 Speaker 2: Entonces, va a haber mucho desarrollo en la medida. De todas maneras, asegurado, no crean que eso implica más desarrollar eso.
+01:07:37 Speaker 1: Sino es usar la guía... para poder lograr, cómo poder reemplazar rápidamente en corto tiempo ese software. ¿Cuál es el problema del software que venden los terceros?
+01:07:47 Speaker 2: Eso les explica hoy.
+01:07:49 Speaker 1: El modelo de licenciamiento es carísimo. Te quieren cobrar por asiento, es decir, si no usan mil
+01:07:56 Speaker 2: coladores, te pagan mil licencias.
+01:07:58 Speaker 1: O te quieren cobrar por transacción. Si tienes un millón de transacciones, te cobro
+01:08:01 Speaker 2: por un millón de transacciones. Cada transacción vale... Si quieres medio
+01:08:06 Speaker 1: dólar, pero igual ni pagas. ¿A dónde el impacto? A mi resultado.
+01:08:12 Speaker 2: Resultado. Resultado que tiene que ver con mi vida. Porque yo le pago a alguien cuando contrato un software actual. Pero eso es activo a mí. Eso es costo. Es un gasto. El nivel de resultado, el resultado de ganancia de su calidad, va a tener muchas lejas. El gasto crece. Entonces yo no compraría un software ahorita, porque cuesta un montón de millones.
+01:08:39 Speaker: y no tengo que pagar necesariamente los próximos 5 o 10 años. Ahí está la ecuación. Por eso es atractivo de día, desarrollar como no era antes. Antes alguien te decía, te hago el software, pero no tengo el conocimiento, si te lo hago me voy a morar mucho, entonces compraba. Pero hoy día ya no, ya eso sea prácticamente nuestra función. Bien, vámonos a breve. Gracias.
+
+00:00 Speaker: Ahora, dicho esto, creo que eso me habla acerca de estas capacidades vitales. y otra vez volvemos a la zona de pie.
+00:20 Speaker: La zona de pie es igual que cae a esta calle, imprescindible, deficiencia, velocidad o personalización. ¿Cuál crees que cae?
+00:42 Speaker: ¿Lo ves en una? ¿Lo ves en una o lo ves en más de una?
+01:06 Speaker: Lo primero que tendríamos que responder es si lo vemos en una sola o lo vemos en más de una. ¿Cuál será la eficiencia de la medicina? A ver, comenta, ¿por qué no es la eficiencia? En el caso de la medicina, porque podríamos evitar la medicina que se logra despedir a la medicina.
+01:34 Speaker: Gracias por ver el video. ¿Hay más que quiera comentar? Si también lo ve en crecimiento.
+02:11 Speaker: Puedo monetizar. O sea, puedo ganar nuevas fuentes de ingreso monetizando el ámbito. O puedo hacernos ventas. ¿Cierto? Puedo hacernos ventas. Si yo tengo que cumplir el día de que... Puedo utilizarlo para mis canales internos o también para externo. Puedo subir a más venta o más rápido inclusive. Por ejemplo, el ejemplo que les daba. Si yo pongo mi... en la plataforma de IAP, en la representación de IAP yo pongo un icono que diga venta, no sé, de un producto que yo comercializo, la posición que tiene IAP es tan grande que yo podría
+02:49 Speaker 1: recibir ventas o por eso. Entonces, podría tener especialidad. Y podría tener personalización. ¿Qué crees? ¿Un cambio que puede dar personalización? ¿Cuál es la forma que yo tengo hoy día para
+03:36 Speaker 2: poder comunicar o conectarme con otras aplicaciones?
+03:39 Speaker 3: APIS. ¿Cierto?
+03:42 Speaker 2: Así como tengo APIS, transaccionales, que van a mi sistema COS y se van a registrar la información, persiste la información de un contrato, una venta. Lo mismo lo vamos a usar para lo que hizo el compañero. También tengo... implicado en este ecosistema analítico, que muchas veces está, no en la core, sino
+04:00 Speaker 1: en otra base de datos,
+04:03 Speaker 2: más analítica,
+04:04 Speaker 3: donde yo también puedo hacer predicciones, análisis avanzada, y a veces esa
+04:09 Speaker 2: información a mí me sirve para poder ser utilizada en otros procesos.
+04:16 Speaker 1: Por ejemplo,
+04:17 Speaker 2: hoy día lo que se utiliza mucho es el famoso pricing dinámico. ¿Sabes lo que es pricing dinámico? Que no es un pricing fijo, estándar, no es que a todos les cobro igual, sino depende de la persona que está con su cliente. Y hay productos hoy día
+04:33 Speaker 1: que tienen pricing y nada.
+04:36 Speaker 2: Depende de la persona, yo le cobro un
+04:39 Speaker 1: poco más o un poco menos.
+04:42 Speaker 2: Eso es
+04:43 Speaker 1: personalización. ¿Estamos?
+04:46 Speaker 2: Ahora, la pregunta sería, entonces ustedes todas, entonces lo que tengo que pensar es el beneficio primario. ¿Por qué digo primario si quieren la primera derivada? Porque esto prácticamente es la
+05:22 Speaker 1: plataforma
+05:27 Speaker 2: y conectividad hacia afuera, donde eso me permite a mi poder
+05:31 Speaker 1: ser rápida, entregar
+05:33 Speaker 2: rápidamente integraciones hacia su sociedad. Lo otro va a depender del crecimiento. Por ejemplo, yo puedo poner ya mi producto, pero que resulta ser costado a este otro producto, le digo que vende y cuesta menos. El otro va a vender más y vuelve. No es directo. Igual a tanto. La personalización, por ejemplo, sigue siendo... Si yo tengo solo su edad, es difícil poder hacer un pricing dinámico. Si las demás variables no las tengo, ¿cómo puedo hacer un pricing dinámico? ¿Vale? Entonces, lo más directo, cuando hablamos de la forma de la PIS, directo, es
+06:13 Speaker 1: este. La velocidad.
+06:21 Speaker: y la velocidad que se requiere para la situación, sobre todo los socios estados. Ok, esto nos lleva a esta palabra, que ya seguro, que se llama transformación digital. Y entonces acá el mensaje que tenemos que nosotros llevarnos es, la palabra transformación es como que algo, vamos a decir, disruptivo. Porque tenemos que empezar a diferenciar. en este inclusive hay varios papers que hablan acerca de esto y que digitalización que automatización
+07:08 Speaker: ¿Y qué es transversión? Anteriormente he escuchado varios que piensan que estos conceptos son iguales y no son iguales. Hay una diferencia clara en qué cosa son únicos, qué es organización, qué es digitalización, qué es transversión. Por ejemplo, cuando yo hablo de digitalización debía pensar en un reto. y y y y Por ejemplo, en la clínica, la clínica manejaba el expediente clínico de los pacientes físicos. ¿Entienden la palabra físico?
+08:34 Speaker: ¿Qué empezaron a hacer? Digitalizar ¿Qué empezaron a decir? ...digitalizar... ...a una imagen... ...hombre.
+08:56 Speaker: ¿Sí? Eso es lo que hicieron, digitalizamos. Para que así el médico de una sede pueda ver... ...y que se... ...solo con las técnicas grandes que hicieron. Se encontraron con esta barrera. si la persona se atendía en una otra sede, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa,
+09:18 Speaker: si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si no tenía la historia completa, si
+09:47 Speaker: Si el médico tiene igual, ya no 10 ocultos físicos, sino tiene 10 pedentes, 10 hojas, igual se demore. ¿Y qué es lo que gusta el médico? Lo que aquí es un resumen del año 1 que le detectaron.
+10:29 Speaker: ¿Qué será realmente lo que será la transformación? Lo único que es, primer estadio, lo físico lo pasé a digital,
+10:42 Speaker 1: después generé un resumen sobre esa información relevante, pero hasta ahí yo considero que el proceso no cambia.
+10:52 Speaker 2: ¿Cuándo cambiaría el proceso?
+10:57 Speaker 1: Pues tiene dos caminos para cambiar.
+11:05 Speaker 2: Uno, que el médico en realidad lo que reciba no es solamente la extracción de importaciones relevantes, sino una serie de recomendaciones.
+11:27 Speaker: Otra es que un agente sea quien tenga esa información. Se puede hacer ahora, porque ahora ya ni siquiera necesitamos las citas presenciales. Las citas pueden ser digitales, pueden ser propiedades más. Esto es lo mismo. Mientras que esto es digitalizar, esto es lo mismo.
+11:51 Speaker 2: Porque transformar se refiere a cambiar las formas que hacemos las cosas. Entonces hay unas preguntas que empiezan a surgir. Primero, me lo debería preguntar. que a pasos o actividades
+12:06 Speaker 1: dejan
+12:07 Speaker 2: de tener sentido. Por ejemplo, les hablaba de que casi todos los procesos, aunque no me conozco todos, no tú me conozco todas las industrias, pero me haría los procesos que quieren capturar algo que es hacer un proceso de recepción de datos. Y ese proceso de recepción de datos hoy día es un documento, una imagen, algo que no sirvía para ayudar con
+12:27 Speaker 1: esos procesos. Vamos a tratar de resolverlo eso a través de
+12:35 Speaker 2: automatizar. Traigo la data y
+12:38 Speaker 1: continúo mi flujo.
+12:40 Speaker 2: Pero otros están pensando en algo diferente. Otros dicen, ¿yo qué hago con la data? Con la data, por ejemplo, en el caso de las clínicas, cuando hay recursos, dicen, con la data, yo empiezo a ver dónde se ha atendido este cliente, si este cliente está coberturado en ese servicio que se ha hecho, y cuánto es lo que yo le reconozco. Y automáticamente te dicen, por esa factura que tú me estás queriendo pasar como reembolso, yo te voy a pagar 30%, 50% de
+13:12 Speaker 1: tu oficina. ¿Quién te lo va a hacer? El
+13:15 Speaker 2: cliente obviamente, si está de acuerdo, y automáticamente se genera el orden de pago.
+13:21 Speaker 1: ¿No?
+13:23 Speaker 2: Porque lo que está buscando, ¿qué cosa? Ya no es que vaya un papo, fija y lo repice, que el monitor médico diga así, aplica y le dice al cliente. Mientras eso pasa, el cliente está como dos semanas y no sabe cuánto le va a dar.
+13:38 Speaker 1: Entonces, hay
+13:40 Speaker 2: que tener claro que cuando hablamos de transformación, lo que queremos es eso.
+13:46 Speaker 1: Empezar a cuestionarnos qué
+13:48 Speaker 2: pasos, qué actividades, qué cosa deja de tener sentido. Porque si solamente pensamos en reemplazo por la tecnología más eficiente esto, el proceso sigue siendo lo mismo. Un banco, si no recuerdo, fue presenciador de Lima. Este banco, Mauricio Albán, si no recuerdo, creo que era como el CTO, o se puede decir el Digital Transformation de esa época, de hace unos 8 o 10 años.
+14:19 Speaker 1: Decía, los bancos hoy en día, como ya se
+14:23 Speaker 2: estaba en la estapa decía, los bancos siempre hacen cuenta que es un banco digital, o sea, es tal como se quiere decir. Si quieren modar, modificar, sigo oficinas, nada, sus tasas de interés deberían ser dos
+14:35 Speaker 1: dedos.
+14:38 Speaker 2: Y lo decía porque cuando algo es digital,
+14:41 Speaker 1: obviamente se simplifica todos los costos por alquilar despacio, personal.
+14:47 Speaker 2: Entonces, él decía, no entiendo por qué los bancos en Perú todavía siguen cobrando tasas de dos dedos. Y dicen que se están transformando. Y este concepto de este banco... Entonces la idea era eso, yo traslado mis eficiencias hacia un mejor producto o servicio a su cliente. Porque realmente estoy transformando el modelo, estoy transformando la forma como hablo, ya no dependo de personas,
+15:15 Speaker 1: ya no de
+15:15 Speaker 2: emergencia, porque todo se mueve en el tema digital. Inclusive ese tiempo, ese bajo, tan solo que ahora ya lo miramos haciendo, tiene que dar la tarjeta inclusive, ya no física,
+15:25 Speaker 1: no es tarjeta digital.
+15:27 Speaker 2: Y así operaba ese ordenador. y no que estés preguntando
+16:02 Speaker 1: Bien.
+16:04 Speaker 2: Entonces, les he dicho que hay que pensar en procesos, actividades que ya no tienen sentido, que pueden dejar de funcionar, ya no deberíamos pensar que funcionen de esa manera. Eso habla también de que tenemos que pensar en qué productos hoy en día también ya no son necesarios. Hay productos que seguro, por la forma como los lanzamos anteriormente, Y también hay que empezar a cuestionarnos cuáles son los errores en la organización
+16:51 Speaker 1: que tiene que empezar a desaparecer o cambiar. Fuerza eso,
+16:58 Speaker 2: para que la organización cambie. Hoy día, por ejemplo, hace poco tuve una reunión con la TUEA y me decía que en España, ellos
+17:06 Speaker 1: ya hablan de tener, no un área, ni siquiera hablando de algo mínimo, no, ellos piensan que toda una vicepresidencia del tema de inteligencia artificial,
+17:18 Speaker 2: concede en España y que tengo obviamente en
+17:21 Speaker 1: las series que ellos tienen presencia.
+17:26 Speaker 2: tener focales para poder empezar a desarrollar todo el tema de IA en ningún lugar.
+17:32 Speaker 1: Si se habla de empresa mitóloga, no tienen algo aislado. O sea, no tienen que utilizarlo. Porque lo ven así, lo ven como algo independiente. No de DDI, de DTIA. O sea, no están pensando que la IA está amarrada a un tema de IA, sino como una área igual de importante como el área comercial, el área de marketing. Así lo están viendo. Entonces, creo que a eso se apunta. Entonces, también hay cosas en las organizaciones que pueden cambiar. Bien, entonces, fíjense que en esto, cuando ustedes modifican una aplicación o un sistema, que es lo que generalmente hacemos, fíjense que ahí lo único que están haciendo ustedes es que en el contexto del proyecto, están básicamente cambiando algo o mejorando algo, pero no están...
+18:42 Speaker: ¿Por qué las empresas no hacen transformación? Porque solamente consumen su día a día en la mejor... continuada de su propio proceso. Transformar cuesta. Repensar el proceso cuesta. Sobre todo me puedo equivocar. Entonces, ¿cómo hago para transformarme y no solamente quedarme enganchado de solo mejorar? Hay un libro que se llama El trigo que solo vi yo.
+19:22 Speaker 2: de esto, que habla de tres cajas, dice que las empresas todas están en el box 1, porque dice que todas solamente piensan en mejorar, y él apunta que debían estar en el box 3, y la justificación que dan, porque si solo la pientas en el box 1, algún día ese producto se me hizo más o menos, y tu empresa es el mismo.
+19:41 Speaker 1: Entonces tienes que tener gente
+19:44 Speaker 2: pensando en
+19:45 Speaker 1: un nuevo producto, un nuevo servicio,
+19:48 Speaker 2: para que así tu empresa siempre se siga extendiendo en su vida.
+19:54 Speaker 1: Entonces hay muchas empresas que han hecho eso, que
+19:57 Speaker 2: se concentran en el box 1, claro, mi día a día es lo que me da de comer, pero piensan en el box 3
+20:03 Speaker 1: para así poder avanzar y
+20:06 Speaker 2: no quedarse.
+20:08 Speaker 1: Bien.
+20:16 Speaker 2: Este es un ejemplo dual. Pasamos de... ... ...
+20:22 Speaker 1: ... ... ... ... ...
+20:25 Speaker 2: ... Las empresas tenían áreas exclusivas de innovación, un poco en que esas áreas sean las que ven las actividades principales. Eso pues te da una, dos. ¿Qué hicieran otras empresas a nivel mundial? Gracias.
+21:48 Speaker: Digamos, en la lista digital, ellos ya tienen operaciones de integración. ¿Qué significa? Que un cliente, por ejemplo, puede cargar un seguro, y no solamente eso, sino puede gestionar su relacionamiento de su trabajo. Puede ser que yo lo compre al contado, por ejemplo, una jota, y decidió transformarlo a dos, por ejemplo, en la jota de seguimiento. Eso significa, obviamente, cuando lo es integrado.
+22:18 Speaker: Tengo la experiencia que dentro de mi canal, eso significa que a través de los 30 canales, eso es el otro. Tengo el modelo 360 cliente, que significa que tengo un papel cliente con causa de características y eso me permitiría encarcelerar cuando voy a comprar. Y tengo una mayor velocidad de innovación. Mi innovación tal vez a escuchar, depende no solamente de lo que es profesional, sino de todos los sistemas que están preparados. Cuanto más, saco clavos.
+22:55 Speaker: Gracias. Entonces acá, por ejemplo, ¿qué estoy generando? Reducción de cursos generativos, experiencia del cliente, velocidad de innovación y nuevos seguros. Finalmente vamos a terminar con este momento, hablando de movilidad o iniciativa. Es muy importante porque esto es un tema que habrá cerca de un tema clave, como el año 20 ha iniciado. Gracias por ver el video. Gracias.
+24:25 Speaker: Es decir, que necesito, dada la cual tecnología, lo que debo hacer primero es, lo que hicimos en el ejercicio de la plataforma, primero el problema, primero el problema, y obviamente, no es significado el problema, ¿qué valor se va a generar a partir de la capacidad de desarrollar? Que justifique la inversión, que he asociado esta tecnología a la inversión.
+24:50 Speaker 2: Después, el portafolio dinámico, entonces es un portafolio en conjunto. de proyectos que le voy a realizar. Por ejemplo, deberíamos decir, nosotros, para el caso de la hora que vamos a resolver, son 40 iniciativas.
+25:04 Speaker 1: Yo lo que debería pensar es, de esas 40, ¿cuáles debo realizar,
+25:09 Speaker 2: acelerar?
+25:10 Speaker 1: ¿Cuáles debo detener? ¿Cuáles puedo decir? Vamos a ir a un más.
+25:19 Speaker: Algo, por ejemplo, que ahora las organizaciones se hacen. Y antes era diferente.
+25:27 Speaker 1: Vamos a suponer que este es el presupuesto 2020. Y acá vamos a decir que hay 40 millones.
+25:37 Speaker: A lo largo del año, o sea, 12 meses, por aquí venía, vamos a decir, una nueva iniciativa. Algo que yo se le diera la oportunidad. Entonces les decía, necesito... 2 millones más. ¿Qué creen que hacían las empresas antes? Decían, bueno, vamos a regresar a las empresas.
+26:05 Speaker: Ahora es 40. Por acá se presentaba otra iniciativa y esto costaba 100 millones. ¿Qué creen que hacían las empresas? Ahora es todo el otro. Es como un presupuesto ilimitado. Dependiendo de la oportunidad y lo que me va a traer como resultado. Pues apostaba por eso. Ya no se hace eso. Ya no. Y eso viene de los últimos años. Los 40 ya van a mantener y lo que empiezan a hacer es más bien. Ah, viene una nueva iniciativa. ¿Cuántos tenemos ahí de curso? Digamos que tenemos hasta el 1 al 40. Bueno,
+26:50 Speaker 1: arranquea. Gracias por ver el video. Treinta y dos. Estas ocho se detienen. Para dar paso a la otra.
+27:05 Speaker 2: Y si aparece otra, hacen el mismo ejercicio. ¿Qué quiere decir? Que los cuarenta siempre es el mismo ejercicio.
+27:13 Speaker 1: Ese juego es mucho más complejo. Tira que es la vida, ¿vale? No hay ningún problema. No hay problema cuando tiene que decir que tenemos. Bien, el otro tema tiene
+27:31 Speaker 2: que ver con la financiación que pasaba en productos. Y eso tiene que ver también con qué capacidades vamos a desear. El gobierno ligero está asociado
+27:42 Speaker 1: a las decisiones que se toman y quién obviamente responde por ello. a partir de ahí tenemos
+28:00 Speaker 2: este modelo de gobierno que se basa en como que por niveles, un nivel
+28:08 Speaker 1: estratégico obviamente va a decidir todo lo que son claridades de negocio va a decidir la parte de mi ambiente financiero esos 40 millones están decididos ahí ¿cuáles
+28:21 Speaker 2: son esas capacidades?
+28:46 Speaker 1: Gracias por ver el video.
+28:52 Speaker 2: No tiene su propia vida.
+28:54 Speaker 1: Y es así.
+28:56 Speaker 2: En realidad, cuando ustedes ven la sensitiva,
+29:01 Speaker 1: nunca se conectan.
+29:05 Speaker 2: Es decir, que no se conectan. ¿Por qué? Porque el incentivo, por más que tratamos de existir un alcance y aislarla, tiene dependencia porque a veces se espera que se termine, que tenga una capacidad que luego no se pueda realizar. Es difícil aislarlo, porque si no estaríamos haciendo el poder de las áreas no se conectan, y las áreas no se conectan. Imagínense, solo para ahora vamos a entrar a ver el paso. El caso dice, migración del core de hacia la nube. Bueno, alguien dirá, ese es un propio TID, hacer la TID que te grababa. Claro,
+29:42 Speaker 1: la TID puede hacerlo. En ese momento la nube, ¿qué es lo que va a suceder? Va a imparar todos los productos o servicios que tienen en este core. que pertenecen a otras áreas, que no esté ahí.
+29:54 Speaker 2: Entonces, ¿qué va a hacerte ahí? No puede ser el proyecto solamente tecnológico, sino tendrá que ver con el negocio, para ver cuál es la mejor forma de que se llegue, de esa privatización, siga gustando a eso. Y es así como se empieza todo a completizar. Entonces, hay dependencias tecnológicas, funcionales, de nuevas capacidades, que son necesarias y así es como los proyectos, básicamente,
+30:16 Speaker 1: se realizan a, pues, normal. Algo último que está pasando también es las nuevas soluciones que a veces uno todavía mantiene. Empiezan a decirte ya que sus nuevas versiones, sus outbreaks, van a tener el tema de la gente. Una solución de la batería de vida con sus propios agentes orientados a sistemas contables financieros. Y así, tú tienes una parte de la mente. No los utilizas. Entonces tienes que saber cómo te estábamos.
+31:07 Speaker: Y el último nivel, que es el nivel operativo, es la parte donde es la parte de cómo analizo el trabajo. la manera de hacerlo es a través de los procesos que más ágiles podría ser también a través del sistema Waterfall eso va a depender básicamente de qué es lo que yo veo y sencillo es lo que debo hacer si me hablan de un app y de un nuevo sistema y yo sé realmente qué es lo que tengo que hacer si veo un instrumento más alto a desarrollar una idea o algo la incertitud me mata mucho a tratar cuál es el bloque de lo que debo hacer y ahí entrar a los promoters Un rol
+31:47 Speaker 1: que está, digamos, siendo muy fuerte en el mercado. Una vez ustedes tienen una orientación a la parte de gestión.
+31:58 Speaker 2: Hacer un programa no estaría mal porque el programa incorpora los temas de gestión, pero hoy en día los programas que se buscan son aquellos que conocen lo que van a hacer. No simplemente que sepan gestionar. Digo, yo quiero que ustedes sean encargados de proyectos de comunicación, de licuaz, a la luna. Si yo no sé nada, ¿qué hacían antes? Decían, ¿cuál es el que sí sabe?
+32:27 Speaker 1: Y yo le puse a la situación. Ya no es. Ya no es que tiene que ocupar. ¿Quién es que sabe? Porque eso es el gran truco. Se ha cumplido también a nivel de su consumimiento y de su gestión. Esos son los problemas de las ciudades. Se conoce lo que se va a ejecutar.
+32:46 Speaker 2: también hay una oportunidad de rol en el cual se puede explorar. Entonces, miren, este es el enfoque que se está buscando en las organizaciones, ya se lo decía
+32:56 Speaker 1: yo, sobre todo porque a veces un
+33:00 Speaker 2: COVID ejecutivo, pues, buscan esto, no buscan. ¿Cómo
+33:04 Speaker 1: vamos a nosotros, finalmente, nuestra
+33:08 Speaker 2: cartera de incentivos de proyectos organizados? Y puede ser basado en este tipo de criterios de organización, porque no puedo... Es decir, la iniciativa de Cobra a la Nube es la
+33:18 Speaker 1: que yo considero que va a ir primero, ¿no? ¿Quiénes voy a tener primero? Por ejemplo, uno, el impacto en el crecimiento.
+33:25 Speaker 2: Segundo, la experiencia en bien. Tercero, está en tu market. Cuarto, el impacto en el crecimiento. Estos son los cuatro criterios que ustedes van a usar en el caso.
+33:39 Speaker 1: para saber cuáles son las distintas iniciativas que van a realizar.
+33:43 Speaker 2: Con estos criterios, yo podría, en
+33:47 Speaker 1: cartera, ordenarla. Algunos van a ser de transformación,
+33:50 Speaker 2: en función de la decisión, algunos serán de optimización o mejora, y algunos básicamente se van a pagar. No todo puede ser aquí, sino tiene que estar distribuido entre estos tres. Claramente tiene que estar distribuido entre los tres, para que obviamente... En el tema de las acciones, en el
+34:11 Speaker 1: tema de los proyectos es igual.
+34:12 Speaker 2: Los proyectos mueven la organización, tienen que estar dentro de los dos tres, porque esos tres son diferentes de la organización. Este es el ciclo de gestión del portafolio.
+34:26 Speaker 1: Acá hay algunas cosas que hay que identificar primero.
+34:33 Speaker 2: Primero tenemos que hacer el tema
+34:35 Speaker 1: de cuáles
+34:36 Speaker 2: son estas iniciativas. y yo en este caso voy a considerar los tipos de iniciativas. Dos, cada iniciativa debe tener, porque muchos han hablado, ¿no? Esta
+34:50 Speaker 1: iniciativa, ¿qué valor que está por ahí?
+34:52 Speaker 2: Es un valor financiero. No hay valor acá, el valor financiero es el valor monetario. Luego, después de eso, una cosa que también tengo que considerar es el tema de la prioridad.
+35:10 Speaker: ¿Cómo pienso? Vamos a decir, presupuestar puede traer el valor. Pero el tema es, ¿Quién merece el presupuesto? Por ejemplo, este tema de el Ford, me lo ayuntan nomás. ¿Qué pasa si yo en mi análisis, si un poco el Ford, por más que se le hace, no tiene problemas? No hay problema. Funciona bien, no se cae, responde a la velocidad. Pero como TI, considero que para un siguiente paso, para mejorar si quieren la velocidad, necesito cambiar de todo lo que necesito. No sé que TI no tenga personas. Entonces un ejercicio que se hace en las empresas es también saber
+36:07 Speaker: A veces es entender cómo funciona la empresa y aquí te doy más. Por ejemplo, te voy a decir, yo no tengo presupuesto. Pero los negocios hoy día, hay que buscar esta velocidad, esta en tu marketing. Tú puedes decirle, tú quieres hacer esto, quieres comercializar esos productos de bajo costo. Entonces, no hay dinero. Si no, no va a funcionar. Todo lo que cambia es arriba, te conecta abajo.
+36:48 Speaker: La parte de cuatro es todo el tema de asegurarnos de que sea en base a lo que se ha definido, que tiene todos los artefactos, las evidencias, porque es parte de una ejecución. No necesito tener trazabilidades. En medir el valor, está toda la parte de... Yo defino cómo voy a medir los resultados. Si le he dicho que voy a incrementar un crecimiento a nivel de market share, bueno, avancé. Era 30% a nivel 30%. Dije que iba a reducir costos operativos, pues tiene que estar clave. Y el punto 7 tiene que ver con saber. Cuando yo llevo una iniciativa, puedo poder trabajar. ¿Qué va a marcar que tu iniciativa todavía
+37:36 Speaker 1: continúe?
+37:38 Speaker: Va a continuar siempre y cuando me siga dando buenos resultados. Pero si esos resultados que yo le digo, se caen, ¿qué va a suceder acá? Puede ser dos cosas, pausa, ¿no? ¿Dónde está generando el valor esperado? O puede ser que calibre, ¿no? Vamos a ajustar. Vamos a ajustar para que se ponga algo que yo he solicitado. Puede ser también que en este caso diga, no, este proyecto está...
+38:22 Speaker: a nivel de KPIs Para mí, yo me quedo en condiciones que yo, digamos, tomo en cuenta para saber, obviamente, si es que estoy teniendo los resultados esperados. Yo debería diferenciar, por ejemplo, las cosas, ¿no?
+38:47 Speaker: Para yo poder saber si algo le da resultado, es que el capri que yo he tomado por referencia está, digamos, acercándose a los valores petra que yo he sucedido, digamos, por los datos. Entonces. Yo debo ver dos cosas, por ejemplo, sobre todo en los temas de capital. Primero es la salida, lo que es producto. Por ejemplo, el tema de API, en forma de API, un capital podría ser API significado.
+39:15 Speaker: O socios estratégicos, partners, conectados, nuevos socios conectados. Podría ser un nuevo. En el tema de auto, que se llama la otra parte.
+39:55 Speaker: Entonces, yo lo puedo... empezar, y muchas veces eso es uno de los errores que se comete, diciendo, a ver, mi métrica es simplemente decir, ya han habilitado 20 nuevas artes, es decir, yo voy a pedir solo eso. Yo lo que tengo que más bien es introducir una variable que signifique qué ha sucedido cuando yo he dicho tiempo en el Estado porque es sobre 20 nuevas artes. Una mejor métrica sería reducir el tiempo de incorporación. Gracias. Gracias.
+41:26 Speaker: Estas son las tendencias que están. Primero está todo el tema de productos digitales. Efectivamente, se quiere lanzar mucho productos digitales. Productos digitales, para empezar, es aquel que tiene una experiencia en el web, donde la participación de la persona o el colaborador es cero.
+41:50 Speaker: Después, la guía para todo el tema de participación y por casa. La actitud empresarial y esta goberna, y finalmente el tema de modelos y videos, combinando temas. La IAE, el Comestrán, Pinox. Pinox, por lo que su concepto sería permite prácticamente poder tener mucho control sobre el consumo que yo tengo en las comunidades. Lo que me quiero asegurar acá es que lo que yo estoy consumiendo sea coherente con lo que estoy yo en este campo. Por ejemplo, el consumo... Gracias por ver el video.
+42:59 Speaker: Bien. Dicho esto, ahora sí vamos a volver a estar. Y vamos a un grupo de cuatro. Se llaman un grupo de cuatro. Van a ver estas cinco alternativas y van a plantear qué iniciativa de estas cinco son las que va a hacer.
+43:34 Speaker: Me parece que esta es una buena base de criterios que deben analizar para luego poder seleccionar sus cosas. Riesgo, hay un marketing de experiencia cliente. ¿Sí? Se reúnen en cuatro personas y empiezan a trabajar en el sistema. ¿Qué te hace? Gracias.
+45:08 Speaker 1: Ah, ese sí, era el tercero.
+49:39 Speaker: ¿Un corredor viene a ser el intermediario? ¿O algo que puede impactar en el trabajo también? ¿A largo del plazo? Claro.
+50:00 Speaker: Lo de socios y corredores, la plataforma de apis para socios y corredores. ¿Cuál es el tercer consejo?
+50:29 Speaker: ¿Eso sería el enlace con el lado? ¿Empacto e eficiencia sería crecimiento? ¿Experiencia sería personalización? ¿Riesgo sería eficiencia?
+50:50 Speaker: Sí, tiene que serrido. ¿Celeroso con la puerta? ¿No ves velocidad? Sí. Vaya, pero siempre tengo sentido. ¿Y la 7 días para recomendación y atención? El siguiente. El segundo.
+51:49 Speaker: ¿Cuál es lo que harías? O sea, viendo lo de arriba. O sea, lo tomaste en la persona. ¿Por qué eso no es
+52:42 Speaker: un...? Ya, pero yo pondría... ¿Por qué? Es que el ataque por algún proceso por el negocio, tienes menos tiempo de atención. Aquí no dice que existe ese problema. O sea, eso es ya un supuesto. Ah, eso sí. Pero no hay como información, yo diría eso. O sea, la compañía es un separador. Al final también impacta la diferencia.
+55:28 Speaker: Pero a través de dónde obtienes información. Pero eso no implica que necesariamente hay una persona más rápida. O sea, implicaría que tengas una actitud para integrar con la información. Es que
+55:39 Speaker 3: recuerda que...
+55:43 Speaker 1: A través de ellos, tú tienes a sus clientes, clientes contratando con los corredores. ¿Cuál de estas dos iniciativas está realizado?
+59:42 Speaker 3: La primera es la de la implementación de la visión 360 del cliente, porque nos permite tener una mejor data sobre el cliente mismo, sobre los servicios que normalmente se tiene dentro de la empresa. Y pues esto nos permitiría también influenciar básicamente en caso de que quisiéramos hacer mejoras en algún proceso o inclusive para poder hacer una mejor integración de canales digitales y sin poder utilizar mejor datos para tomar decisiones. Y el cuatro, porque se relaciona bastante con el lanzamiento en esto de nuevos productos, lo que también ayudaría a la competitividad con respecto a cómo es que está posicionada la empresa con respecto a sus otros competidores. Y también consideramos lo de la automatización del proceso de siniestro. pero queríamos saber si es que el hecho de que sean actividades manuales, la emisión y también el proceso de todos los inestos, el procesamiento de los inestos es un problema o no. Gracias.
+01:01:36 Speaker: Ok. Roger 1.3.
+01:02:49 Speaker 2: Gracias. ¿Qué es lo que queremos hacer? Porque toda selección siempre tiene una orientación. Entonces, para los que han escogido visión 360, Gracias.
+01:04:32 Speaker: Ahora, una cosa que tenemos que añadirle acá es que estas dos iniciativas pueden ser que su riesgo y su esfuerzo sea de bajo alegría. Entonces, para un comité directivo, más rápidamente
+01:04:58 Speaker 1: versus las otras, por ejemplo, si hubiera dicho no, para los que han escogido plataforma de arte,
+01:05:08 Speaker 2: están enfocando un enfoque de crecimiento. para poder integrar mejor hacia afuera. ¿Pero qué significa eso? Yo para poder tener eso, primero que tengo que construir los servicios. ¿Y los servicios de qué depende? ¿Y cómo está el coro? Está bajo. Podría hacer algo cuando el coro está bajo. Yo me lo tengo y ahora la nube.
+01:05:35 Speaker 1: Y ahí se puede hacer los servicios.
+01:05:37 Speaker 2: Recuerden que esta relación no es independiente.
+01:05:40 Speaker 1: ¿Ya? Pero
+01:05:41 Speaker 2: igual es válido. Digo, te pongo esta posición. Entonces, tendrían que haber puesto primero poder descender el coro. Cuando uno habla de movilización tecnológica, definitivamente acá está APIs y
+01:05:55 Speaker 1: está migración del cuerpo.
+01:06:04 Speaker 2: Y para los que no eligieron nada, primera parte también era la innovación que estaba relacionada al tema de la plataforma de IA. como un acelerador. Pero la IA por sí sola no te reemplaza ninguna capacidad del sistema.
+01:06:25 Speaker 1: Si no hay data, no
+01:06:26 Speaker 2: va a hacer nada de la IA. Si no hay AFIS, no va a hacer nada de la IA. Yo le inclusive, para yo publicarme a la gente, necesito los protocolos que llaman con un sensibilismo.
+01:06:35 Speaker 1: Si no hay nada de eso, la IA no se imagina. Y
+01:06:38 Speaker 2: eso quiero que se olvide de acá. Todas esas capacidades se requieren poderos de mente
+01:06:43 Speaker 1: y necesitan la IA como un acelerador.
+01:06:46 Speaker 2: se vuelve otra parte más de vista. Aquí no la ubicó, pero no continuó ningún resultado ni bien. ¿Vale? Entonces,
+01:06:52 Speaker 1: fíjense que hay escenarios, porque a eso depende mucho
+01:06:57 Speaker 2: de qué selección. Definitivamente la opción que más se ajusta debido al contexto, va por atrás. Las otras requieren cierta nivel, más riesgo, más
+01:07:10 Speaker 1: tiempo, no.
+01:07:11 Speaker 2: Estas son buenas orientaciones, pero creo que la combinación era suficiente.
+01:07:15 Speaker 1: ¿Preguntas hasta acá?
