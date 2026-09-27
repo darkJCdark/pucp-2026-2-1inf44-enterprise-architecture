@@ -1,0 +1,318 @@
+00:00 Speaker 1: Por ejemplo, no solo fuentes locales, sino procesos administrativos.
+00:13 Speaker: Eso, porque saben que eso es parte de lo que hacemos. Yo sé que en los próximos años, toda la parte de desarrollo se va a hacer crítica, yo debo estar pensando en hacer una fábrica de desarrollo, y
+00:32 Speaker 2: eso es parte de lo que hacen administrar la transformación.
+00:36 Speaker 1: está viendo todas esas
+00:38 Speaker 2: tecnologías que están apareciendo y cómo se aprovechan mejor dentro de una
+00:43 Speaker 1: organización. Entonces, por eso,
+00:46 Speaker 2: tiene temas de transformación. No solamente son temas de mejora, voy a maquillar esto, y está. No se trata de usar una tecnología por otra, sino se trata de impactar.
+00:59 Speaker 1: Cuando uno impacta, justamente logra los cambios que uno. Esta gráfica, por ejemplo, como ustedes,
+01:09 Speaker 2: la empresa, que está aquí arriba representada, tiene una serie de objetivos, siempre está planteado a dónde quiere llegar. La arquitectura dice el cómo, ¿no? Miren, el qué, la empresa. El cómo, la
+01:23 Speaker 1: arquitectura, el cómo, el diseño.
+01:26 Speaker 2: Entonces, la arquitectura empresarial está conectándolo todo de forma coherente.
+01:32 Speaker 1: Y aquí falta algo más. ¿Qué es lo
+01:38 Speaker 2: que les motiva? Las empresas también tienen motivaciones, no solamente financieras. Porque si fuera algo financiero, no
+01:46 Speaker 1: se resuelve con tanto rápido.
+01:49 Speaker 2: Las empresas muchas veces les motiva también empezar a evolucionar en lo que hacen. Plantearse otra manera de hacer las cosas. Y es ahí donde este concepto toma más fuerza.
+02:01 Speaker 1: Entonces...
+02:02 Speaker 2: La vida empresarial conecta la estrategia y hemos hablado de una serie de
+02:07 Speaker 1: acciones y muy planteados
+02:10 Speaker 2: para lograr objetivo.
+02:12 Speaker 1: Capacidades, eso lo vemos en la clase pasada.
+02:15 Speaker 2: Yo puedo tener una plataforma tecnológica más
+02:18 Speaker 1: valiosa. Lo que tengo es construir una
+02:20 Speaker 2: capacidad para que eso nos permita poder tener una ventaja.
+02:25 Speaker 1: No construyo la capacidad, ahora tengo la tecnología, no llego a nada.
+02:30 Speaker 2: Los procesos y los datos, ¿por qué hoy día? ¿Por
+02:35 Speaker 1: qué ha tomado mucha fuerza el tema de procesos y datos?
+02:37 Speaker 2: Porque se dieron cuenta que los procesos de tal manera como las organizaciones hoy día fluyen en
+02:44 Speaker 1: contra de cierta la pandemia.
+02:47 Speaker 2: Porque al enfrentar los arreglos donde no teníamos,
+02:50 Speaker 1: a todas las razones, en ningún lugar, se dieron cuenta que el proceso es importante saber cómo operamos.
+02:59 Speaker: por lo tanto, jornalando dos puntos a veces a favor, y están realmente, están físicamente en la empresa para poder hacer algo o hacer algo bueno. Y los
+03:10 Speaker 2: datos, porque yo genero datos a
+03:13 Speaker 1: través de las interacciones de los procesos, pero los datos hoy día no son multiplicados,
+03:17 Speaker 2: ya no es el dato solamente que grabo porque necesito
+03:20 Speaker 1: una venta.
+03:21 Speaker 2: Como es todo lo que ha ocurrido, es las percepciones de las personas cuando les hacen comentarios.
+03:28 Speaker 1: Están en redes.
+03:30 Speaker 2: Inclusive hay gente que sube cosas positivas o negativas del
+03:33 Speaker 1: producto. También es parte de la información.
+03:36 Speaker 2: Porque hasta acá escucha a veces lo que uno quiere ver, pero a veces otras personas es imposible. Entonces, traducimos la visión, la visión de la empresa, hacia donde quiere llegar, en decisiones coherentes. Entonces,
+03:52 Speaker 1: refuerzo lo que decíamos antes.
+03:54 Speaker 2: La arquitectura no es más que la toma de decisiones
+03:57 Speaker 1: correctas en forma temprana. En forma temprana. Y en anticipación,
+04:05 Speaker 2: porque todos van a querer tomar decisiones. ¿Cuáles son los principales propósitos de arquitectura? Ya hemos hablado de alinear toda
+04:16 Speaker 1: la parte del negocio
+04:18 Speaker 2: con la tecnología, entonces acá está el modelo operativo. A lo que no vamos a poder evitar es que esa... Creación o co-creación de nuevas soluciones, nuevas formas de utilizar la tecnología. Y
+04:42 Speaker 1: vamos
+04:43 Speaker 2: a hacer crecer a crecer nuestro proyecto. El hecho de crecer no significa que no tengamos en nuestro mindset que nuestro mindset es que si
+04:54 Speaker 1: encontramos una oportunidad simplificada, lo da. ¿Ok? A ver. Ya hemos hablado de la primera clase de dos sectos muy
+05:05 Speaker 2: importantes que hay en el CRM. ¿Se acuerdan de el CRM? Era donde yo tengo a todos los... Los actions, sobre todo las interacciones que tengo con los clientes, con mi cliente o con los clientes,
+05:17 Speaker 1: están en el cerdo.
+05:18 Speaker 2: Si el cliente me llamó, ahí lo guardo. Tengo que guardar la interacción, el audio se guarda en otro lado. Si el cliente le resuelve un reclamo, lo guardo ahí. Si el cliente dijo que era cotizar, lo guardo ahí.
+05:30 Speaker 1: Todo lo guarda ahí, porque es una interacción.
+05:34 Speaker 2: La pregunta que podríamos hacer nosotros es... Entonces, basado en que debe ser un centralizador de todas las situaciones con el cliente, ¿ustedes apoyarían que una empresa tenga más lucro de rendimiento? ¿Diferentes países?
+06:02 Speaker: No creo. ¿Pero quién piensa que sí deberíamos tener más de uno? ¿O todos piensan que deberíamos tener más? ¿Más grande? ¿Más grande? ¿Más grande? ¿Más grande? ¿Más grande? ¿Más grande? ¿Más grande? ¿Qué tipo de clientes, por ejemplo?
+06:52 Speaker: Aunque igual se puede organizar. No está mal era la idea, pero creo que le falta trabajar el tema del racional de por qué queremos tener una cosa. Ya para empezar, la teoría te dice que ya hemos dejado nosotros.
+07:07 Speaker 1: La teoría. Pero ahora lo que han dicho, que creo que también por ahí han tratado de hacerlo, creo que les ha faltado la muy sena definición más precisa.
+07:17 Speaker 2: Si ustedes comparan cómo funciona...
+07:22 Speaker 1: Para los clientes, persona natural, tiene un comportamiento. Es un comportamiento mucho más que quiere gestante. Es decir, y analizan la empresa si quieren, o sea, la educación, la educación,
+07:38 Speaker 2: la educación, cualquier algo. Van a ver que el tratamiento de una persona natural es muy estable. No hay mayor...
+07:59 Speaker: Y así funciona. Porque aquí les estoy leyendo. Y ahí está con eso. Y si quieren, aprendanlo ahora o lo van a aprender después de hacer el trabajo. Cuando van al mundo corporativo, se dan cuenta que él se vende a la empresa, ya no a la persona, sino a la empresa. Una minera. No le vendes a un individuo, le vendes a la empresa. ¿Qué es la empresa? Un conjunto de contratos. ¿Cómo creen que se le vende a una empresa? Porque al cliente lo contando, lo compenso y en fin, la empresa no es así. ¿Cómo le venden a una empresa? A través de contratos.
+08:45 Speaker: A través de contratos. Una empresa, en este caso, cuando también quiero vender un producto o servicio, tiene que ver una ganancia de hacer el negocio contigo. Porque es una empresa también. Por eso es difícil vender. ¿Qué le puedo ofrecer yo, o mi empresa, para que él me compre a mi producto? Y
+09:12 Speaker 1: ya empieza a cambiar las cosas.
+09:13 Speaker 2: Y es por eso que cuando
+09:14 Speaker 1: uno habla de comercialización,
+09:16 Speaker 2: para una persona individual, a una empresa, la persona individual lo contacta, le hace campaña, le hace la oportunidad, seguro para los empresarios no va a haber eso, eso es, la oportunidad,
+09:26 Speaker: la cotización y la venta, y así es. Y es un, como dicen, el ABC, el poquito de marketing, la campaña es así, va a ser así todas las empresas. Pero cuando uno empieza a ver el mundo empresarial, el mundo de las empresas, ya no es así. Entonces el comercial de una empresa, no el ejecutivo comercial que viene de una empresa, no es que yo necesito la oportunidad, que yo le hago. Yo lo llamo, lo llamo a través de tu contacto, y le digo quiero hacer un negocio contigo. Y vamos a hacer de repente una reunión, una reunión de negocio.
+10:02 Speaker 1: Entonces le hago visitas, hay almuerzos, hay llamadas, hay todo eso para que luego se quiera preguntar. ¿Cuál es el interés de conversación y de identificar las interacciones del sistema?
+10:22 Speaker: La cantidad de interacciones que yo tenga con esa persona o esa empresa es más interacciones en el video, más probabilidad en el video. Así es. ¿Están cuenta? Es diferente. Una cosa es tener algo muy estándar en personas y empresas que se va tropicalizando y organizando.
+10:43 Speaker: No lo estoy viendo. Y ahí es donde justamente entra ese tema. Si
+10:49 Speaker 1: el CRM funciona
+10:51 Speaker 2: bien para personas, ¿qué pasa cuando quiero llevar a la empresa?
+10:55 Speaker: Fracaso. Lean. Investigue si quiere. Busque proyectos de CRM de empresas que hayan sido exitosos.
+11:05 Speaker 1: Es menos de 20 cosas. Porque ¿qué significa? Porque para yo llevar que usted rente al mundo del segmento de empresas, al objetivo de empresas, no quiere hacer lo que me gusta hacer otro, cambiar la foto. No lo va a hacer.
+11:21 Speaker 2: Entonces, ¿qué se propone con ese tipo de...? Porque sí tiene una solución. También la pueden estresar con inteligencia. ¿Qué solución se le da? La solución que le das es que tú sigas siendo tu día a día.
+11:35 Speaker 1: En tu calendar, marcas con tu llamada, con tu almuerzo, con tu tienda, con tu chat, no importa dónde lo hagas.
+11:44 Speaker 2: Toda esa información yo la voy a automatizar para que el grupo... Es la única manera que se puede lograr.
+12:05 Speaker: Pero lo que estás haciendo es usar una fachada. Te das un interfase mucho más flexible, como Teams, como una herramienta de chat. Ellos ahí interactúan y todo lo que sucede ahí se va a transformar en oportunidad, es en Teams, por abajo. Y él y se entera. Pero ya tiene que ver.
+12:25 Speaker 1: Eso es lo que está pasando cuando, otra vez, nosotros dejamos de percibir todo y nos buscamos en el carro. Por eso les decía, de repente hoy día, porque no también a veces de este tipo de situaciones que pasan. Es una herramienta de desarrollo que me cuesta denunciar para personas.
+13:04 Speaker: ¿En qué momento podría ser uno? El merch o la simplificación. Entonces, este tema de simplificar siempre tiene que estar en nuestros países. Porque siempre hay que simplificar cosas, simplificar artes, simplificar aplicaciones, simplificar integraciones, inclusive.
+13:37 Speaker 2: Hoy día hay muchas integraciones que se hacen, que al parecer también son innecesarias. Finalmente una integración es una educación que hay, pero si yo para poder, por ejemplo, cotizar, llamo a cinco apix, salgo de estar mal. Porque me parecería muy raro que para hacer una acción, yo tengo que hacer cinco
+13:57 Speaker 1: integrales, voy a bajar.
+13:59 Speaker 2: Eso no funciona bien, o alguien lo diseñó de una manera fundamental. Entonces, por eso les digo, siempre hay oportunidades. integraciones o módulos. Esto tiene que estar, porque lo que buscan, como dicen, es poder ordenar. Cuando menos tengo, más fácil de expresionar.
+14:17 Speaker 1: Tengo también que tener la capacidad para priorizar,
+14:20 Speaker 2: porque en la arquitectura voy a implicar problemas en muchas áreas. Ustedes pueden ver que la arquitectura, ¿qué tal como lo dicen? Tengo que modernizar el cobre. Tengo que modernizar los
+14:33 Speaker 1: canales.
+14:34 Speaker 2: Otro día no, tengo que crear una capa,
+14:37 Speaker 1: un channel, un canal.
+14:39 Speaker 2: Tengo que crear un workflow,
+14:41 Speaker 1: una organización, no sé.
+14:43 Speaker 2: Lo que ustedes vayan a encontrar, al final lo que va a significar es una serie de priorizaciones. Porque no todo lo puedo hacer
+14:50 Speaker 1: inmediatamente. Cada bloque me va a dar respuesta. Valor obtenido,
+15:01 Speaker 2: corto y menos plazo,
+15:03 Speaker 1: versus solamente los recursos. Hoy día, vengo a pagar vuelos. Tengo en la empresa donde estoy, tengo un contrato de dos años, me estoy pagando guión, mil dólares,
+15:38 Speaker 2: que se integra con mi plataforma contable. Ahora, todo esto le pertenece a un mismo fabricante, y en este caso, el corazón.
+15:49 Speaker 1: Este componente de día que le cuesta un
+15:51 Speaker 2: millón porque esto tiene otro precio. Nos está limitando el crecimiento.
+15:57 Speaker 1: Entonces tenemos que reemplazar. Entonces han surgido las dos preguntas. Cuando construimos o
+16:05 Speaker 2: compramos algo parecido, pero que ya no va a tener esta marca,
+16:09 Speaker 1: sino otra marca. Entonces empiezan a hacerse los análisis.
+16:14 Speaker 2: Y obviamente significa que acá tienes una oportunidad de ahorro
+16:19 Speaker 1: alrededor más o menos de 200 mil dólares por la vida. Si lo construimos. Mientras que si lo compras, vas a tener un ahorro aproximado de entre
+16:29 Speaker 2: 10% a 15% porque también no es que el precio que usted cobra es
+16:33 Speaker 1: un millón, esto te lo puede bajar sin agua.
+16:36 Speaker 2: Entonces dice,
+16:41 Speaker 1: vamos por esto. Hasta esto puede ser que el tema técnico lo resuelve. ¿Qué no resuelve?
+16:48 Speaker 2: El tema contractual.
+16:50 Speaker 1: ¿Por qué? ¿Qué sucede aquí? ¿Qué decía yo? Que todo le pertenece
+16:55 Speaker 2: a un único vendor.
+16:57 Speaker 1: ¿Qué pasa si el vendor tú le dices, ya no quieres? ¿Tú crees que va a ser una resta? Ah, si me pagabas un millón más,
+17:07 Speaker 2: lo que costaba esto, que era cuatro millones, entonces ahora me vas a pagar. Si dices que esto, él dice, tú me pagas cuatro millones.
+17:15 Speaker 1: ¿Crees que funciona así? ¿Cómo crees que funciona?
+17:22 Speaker 2: ¿Tú quieres quitar este componente?
+17:24 Speaker 1: ¿Qué sucede? ¿Por qué no va a perder?
+17:33 Speaker 2: Y lo puede hacer. y esto no se resuelve en el tema técnico,
+17:52 Speaker 1: se resuelve más en el tema contractual.
+17:55 Speaker 2: Aquí lo que hay que hacer
+17:56 Speaker 1: efectivamente es ver una mejor negociación para que no me salga
+18:00 Speaker 2: cuatro, bueno, no va a salir cuatro, tampoco quiero que me salga cinco.
+18:05 Speaker 1: Pero al menos, si
+18:06 Speaker 2: me sale 4.5, estoy bien.
+18:11 Speaker 1: Pero esa es parte de una negociación.
+18:16 Speaker 2: A eso le digo cuando he caído en la arquitectura, a ver más salida de su realidad. Todo se puede hacerlo.
+18:23 Speaker 1: Tiene menos impacto que pueda dar. Y
+18:25 Speaker 2: eso significa conocer bien qué cosa está dentro de cada solución. Inclusive, a quién le pertenece.
+18:37 Speaker 1: gobernar toda la parte de reglas,
+18:39 Speaker 2: principios, hasta los principios de regla autodiseño, el tema de decisiones que vas tomando,
+18:45 Speaker 1: bueno, que la documentes, si hay excepciones también, excepciones
+18:48 Speaker 2: a que generalmente se produce, a la deuda del dinero.
+18:54 Speaker 1: Por ejemplo, hoy en día, algunas empresas han
+18:58 Speaker 2: hecho bloqueantes para que las aplicaciones que son expuestas hacia los cuares finales o los clientes finales no se han hecho banal. Están en la web, las publican en la web. Si tienen observaciones de severidad alta, ya no dejan que vuelvan a forzarse. Si tú quieres hacer un cambio, te dicen, hay que arreglar todo lo que está ahí. Ahora tú le puedes decir a un proyecto que quiera hacer un cambio pequeño, que haga todo un cambio significativo a la aplicación, ¿qué pasa que tú puedas hacer? Como que yo diga, voy a hacer un esfuerzo a uno, para hacer un cambio pequeño,
+19:39 Speaker 1: para crear un campo,
+19:41 Speaker 2: o de repente una iteración nueva, y me estás pidiendo que prácticamente todo
+19:46 Speaker 1: el back lo
+19:47 Speaker 2: modifique, que tiene vulnerabilidades, que se ha hecho más práctico. Es difícil que tú puedas lograr eso. Hay veces que se contienen excepciones. Una excepción es eso, una excepción a la dedo auténtica. Es decir, tocas un componente que está con dedo auténtico y deberías mejorarlo, arreglarlo, pero como no hay presupuesto para hacerlo y no es el foco,
+20:07 Speaker 1: es iniciativa hacerlo, entonces generas
+20:10 Speaker 2: una excepción. Para que pueda obviamente continuar. Entonces la arquitectura, como dice, agrega valor cuando mejora la calidad de decisión y evita que cada proyecto implemente su propio mapa del mundo.
+20:27 Speaker 1: Aquí hay que tener mucho cuidado, no les vaya a pasar eso a ustedes, se lo repartirán un poco primero de esta semana. Si
+20:33 Speaker 2: ustedes tienen su arquitectura
+20:35 Speaker 1: global, compártanla con los demás grupos,
+20:38 Speaker 2: para que de esa manera puedan tener una única arquitectura global, una única. Porque eso significa que todos partimos del mismo
+20:45 Speaker 1: mapa tecnológico.
+20:47 Speaker 2: Y a partir de ahí, cada uno lo
+20:48 Speaker 1: tropicaliza para su proceso.
+20:53 Speaker 2: Porque eso puede pasar acá, esto, ¿no? Si cada uno trae su versión de lo que entendió y su propio mapa tecnológico, pues es difícil que luego coincidan. Porque para lo que yo entendí del sistema POS, el otro lo entendió también.
+21:09 Speaker 1: Entonces la idea es que partamos de una única pista. Si
+21:16 Speaker 2: no, como dice, cada uno emprende a su
+21:17 Speaker 1: propio mapa. Acá está justo que lo decía de Morty Fuller, porque hablaba acerca de eso.
+21:29 Speaker 2: Tomar decisiones de manera temprana, las más coherentes, las más precisas, las más correctas. Y uno se podría
+21:34 Speaker 1: preguntar qué decisiones tengo que tomar como arquitecto.
+21:37 Speaker 2: Pues todas esas que están aquí.
+21:39 Speaker 1: Y no es menor. Por ejemplo,
+21:43 Speaker 2: si hablamos en el tema de data,
+21:45 Speaker 1: ¿qué te está diciendo ahí? Por ejemplo.
+21:47 Speaker 2: Los datos de la infraestructura,
+21:50 Speaker 1: toda la sensibilización de la plataforma, ¿dónde va a estar?
+21:53 Speaker 2: ¿Lo dejo en la consola de la nube o lo voy a ver en una herramienta especializada para que empiece a turnear mi plataforma? Los datos relacionados a mis transacciones, ¿dónde los voy a almacenar? ¿En una base de datos relacional, no relacional, cifrada? ¿Qué datos voy a cifrar? ¿Cuál es la mejor forma de persistir esos datos? Los datos, por ejemplo, de contenido, video, audio, imágenes, documentos PDF, ¿dónde los voy a almacenar? Ya hablábamos que hay que separar. Una cosa es datos, si quieres, transaccionales, estructurados, y otra cosa son datos de contenido. No se almacena en ningún lugar. Aunque yo sé que hay unas bases de datos que se proponen almacenar, pero no es suficiente. Estos tienen que estar en un componente, que hemos llamado SM,
+22:44 Speaker 1: y este tendrá que estar en otro componente.
+22:46 Speaker 2: Hay decisiones que estamos tomando. Igual, si hablamos de las aplicaciones core o las aplicaciones
+22:51 Speaker 1: de soporte, igual acá,
+22:54 Speaker 2: ¿qué tecnologías de front, qué tecnologías de back voy
+22:57 Speaker 1: a utilizar?
+22:58 Speaker 2: ¿Qué lenguaje de programación voy a utilizar?
+23:04 Speaker 1: El motor de base de datos también es importante. hoy día que la
+23:12 Speaker 2: nube me ofrece motores de vasodos diferentes. ¿Cuál es el que debo tomar? Hace poco,
+23:19 Speaker 1: estuve con el alumno, un estudiante que me gustó este concesionario, y yo
+23:22 Speaker 2: se está enfrentando a un caso de arquitectura y me estaba preguntando. Interesante el contexto, dice, esta empresa no
+23:30 Speaker 1: tiene equipo de T.
+23:32 Speaker 2: Entonces, quiere algo, lo menos, vamos a decir, que requiera gente ley, que no la tiene. Y él me preguntaba,
+23:41 Speaker 1: ¿cómo hago?
+23:43 Speaker 2: ¿Cómo pienso en el motor de base de datos? Porque quiero saber más temas. Pero si en un momento tuviera que pasarme a una escena más enterprise,
+23:55 Speaker 1: que eso implique
+23:56 Speaker 2: que yo pueda cambiar todo. Que eso que es un lado que está hacia todos, al momento de llevarme el otro, me romperé. Entonces yo decía, piensa en portabilidad, piensa en capas amnósticas, piensa en temas de laboratorio,
+24:09 Speaker 1: porque eso justamente, todos esos conceptos, de
+24:12 Speaker 2: ahí se llama la tecnología, la tecnología de tu propuesta de servicio. Entonces yo decía, Decisiones a nivel de nube, por ejemplo, ya hemos hablado de esto, ¿no? Nube pública, nube privada. ¿Quieres un formato SAS, un formato PAS?
+24:50 Speaker 1: ¿Mías? El tema de escalabilidad de la extensidad. El tema
+24:53 Speaker 2: de, por ejemplo, la disponibilidad.
+24:56 Speaker 1: Espero que se haya entendido bien.
+24:59 Speaker 2: Creo que es un concepto que va a venir en el examen. Que se entienda bien que la disponibilidad no se trata de si yo a todo lo duplico y con eso consigo mi disponibilidad 99.9999. Se trata de saber qué elementos son los que yo debería llevar hacia otro lado para poder obviamente lograr ese seguir funcionando.
+25:20 Speaker 1: Y la otra problema también tiene que ver con ser resiliente.
+25:24 Speaker 2: Como una vez les expliqué, si mi aplicación se cae y se cae y no funciona, ese principio de resiliencia prácticamente no lo estoy cumpliendo. Entonces, ¿qué es lo que le decía? Si una aplicación no puede transaccionar, ¿qué debería al menos hacer? Al menos debería poderse consultar.
+25:45 Speaker 1: Ahí estoy siendo resiliente.
+25:47 Speaker 2: Tiene que adecuarse, no transacciona, pero se puede consultar información. A nivel de integraciones, toda la parte que te permite, por ejemplo, el tema de identidad,
+26:02 Speaker 1: como el tema de intercambios
+26:03 Speaker 2: credenciales, como manejo el tema de interconexión con
+26:09 Speaker 1: proveedores, con socios externos.
+26:13 Speaker 2: con mi estrategia Y había otra parte que dijo algo que me pareció más sensato, ¿no? Dijo,
+26:46 Speaker 1: ¿cuál es tu estrategia?
+26:48 Speaker 2: ¿Cuál es tu estrategia? ¿Tú cómo ves el mercado? ¿Dónde quieres crecer en los próximos años? ¿Y a través de quién? ¿Qué canal es el que tú quieres explotar? Entonces se analiza, ¿no? Acá están mis intermediarios, son los brokers. Acá está el mundo digital, comunidad, un web privada. Y acá están los socios estrategicos,
+27:05 Speaker 1: que no son brokers. Es el unribble, ilusada. igual vas a crecer. Porque el que
+27:16 Speaker 2: necesita APIs es
+27:17 Speaker 1: el broker. ¿Por qué el broker necesita APIs? Porque el broker es una mini empresa de seguros. Que también tiene su sistema,
+27:23 Speaker 2: al cual muchas veces le cuesta ingresar dos veces la información. Porque él vende los seguros.
+27:28 Speaker 1: Pero cuando él vende los seguros, no hace su sistema.
+27:31 Speaker 2: Pero cuando tú le dices, tienes que entrar al sistema para llegar a lo mismo que está haciendo prácticamente el objetivo de esa empresa,
+27:37 Speaker 1: entonces entras al sistema y entras al sistema. Eso se llama OPA productiva.
+27:43 Speaker 2: Por eso sí que nos abre interconexión. Yo lo hago acá, y para abrir interconexión es muy buena información.
+27:49 Speaker 1: Así funciona. Entonces,
+27:51 Speaker 2: ¿por qué le decía que cuando se dijo que... Sí va a ser a través de los esfuerzos estratégicos
+27:57 Speaker 1: o el crecimiento, porque están yéndose
+28:00 Speaker 2: a
+28:01 Speaker 1: vender volumen.
+28:02 Speaker 2: Estos seguros que son de bajo costo, seguros de gravamen, protección a tarjeta y entre otros, son seguros que valen un poquito, pero que se ven masivamente. Y es ese negocio que queremos entrar de manera masiva, fuerte. No solamente con unos... con las agarritas, sino con las cajas rurales, las pymes, ahí es donde queremos entrar. Pero eso significa que no necesito la integración. ¿Qué necesito? Una plataforma de tramas que maneje
+28:30 Speaker 1: volúmenes. Eso no es algo necesario. Entonces, no necesito amplificar todo.
+28:37 Speaker 2: Estaré amplificado lo necesario para seguir manteniendo mi estrategia de conexión entre mis sistemas. A través de los procesos, por ejemplo acá, ¿no? ¿Qué tengo que decidir? Por ejemplo, dicen, voy a hacer un workflow. La primera pregunta que he escuchado que hace alguien es, ¿es fácil o fácil de hacer un workflow? Yo diría que esto tiene que ver con las características
+28:59 Speaker 1: de eso.
+29:00 Speaker 2: Por ejemplo, si es un workflow que itera en un solo paso. Pero en cambio, si me dicen, acá hay una regla, acá
+29:14 Speaker 1: hay una respuesta, acá
+29:15 Speaker 2: espero una respuesta, eso es muy fácil, acá en este momento me dicen, acá en este momento me va a regresar, me va a regresar, me va a regresar, me va a regresar, me va a regresar, me va a regresar. Tengo que decir dónde van las reglas de negocio. Reglas es lo que más se escucha en el mundo de informática.
+29:39 Speaker 1: Todo el mundo dice esto es una regla, es una regla. No
+29:41 Speaker 2: es que sabemos que es una regla.
+29:44 Speaker 1: Sabemos que es una regla. O lo estamos hablando simplemente porque no hemos escuchado este concepto.
+29:49 Speaker 2: Suena bien.
+29:50 Speaker 1: Una regla es una condición que obviamente
+29:52 Speaker 2: me permite tomar un accidente. Pero ahí está este tipo de reglas, reglas técnicas. Y un formato, este campo está vacío,
+29:59 Speaker 1: es un nuevo rechazo. O este campo viene con, vamos a decir,
+30:04 Speaker 2: un campo numérico, me viene con dos decimales y yo siento que son enteros. O viene un campo numérico y viene negativo, si yo debo aceptar el número positivo,
+30:13 Speaker 1: son enteros.
+30:15 Speaker 2: ¿Se dan cuenta? Esos son grandes medidas, pero es que esa era una regla de negocio, aquella que estaba ordenando el producto. Y hay reglas directamente relacionadas a la
+30:24 Speaker 1: empresa como relacionadas al producto en sí.
+30:28 Speaker 2: Y hay que decidir, ¿dónde vamos a implementar esas retas?
+30:31 Speaker 1: ¿Dónde el código? Esa es la peor decisión de cuando van a tomar. Porque la realidad cambia.
+30:37 Speaker 2: Entonces, ¿dónde hay que implementarlas? Hay que tener un motor, un componente afuera, donde yo puedo gestionar eso,
+30:43 Speaker 1: darle tratamiento.
+30:48 Speaker 2: Entonces, son muchas, acá la verdad que solamente están las principales, pero de estas, la lista se puede extender. Entonces sí hay que
+30:54 Speaker 1: tomar muchas decisiones
+30:56 Speaker 2: conforme uno va construyendo el diseño. Y cada una de ellas, ¿qué tiene que tener? Un racional. ¿Por qué tomé esa decisión?
+31:04 Speaker 1: ¿Cuál fue mi supuesta?
+31:06 Speaker 2: Para que de esa manera, cuando obviamente vengan
+31:08 Speaker 1: las discusiones, porque la van a ver,
+31:10 Speaker 2: que yo diseñe una arquitectura, yo supiero que se acostume en eso. Cuando vamos a venir a la exposición, obviamente yo lo que busco es, sobre lo que ustedes plantean, hacer algunos cuestionamientos, desde el punto de vista del entendimiento y
+31:25 Speaker 1: de lo que ustedes mismos están aprendiendo.
+31:27 Speaker 2: Entonces lo que tiene que haber de ustedes es una respuesta, una lógica, un sustento, un
+31:32 Speaker 1: pasado, un
+31:33 Speaker 2: análisis, y obviamente tomando en cuenta
+31:36 Speaker 1: estos supuestos, los propuestos. A eso se llama sustentación.
+31:41 Speaker 2: No es simplemente presentar el dibujo y decir, ahí está, ahí está,
+31:44 Speaker 1: quiero mi nombre.
+31:46 Speaker 2: Y es obviamente que ese dibujo, ese diseño, esa propuesta,
+31:49 Speaker 1: tenga un sustento racional.
+31:55 Speaker 2: Para irse hablando, antes de
+31:56 Speaker 1: irnos al brinco,
+31:58 Speaker 2: ya lo había dicho, no es necesario nada más. Tampoco es solo tecnología, porque ya
+32:05 Speaker 1: hablamos acerca de la cosa que pasara todo, que la tecnología no me crea una capacidad.
+32:12 Speaker 2: Tampoco es un proyecto aislado. Este es un concepto, inclusive, ni siquiera de arquitectura. Un proyecto, finalmente, ¿qué es? Tiene un inicio y un fin. Acá no hay inicio y fin. Una vez quedado, esto es una
+32:22 Speaker 1: forma de trabajo, como una práctica. Y esto creo que sí es importante declarar lo que diría la arquitectura pública.
+32:29 Speaker 2: Hoy ya muchas áreas de arquitectura, inclusive, ya no forman
+32:33 Speaker 1: prácticamente áreas de tejido. Si no, son como pares.
+32:41 Speaker 2: Porque se ha identificado que la arquitectura es clave en toda la organización.
+32:45 Speaker 1: Y así tiene que haberse.
+32:47 Speaker 2: Si yo le hago un par de una ETI muy de suporte, muy de desesperada,
+32:51 Speaker 1: ¿qué va a suceder? Que la arquitectura simplemente es como un servicio master. Porque quiero una laptop. Entonces quiero utilizar mi arquitectura. Yo no quiero un servicio arquitectura.
+32:59 Speaker 2: Quiero que la arquitectura me ayude a diseñar mi estrategia. que me ayudan a resolver problemas, que me genere valor en los diferentes puntos. Entonces, no puede ser una responsabilidad sobre ti. ¿Qué significa que la arquitectura lo que está haciendo es co-crear? Co-crear soluciones a través de diferentes actores.
+33:16 Speaker 1: Digocio, desarrollo, operaciones, seguridad. Todas las personas que participan,
+33:21 Speaker 2: que hacen mover una empresa,
+33:23 Speaker 1: las arquitecturas empiezan a orquestar para
+33:26 Speaker 2: generar algo.
+33:28 Speaker 1: Bien, hasta ahí.
+33:30 Speaker 2: ¿Preguntas? ¿Dudas?
+33:32 Speaker 1: ¿Estamos? Esto simplemente es un concepto. Vamos a entrar a ver las capas de
+33:37 Speaker 2: arquitectura antes de ver este trabajo práctico de ahora. Vamos a firmarnos un día de 15 minutos y regresamos.
+
+
+00:00 Speaker 1: que queremos mejorar. Entonces, ese era el primero que debemos saber cómo lo debemos mejorar. La primera ejercicio que hicimos fue el ejercicio de Jhonny Todaklaus, ¿verdad? ¿Por qué es importante que ustedes identifiquen qué difícil es a veces que una empresa lleve toda su infraestructura a la nube? Por tanto, hoy día no podemos ingresar a un negocio de 24% sabiendo que es donde se produce. Inclusive, para hacer 24% aparte de la nube, Aquí están los cuatro vías de arquitectura. Todo está conectado. Hay una herramienta de arquitectura que ya se la podrían ir descargando. Se llama Archipelite. Esta herramienta te enseña a modelar por capas. Negocios, te enseña a modelar capacitaciones, datos. Esta herramienta te hace entender muy bien este concepto. Porque habla de que mientras tú estás modelando, te vas dando cuenta cómo estás haciendo. Y eso es lo que te dice acá, que todo esto está conectado. Cambiar una aplicación, cambiar el dato, cambiar la estructura donde lo necesitamos, muchas veces va a afectar a los demás. ¿Por qué? Esta es una relación tecnológica. La arquitectura de negocio principalmente va a usar los procesos. Pero acá estaba el tema. A nivel de aplicaciones, para que quede claro, no solamente son las aplicaciones de Pro-Office o Back-Office, sino también que es el tema de integración. Acá es el tema de integración. En el tema de datos, estamos hablando de la parte de datos, pero datos como unidades. Así que es más importante que un input y un proceso de negocio. La base de datos no pertenece a la registro de datos. La base de datos es un... Así como es un componente de infraestructura, todo el tema de redes, con la parte de storage, cuando uno habla de almacenamiento, está en esta capa. ¿Por qué debemos separarlo? Porque cuando ustedes analizan, no pueden mezclar papas con pamotes. No pueden estar analizando la base de datos, pensando que pertenece a esa capa y pensando que ahí está el problema. Simplemente no entender que no se analiza y comparte el tipo de datos. ¿Por qué? Baseatos. Hacer un componente de infra, si tiene un problema la baseatos, puede ser un problema de desarrollo o puede ser un problema de qué calidad toma la configuración de esa baseatos. Igual, cuando usted tiene un problema en esta capa, sobre el tema de integración, muchos piensan que es la lógica de desarrollo, pero no se fijan que hay una infraestructura de la que usted puede tener algunas cosas bloqueadas que hacen que ese servicio no... Vamos a entrar a hacer un doble check, sobre todo algunas cosas interesantes. Por ejemplo, ¿qué debe responder una capa de negocio a nivel de arquitectura? Primero, capacidades. ¿Qué capacidades, qué procesos, qué servicios necesita la organización? Ojo que este servicio es un servicio de negocio, diferente a un servicio de aplicación. ¿Es un servicio de aplicación? Es consultar cliente. Registrar una venta. Generar una factura. Ese es un servicio de aplicación que pertenece a un sistema y por eso es parte de un sistema. Por eso se dice servicio de aplicación. ¿Qué es un servicio de negocio? Piensen ahora cuando ustedes van a retirar dinero. Si ustedes quieren hacer un retiro de dinero hoy en día, ustedes tienen muchas formas de hacerlo. Por ejemplo, puedo ir a un caje automático y sacar dinero físico. Puedo ir... a una agencia bancaria y retirar mi dinero. O puedo hacerlo desde mi aplicación. Puedo hacer una transferencia. ¿Vale? Entonces, ¿qué estoy haciendo finalmente? O a través de una vía de tres vitales ya. El servicio de negocio de retirar dinero tiene muchas formas de implementarse. Por lo tanto, para el cliente, el cliente simplemente se enfoca en quiero retirar mi dinero. Por lo tanto, es un servicio de negocio para él. La forma como tú lo implementes en el cómo, esa es la
+04:55 Speaker 2: empresa, cómo quiere
+04:56 Speaker 1: ser multicanal o unicanal para que pueda ofrecer ese servicio de negocio. Otro ejemplo es el tema de las citas. Hoy día las citas son citas presenciales o citas virtuales. El cliente simplemente quiere un servicio de citas virtuales. Si es virtual, si es presencial, no lo diferencia. Quiere el servicio de citas virtuales. Por eso se llama servicios de negocio. No se le llama servicios de aplicación. Estos servicios son servicios de negocio. Pensando en el servicio de negocio, no pensando en que el cliente tropicaliza según su entidad.
+05:32 Speaker 2: Simplemente tiene una
+05:33 Speaker 1: necesidad y ofrece sus diversas formas de pesado. A nivel de datos, es la información que se requiere, quién la posee y con qué calidad. La calidad es importante porque sin calidad yo no puedo generar nada. Aplicación. aplicaciones que soportan los procesos y como estas se integran y finalmente la tecnología sobre toda la infraestructura y todos los controles para obviamente operar todo esto que estamos hablando entonces a nivel de arquitectura y negocio la frase que dice arriba dice desde la estrategia hasta las capacidades claro porque yo estoy acá hablando mi conjunto de acciones, habilito capacidades a través de la tecnología, que influyen en los procesos que finalmente la organización utiliza. Porque en la primera clase también decíamos, ¿cómo interactúa cualquier cliente? Cuando dice, voy a hacer una transacción con esta empresa, a través de esos procesos. Y esto es indiferente si la empresa lo tiene documentado en su proceso. Existe un proceso. La organización se mueve a través de los procesos que soportan incapacidades y que eso apunta y aumenta la estrategia que se está cumpliendo. Entonces, aquí ya empezamos a hablar en este dominio de algo que es el estrategio que se llama mapa de capacidades. ¿Qué es un mapa de capacidades? Lo resumíamos. Son las cosas de capacidades. Es lo que la empresa es capaz de hacer. Vender, por ejemplo, cotizar, por ejemplo, fidelizar un cliente, por ejemplo, gastar un cliente, por ejemplo, diseñar otros servicios. Eso es lo que una empresa está para hacer y por eso se llama mata y capacidades. A eso hay otro concepto que se le daría que es la cadena de valor, que seguro que ustedes ya lo han escuchado. Significa que todo esto que yo estoy capaz de hacer, es lo que me da el nego diariamente. A eso se llama cadena de valor. Y si yo afecto la cadena de valor positivamente, o voy a tener un resultado bueno en el estado de análisis. Los mapas de procesos y servicios, mapas de procesos, se acuerdan divididos en tres niveles, los que dan dirección, los que forman parte del core business y la parte de soporte. Y finalmente todo el tema de actores y actores y unidades organizacionales. ¿Para qué me servirá? Estos van a preguntar la estructura de una empresa, la empresa del caso. Queríamos simplemente asumirlo. el directorio, la experiencia general, son sus cinco áreas principales. Si ese fuera el caso, ustedes cuando ven una estructura, porque, a ver, esto es lo importante de la lámina anterior. Si alguna vez se orientan al tema de negocio, procesos, en fin, que todos sus artefactos yo los voy a utilizar porque me dan un insight interesante, ¿no? ¿Para qué me servirá saber cómo se estructura la persona? Porque si yo encuentro una empresa que tiene muchos niveles de jerarquía, La empresa es más plana, quiere decir que se mueve más rápido. Ahora, si la empresa lo que está haciendo es tener una estructura matricial, eso quiere decir que hay muchos reproduzables. Esas son las lecturas que ustedes quieren manipular la estrategia cuando ustedes están acercándose a una empresa que es muy jerárquica. Esa es la lectura que me da cuando yo me enfrento a empresas. Ahora, este es como un decálogo para definir un mapa de capacidades. en algunos casos son vamos a hacer papers o digamos ya frameworks que ustedes pueden encontrar disponibles para el mundo del hotel me imagino que también debe haber alguno igual les dije que es un artefacto para todos pero tiene que ser lo más completo pero si en caso de ustedes dicen no encontré nada y quisiera crear ese mapa de capacidades como mi hoja en blanco, pues empiecen por esto. Primero, ¿qué dice? Las capacidades de negocio definen lo que hace una empresa, no cómo un negocio hace algo. Eso es importante. ¿Qué es lo que es capaz de hacer? No cómo lo hace. Segundo, las capacidades de negocio son sustantivos, no verbos. Yo no hablo de registrar, de crear, diseñar. Yo hablo de, por ejemplo, gestión de talento humano. Es un sustantivo. Lo otro, las capacidades de negocio se definen en términos comerciales, no términos técnicos. No puedo hablar de una capacidad, por ejemplo, gestión de Salesforce, gestión de Dynamics. No puedo hablar de una tecnología. Tengo que hablar de gestión de CRM. Es una capacidad que tengo. Las capacidades de negocio son estables. Claro, si ustedes saben que una empresa, para poder obviamente operar, requiere esa capacidad, esa capacidad es algo que lo va a comer. durante toda la vida de la empresa. No puede desaparecer. Si algo aparece o desaparece, entonces esa es una capacidad. Las capacidades de negocio no son redundantes. O sea, no debería haber cosas que se interceptan. Ojo en este punto. Solo existe un mapa de capacidad para toda la organización. Es decir, yo no puedo tener un mapa de capacidad de grupo 1, de grupo 2, de grupo 3. Es el mismo. Y debe ser el más completo posible. que abarca toda la organización. Las capacidades de negocio tienen relaciones con las suplementaciones y arquitecturas futuras de TI. ¿Cómo así? Cuando ustedes van a ver el mapa de negocio, una cosa que se van a encontrar es mi problema, el proceso que estoy abordando, va a impactar en esta capacidad 1, capacidad 2, capacidad 3. Cuando digo que va a impactar, es que ustedes van a transformar esas capacidades. a mejorar. A partir de eso, ustedes pueden decir, voy a diseñar en mi arquitectura cómo esa capacidad va a mejorar. Voy a plantearme algo. Porque lo que estoy esperando es que esa capacidad pase de un estadio, digamos, rojo, amarillo, a un estadio verde. O sea, algo más positivo. Punto nueve, las capacidades de negocio automatizadas siguen siendo capacidades comerciales, no capacidades técnicas. Sí. Según ustedes, el ejemplo más claro es, las empresas, la mayoría, manejan una capacidad que tiene que ver con la gestión de su contact center, ¿no? Todo el tema central de llamada. Todavía esas capacidades, si quieren automatizar a través de agentes post-automatizadas, que hoy día inclusive que se ha lanzado el nuevo fichur de ya en varias herramientas de IA, la voz ahora está más humanizada. ¿Por qué ser un bloqueante? Porque tú escuchas una voz muy robotizada, pues no te agrada, no la escuchas, y mucha gente que es inteligente termina la llamada. Pero si la voz es humana, ¿qué es una voz humana? Una voz que demuestra el sentimiento, que se ríe, que hace preguntas normales, que no se le nota tan forzado la manera de hablar. Bueno, ya hay ese tipo de voz que se está empezando a volar, y ahora ustedes no van a poder distinguir si está hablando una persona o si no está volviendo por acá. Entonces, yo puedo automatizar hoy día la gestión de central de llamadas con ese tipo de soluciones. Eso no significa que deja de ser una capacidad. Sigue siendo una capacidad, simplemente administrada con una tecnología diferente. Y finalmente, las capacidades de negocio son de mucho valor cuando se incorporan en una visión más amplia del ecosistema de una empresa. Cuando ustedes encuentran un mapa de capacidades, es porque ustedes dicen, yo debería... en un futuro tener todas estas capacidades funcionando de manera buena, óptima. Pero qué pasa cuando no encuentran qué capacidades ustedes o no las tienen, o simplemente no funcionan bien. Entonces, es una manera de verlos. Este es vos, ¿eh? ¿Qué les ha pasado, por ejemplo, hoy día a las empresas? Hay una ley que salió hace poco, salió el año pasado, y ahora se va reglamentando, o naciste en el Perú, y se mueran con sol. Cabe que las empresas, las AFP, según ustedes ya tienen la experiencia de trabajar, las AFP hoy día forman parte de cómo, digamos, resguardar, si quieres, tu retiro, ¿no? En el momento de que tú te jubilas, las AFP lo que se encargan es, obviamente, parte de tu sueldo, capitaliza, y después lo empiezan a trabajar a lo largo de los años. Como un instrumento financiero. Veanlo así. ¿Quién es un pro? ¿Cómo se puede mejorar o no? Hay muchas cosas que se han dicho. Pero ya es tema obligatorio. O sea, o tienes el sistema privado o tienes el sistema público. El privado creo que es mucho mejor. O la carta de la AFP es mucho mejor que el público. Pero hay una cosa interesante. ¿Qué sucede ahora? Y eso es una cosa que si quieren pueden leerlo en noticias. ¿Qué están haciendo las AFPs? Porque cada vez le están borriendo más dinero. Las pruebas ya creo que van por el noveno retiro. Están haciendo de... Bueno, lo que ha sucedido es que esta ley lo que dice es que los autoriza para que ellos también se vuelvan empresas asentadas. ¿Por qué? ¿Qué sucedía? Por ejemplo, yo empezaba en mi vida colaborador, empleado y a partir de los 21 años empecé a aportar a la empresa. Cuando tenga 65, pues con 30 años de dinero es muy probable que se haya ocupado o aplicado. de más largo plazo. Y ese dinero, una vez que se jubila a una persona, ya se ve la entrega. No se lo puede quedar, porque ya cumplió su tiempo. ¿Quién cree que se obtuvo ese dinero? ¿Ese empresa financiera? ¿Un banco? ¿O una empresa aseguradora? ¿Por qué la gente se va más a una empresa aseguradora? Porque la empresa aseguradora tiene una forma de crearse. Dame ese dinero y un solo en el que te doy ese dinero. ¿Votas mensuales? Lo hago obviamente crecer, le entrego el dinero de forma muy alta. Y aparte te doy un seguro de salud. Porque a esta edad vas a tener muchas dolencias. Y yo te voy a cubrir todas esas dolencias porque de insegureza no te voy a hacer. Así es como que ven en un cómodo. Que es muy atractivo a la persona justamente de esa edad. Y por para decirlo si somos una vez en día con algunos problemas o enfermedades ya preexistentes. Entonces mira que dice ese paper que leía, es como que la EPP trabaja todo el dinero durante muchos años, obviamente van a, pero al final de ese periodo viene alguien y le quita todo su trabajo, que es asegurado, que va a acompañar hasta la muerte a esa persona. Si una persona vive desde años más, 20 años más, un año más, no interesa, pero ese es el que se queda con la última, con la última. La última es inversión de cien. Justo y justo, no lo sé, pero ahora con esta ley, lo que están diciendo los EPS, tú también puedes ser asegurador y tú también puedes ofrecer ese servicio. Entonces, ¿qué quiere decir? Que prolongas más la administración de tu dinero. Obviamente, si tú lo decís, también puedes retirar tu dinero. No es obligatorio de todos los 55 años que tú permaneces ahí. Pero creo que les da un argumento más, ¿no? Entonces, ¿por qué les decía eso? Si la CFP se quiere comparar con ese servicio financiero, ¿qué tienen que tener ahora? Entonces tienen que comparar la capacidad de gestionar seguros previsionales. Esa capacidad no la tienen ahora y ahora la tienen que tener. Igual, si ustedes van a las cajas rurales, las cajas rurales suelen con ser iniciosas de tarjeta. de crédito, porque es la forma como los bancos más ganan dinero. Las tarjetas de crédito tienen una tasa de interés de dos dígitos. Estamos hablando de arriba del 30% o del 50%. Ni su tasa de interés. O sea, un P por Q, ¿dónde están ganando más dinero? Las tarjetas de crédito, los bancos. Entonces, ¿qué quiere decir eso? Que si una caja rural pudiera emitir una tarjeta de crédito, podría también tener esa rentabilidad. Pero, ¿qué sucede? No hay todavía la recomendación para que las cartas puedan emitir. Pero en su big picture, en su marca de capacidades, las pymes, las cajas rurales ponen, quiero emitir tarjetas de crédito. Es una capacidad que tu empresa financiera quisiera tener. Pero ya no la adquieren. Entonces, por eso es que esas capacidades de negocio les van a dar una idea hacia dónde puedo ir. Esto es los niveles. Cuando yo explico esto y hablo de acá de tres niveles, piensen en el mapa de procesos. ¿Cómo es un mapa de procesos? Macro de procesos, procesos y procesos. Aquí me pueden explicar por qué crearon tres clasificaciones en el mapa de procesos. ¿Cuál fue la idea? ¿Por qué macro, micro, macro, procesos y procesos? Es lo que quieren hacer finalmente. ¿Se han visto macro de procesos? ¿Por qué existe esa clasificación? ¿Qué es lo que finalmente quieren hacer ahí? Porque el mapa de capacidades ha tomado lo mismo del mapa de procesos. Finalmente, ¿qué es lo que está buscando? Está buscando poder simplificar conceptos, agruparlos, para que su explicación sea más entendida. Cuando usted ve un mapa de procesos y agrupa algo, ¿qué está diciendo? Yo creo tres niveles y a cada nivel estoy dando una conceptualización. Es como un nivel macro. El segundo, agrupador. Y el tercero, es el que tiene las capacidades de negocio, con las cuales seguro yo voy a empezar a hacer mis cruces, a empezar a hacer mi análisis. Acá tenemos algunos ejemplos. Por ejemplo, la capacidad de recruitment, management. Acá tenemos toda la información del vendor, del fabricante. Y acá, por ejemplo, todo el tema del producto. Si queremos verlo, este es el nivel foundation, este es el nivel que le llamamos group, agrupador, y este es el nivel que es el más detallado que le llaman el business. Acá que están hablando de capacidades, por ejemplo, puedo adicionar información de un fabricante, puedo actualizar información. ¿Qué es esto? El famoso CRUD. El CRUD, que puedo crear, puedo consultar, puedo actualizar, puedo dar de baja. Es una estructura que me permite decidir qué es lo que puedo ser capaz de hacer. A través de tres niveles, para que podamos, obviamente, luego, tener un mejor ejemplo. Este mapa de capacidades es más orientado a un tema de niveles. Habla, por ejemplo, y este es muy parecido a un mapa estratégico, de lo que da en dirección. Soporte. ¿Soporte a qué? A toda esa parte que es lo que es, generalmente, el core. Por ejemplo, acá hablan, gestión de clientes, gestión de productos, gestión de las cuentas, todo el tema de relacionamiento, todo el tema de distribución de canales. Estoy hablando de capacidades que me ayudan a generar, por eso hablo de mi core business. Y acá abajo, hay ventas que son pros, temas legales, temas, por ejemplo, de gestión de recursos humanos, temas, por ejemplo, de inclusive gestión de tecnología. Este es un ejemplo más real. Esto, por ejemplo, es un ejemplo de BIAN. El BIAN es el modelo de referencia de industria para todos los servicios financieros. Y aquí, por ejemplo, el BIAN te habla de que los foundation, los niveles macro son cinco. Canales, relación con el cliente, operaciones de ejecución, dirección al negocio y soporte al negocio. Ojo que lo que propone el BIAN... no se puede extrapolar a los demás nulos, ¿sabes? Yo no podría hacer el de retail con el de Vian, por ejemplo. No puedo mezclarlos. No mezclo papás con camotes, te lo he dicho. Este Vian, esto aplica para servicios financieros. Así como, por ejemplo, existe uno para todo el tema educativo. Así como existe para el tema de telecomunicaciones, por ejemplo. Existe el hito. ¿Sí? Cada uno tiene un propio marco de trabajo. modelo de referencia, el mape de capacidad. Bueno, en el día, los canales. Hay una cosa que seguro ya vamos a ser más referente cuando veamos los casos como son. Canales digitales. Canales que realmente interactúan por nuestros clientes. Canales de por servicio. Por ejemplo, abrir un cajero, un ATM, y enseñar, por ejemplo, a hacer tu identificación. A nivel de relación con el cliente, toda la parte de engagement, por ejemplo, toda la parte de configuración de productos, de pricing, tarifas, toda la parte, por ejemplo, de propiamente la parte de servicios o beneficios, la parte, por ejemplo, de campaña, está dentro de la parte de marketing. Y así, si vemos acá, tenemos un desglose. que el BIAN propone para lo que es una industria de servicios financieros. Entonces, cuando yo hago mi análisis, ¿qué debería poder lograr? Hacer eso. Yo voy a impactar esto, esto y esto. Eso es lo que quiero que me guste la misma capacidad. Según el proceso de negocio que ustedes están abordando, ¿qué capacidades son las que yo he identificado que voy a revisar, que puedo impactar? Eso es lo interesante de hacer este ejercicio. Si ustedes lo dejan en blanco, es como que el mapa de capacidades no se vio de nada. Tienen que empezar a mapear donde están, por ejemplo, las capacidades que ustedes van a afectar producto del proceso que ustedes están abordando. Bien, ¿preguntas hasta acá? ¿Estamos? ¿Por qué enseñar a entrar a ver el nivel 2? Donde hablan... Es como hacerle un doble check. A toda la parte, por ejemplo, de canales digitales. Si quiero saber el nivel, acá hablan de canal mobile, canal web. Lo que les decía, ¿no? Un ATM, un kiosco, una agencia. Y en capacidades específicas empiezan a hacer todo, por ejemplo, lo que está... No existe ahorita un neobank acá en Perú. Y cuando digo agencia física es que no, ustedes no van a tener una agencia como BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC, BICNBC. es hacer una limpio, una business process of sourcing, de toda la parte de sus procesos, para que sean operados por otras empresas. No son otras palabras, yo soy la fachada, pero por atrás, ¿quién está? Hostal Interbank, Hostal BSP, Hostal UDA. Igual, es un negocio. ¿Qué tiene BSP? ¿Qué tiene Interbank? Pues tiene todo el presupuesto. Ahora ustedes dirán, aquí tenemos un solo de banda. No sé si existe hace muchos años. Es lo mismo que he hecho, por ejemplo, DirectV. DirectV ahorita está haciendo un servicio interno. ¿Usted cree que DirectV tiene su cable interno? Y nada. ¿Qué está haciendo otra vez? ¿Qué está haciendo otra vez? Entonces, ¿qué va a hacer este nuevo banco? Generalmente va a ser de otra empresa que va a operar todos los productos. Es muy difícil de intentarlo, simplemente hay que entender la estrategia y nuevos para que así obviamente podamos saber hacia dónde va. ¿Quién podría reconocer un nuevo banco? Bien, vamos a quedarnos aquí porque quiero que empecemos a trabajar este caso. Está en el capítulo 3. Vamos al capítulo 3. Vamos a ver qué dice acá. A ver, en el caso, es una empresa de retail que especifica su cadena de valor. Y aquí te dan los sistemas. Un detalle y los problemas. Y acá abajo ya nos están pidiendo hacer un diagrama. se represente la cadena de valor y obviamente los sistemas que estoy utilizando. Entonces, ¿cómo sería el diagrama? Y en base a la plantilla del informe que estoy pidiendo. Cuando digo cadena de valor, lo primero que tengo que hacer es plantear como primer nivel acá, la cadena de valor. Acá estará las etapas de esa cadena de valor. A partir de aquí empiezo a crear mi primera capa. aplicaciones entonces diré tengo mis aplicaciones de Chrome Office de Backoffice y acá tendré mi integración después acá abajo marcaré mi infraestructura pero fue lo interesante de esto es un diagrama donde se me ocurra yo voy a decir mi sistema está acá lo que intento es que ustedes lo que tienen que hacer, lo que deberían hacer es, esta etapa de esta cadena de valor, ¿cómo se soporta a través de si hay aplicaciones y hay aplicaciones y hay algún servicio de integración que conecte estas dos? ¿y sobre qué infraestructura? ¿qué es lo que tienen que hacer? aplicaciones divididas en estos tres en este caso nos va a ayudar a poder realizar eso, ok? entonces agrúpense en grupos de cuatro y trabajen esto de esta forma cadena de valor aplicaciones, pro, bank, integración y infraestructura en este caso les da bastantes detalles para que pongan más allá de acá dale listo, empezamos unos 20 minutos para poder trabajar esto Grupo de cuatro.
+31:57 Speaker 2: ¿Hace un grupo con ellos? Sí,
+32:00 Speaker 1: sí, sí.
+32:13 Speaker 2: ¿Qué haces? ¿Qué haces? ¿Dónde está el casco? ¿Quieres hacer una moja? ¿Quieres hacer una moja? no no no no no no no 19 minutos. 18. ¿Diste tu código? 7474.
+35:43 Speaker: Tu y yo, Ronnie. ¿Corrió? Sí. R-H-U-A-C-R. R-H-U-A-C-R. R
+35:51 Speaker 2: -H-U-A. Ah, U-A-C-R. C-R. C-R. Ah, U-A-C-R. Ajá. ¿Nos? H-U-A. R-U-A-C-R. ¿Así? Sí. Ya, nada más. ¿Dónde están? Ah, sí. ¿Cuál es tuyo? Gracias.
+37:06 Speaker: ¿Qué es esto? ¿Qué es esto? ¿Qué te dijo chat? ¿Qué te dijo chat? ¿Chat? Ajá. Pensaba que era... Pensaba que era... Pensaba que era... No era... From office... Back office...
+38:01 Speaker: Ya. Ya. ¿Quién se encarga de
+38:05 Speaker 2: la cadena de valor? ¿Ustedes dos? Rolly y... ¿Ustedes se encargan de la cadena de valor? ¿Los dos? Y yo contigo nos encargaron las capas. ¿De qué? Las capas. Las cuatro capas. Ahí están las capas. el perfume está ahí todo Bueno, el texto ya te lo dice todo. El texto ya te lo dice todo. Sí, porque eso te dice identificar las cuatro capas. Ya tengo mi capa. Adiós. Si terminamos rápido las capas, las ayudamos en la cadena de valor.
+39:54 Speaker: ¿Ah? Esas son las capas. Las capas.
+40:02 Speaker 2: Yo iba a hacer uno solo, porque... no sé. Jason, ¿tú vas a hacer capas o cadenas de balón? Esta es mi capa. No, el otro es otro caso.
+42:05 Speaker: La primera página, que está allá. Y eso. ¿Qué cosa?
+42:56 Speaker 2: Plataforma e-commerce, eso es uno de ellos. Plataforma de pago digital y marketing digital. Porque es donde va a interactuar con el cliente. Bueno, la parte de la campaña que acá está.
+43:26 Speaker 1: Las campañas tienen dos momentos. Una cosa es la planificación de la campaña, que es donde tú tienes un segmento objetivo de acuerdo a un producto que tú tienes. Esto lo voy a enviar a estas diez personas, dos seis personas, por correo, por WhatsApp, por allá. Ahí estás con la planificación de la campaña y has seleccionado el medio para hacer. Y otra cosa es la ejecución de la campaña. Si fuera ejecución de la campaña, es pronto.
+43:57 Speaker: La plataforma de marketing tiene un módulo que se ejecuta. Por acá sale el correo, por acá te vieron un asado. Pero eso habla de ti o habla más de la planificación. Más la
+44:12 Speaker 2: planificación. Entonces sería...
+45:20 Speaker: Gracias por ver el video. ¿Cómo?
+46:08 Speaker: Sí, eso es... Porque uno es
+46:21 Speaker 2: la cadena de valor y el otro es el C4. C4 y las cuatro capas.
+47:00 Speaker: ¿Y qué se supone que se hace en la página? Ay, pero ¿por qué me...? ¿Por qué pusiste eso?
+47:18 Speaker 2: ¿Por qué le cambiaste el nombre? ¿No tienes que respetar capa de negocio, sistema de información, después capa de datos, y después infraestructura?
+47:58 Speaker: Ok. Ya.
+48:06 Speaker 2: Es plataforma de e-commerce, plataforma de pagos digitales, menos plataforma de marketing digital porque esa es la parte de back-office. Al igual que el ERP.
+48:16 Speaker 1: ¿Plataforma de pagos digitales? Sí. Es así. Pero ese es un externo.
+48:21 Speaker 2: ¿Qué era? El profesor me dijo normal.
+48:25 Speaker 1: ¿Un servicio externo era algo de front-office, creo?
+48:28 Speaker 2: O sea, podemos actuarlo como front-office en este caso. Bueno, el profe no me corrigió. Ah, pero operando como un servicio externo. ¿Cómo es? Literalmente el front, lo que es
+49:07 Speaker 1: el apartado. ¿Debe estar orientado al cliente? ¿Para el cliente o como el cliente? O sea, el front office o sea plataforma de compras seriales. ¿Qué compras? Ah, ya. ¿Que permiten compras online? No, no, no. Eso es cierto. pero sería la parte visual que sería el portal web Gracias. no importa lo que es
+52:04 Speaker 2: ¿Dónde sacaste el corrector web pilar móvil? ¿Platáforma e-commerce? No es back-office, es from-office. ¿Listo?
+52:25 Speaker: Ah, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,
+52:33 Speaker 2: no, no, no, no, no, no, no, no, no, no, no, no, Raleigh, ¿por qué le pasaste desde...? Es que... ...sonarca pasa a un negocio... Y él lo cambió a... Es que el profesor, según él, dijo, from...
+52:57 Speaker 1: ...integración. Es que no estamos diferenciando entre integraciones, así. No estamos diferenciando entre... ...como en el primer trabajo, lo estamos haciendo así. Estamos haciendo negocio, estructura, datos y... La
+53:12 Speaker 2: pregunta es, ¿el negocio puede contener back office, from office?
+53:15 Speaker 1: No, eso sería ya los sistemas de información. Dentro del sistema de información se va a dividir entre
+53:21 Speaker 2: backoffice y promo. Y negocio entonces no
+53:24 Speaker 1: tocaría nada. El negocio solamente sería la descripción.
+53:35 Speaker 2: Básicamente entonces eso lo estaríamos abarcando en la parte del sistema de información.
+53:41 Speaker 1: Ah, ya.
+53:42 Speaker 2: Product. Integración.
+53:56 Speaker 1: Yo
+53:57 Speaker 2: confío. Yo no.
+54:16 Speaker 1: Es lo
+54:56 Speaker 2: que interactúa con... ¿Cómo se llama? Es
+55:01 Speaker 1: lo
+55:04 Speaker 2: que gestiona
+55:06 Speaker 1: detrás. ¿Para quién es? Sí.
+55:19 Speaker 2: ¿Cuánto le ha dado el profesor? Se ha pagado mi laptop. El profesor dijo, bueno, sí. Hoy dice plataforma marketing digital. pero si me estás pidiendo que lo ordenen en la cadena de valor no sé en qué orden más
+58:07 Speaker: Ya, vamos a ver más interactivo. Si ya lo tienen ya bostejado, van a salir de acá a la pizarra y van a plantear. Yo creo que la cadena de valor para todos ha quedado clarísima. Eso creo que no debe ser. Inclusive en el caso te lo dan de manera directa. Lo que hay que saber es cómo han planteado justamente esta división. Donde acá están las aplicaciones,
+59:33 Speaker: los problemas. Entonces aquí mencionaba que la cadena de valores estaba formada por
+59:53 Speaker 1: gestión comercial y marketing, después la venta, después pedidos y cumplimiento.
+  
