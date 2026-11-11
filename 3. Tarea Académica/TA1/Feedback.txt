@@ -1,0 +1,11 @@
+Capa de Arquitectura de Negocio (Business Architecture)
+
+Ausencia de Reglas de Negocio para Excepciones: No se especifican las reglas ni los umbrales de tolerancia comercial cuando un proveedor rechaza o modifica la fecha comprometida de entrega durante la negociación.
+
+Capa de Arquitectura de Aplicaciones e Integración (Application Architecture)
+
+Silos Comerciales vs. Logística: Se omite analizar cómo el módulo MM de SAP interactúa (o falla en interactuar) con las herramientas de pricing y promociones utilizadas por el equipo comercial durante el inicio del ciclo de compras.
+
+Capa de Arquitectura Tecnológica e Infraestructura (Technology Architecture)
+
+Falta de Detalle en Entornos Híbridos: No se evidencia el flujo de infraestructura entre la nube AWS (donde reside Magento) y el Data Center On-Premise para la extracción de datos históricos de venta.
